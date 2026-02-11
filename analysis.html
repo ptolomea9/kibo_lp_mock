@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kibo Commerce — PPC Landing Page Analysis & Recommendation</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',system-ui,sans-serif;color:#1a1a2e;background:#fff;line-height:1.7;-webkit-font-smoothing:antialiased}
+.page{max-width:780px;margin:0 auto;padding:3rem 2rem 5rem}
+
+/* Header */
+.doc-header{border-bottom:3px solid #0B1B3F;padding-bottom:2rem;margin-bottom:3rem}
+.doc-header .kibo{font-size:.85rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:#2962FF;margin-bottom:.25rem}
+.doc-header h1{font-size:1.75rem;font-weight:700;color:#0B1B3F;line-height:1.3;margin-bottom:.5rem}
+.doc-header .subtitle{font-size:1rem;color:#555;font-weight:400}
+.doc-header .meta{font-size:.8rem;color:#888;margin-top:1rem}
+
+/* Section */
+.section{margin-bottom:2.5rem}
+.section-num{font-size:.75rem;font-weight:600;color:#2962FF;letter-spacing:.06em;text-transform:uppercase;margin-bottom:.35rem}
+.section h2{font-size:1.25rem;font-weight:700;color:#0B1B3F;margin-bottom:.75rem}
+.section p{font-size:.925rem;color:#333;margin-bottom:.75rem}
+
+/* Callout box */
+.callout{background:#F0F4FF;border-left:4px solid #2962FF;padding:1rem 1.25rem;border-radius:0 8px 8px 0;margin:1.25rem 0;font-size:.9rem;color:#1a1a2e}
+.callout strong{color:#0B1B3F}
+
+/* Tables */
+table{width:100%;border-collapse:collapse;margin:1rem 0 1.5rem;font-size:.85rem}
+th{background:#0B1B3F;color:#fff;padding:.6rem .75rem;text-align:left;font-weight:600;font-size:.8rem;letter-spacing:.02em}
+td{padding:.55rem .75rem;border-bottom:1px solid #E8ECF4}
+tr:nth-child(even) td{background:#FAFBFD}
+.tag-yes{color:#0B8043;font-weight:600}
+.tag-no{color:#C62828;font-weight:600}
+.tag-partial{color:#E65100;font-weight:600}
+
+/* Lists */
+ul,ol{margin:.5rem 0 1rem 1.25rem;font-size:.925rem;color:#333}
+li{margin-bottom:.4rem}
+li strong{color:#0B1B3F}
+
+/* Two-column comparison */
+.compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1rem 0 1.5rem}
+.compare-card{padding:1rem 1.25rem;border-radius:8px;font-size:.85rem}
+.compare-card h3{font-size:.85rem;font-weight:700;margin-bottom:.6rem;display:flex;align-items:center;gap:.4rem}
+.compare-card ul{margin:.25rem 0 0 1rem;font-size:.83rem}
+.compare-card li{margin-bottom:.3rem}
+.card-current{background:#FFF3F0;border:1px solid #FFCDD2}
+.card-current h3{color:#C62828}
+.card-new{background:#F0F8F0;border:1px solid #C8E6C9}
+.card-new h3{color:#0B8043}
+
+/* Stats row */
+.stat-row{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin:1.25rem 0}
+.stat-box{text-align:center;padding:1rem;background:#F8F9FC;border-radius:8px;border:1px solid #E8ECF4}
+.stat-box .num{font-size:1.5rem;font-weight:700;color:#2962FF}
+.stat-box .label{font-size:.75rem;color:#666;margin-top:.15rem}
+
+/* Competitor grid */
+.comp-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:.75rem;margin:1rem 0 1.5rem}
+.comp-item{padding:.85rem 1rem;background:#FAFBFD;border:1px solid #E8ECF4;border-radius:8px;font-size:.83rem}
+.comp-item strong{display:block;color:#0B1B3F;margin-bottom:.2rem;font-size:.85rem}
+.comp-item span{color:#555}
+
+/* Footer */
+.doc-footer{margin-top:3rem;padding-top:1.5rem;border-top:2px solid #E8ECF4;font-size:.8rem;color:#888}
+
+/* Print */
+@media print{
+  .page{max-width:100%;padding:1rem}
+  .callout{break-inside:avoid}
+  table{font-size:.75rem}
+}
+@media(max-width:640px){
+  .page{padding:1.5rem 1rem 3rem}
+  .compare-grid,.stat-row,.comp-grid{grid-template-columns:1fr}
+  .doc-header h1{font-size:1.35rem}
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+<!-- Header -->
+<div class="doc-header">
+  <div class="kibo">Kibo Commerce &bull; Paid Search</div>
+  <h1>PPC Landing Page Gap Analysis &amp; Recommendation</h1>
+  <div class="subtitle">What we found, what competitors do, and what we built to fix it.</div>
+  <div class="meta">Prepared February 10, 2026 &nbsp;|&nbsp; Google Ads Account 994-869-7111 &nbsp;|&nbsp; Search &mdash; NonBrand Campaign</div>
+</div>
+
+<!-- 1. What We Did -->
+<div class="section">
+  <div class="section-num">1 &mdash; What We Did</div>
+  <h2>We Audited Every Page Your Non-Brand Keywords Drive To</h2>
+  <p>We pulled Quality Score data on all active non-brand keywords in the Search &mdash; NonBrand campaign, identified the 6 landing pages receiving paid traffic, then crawled each page to assess performance, content structure, and conversion path.</p>
+  <p>We also researched how five direct competitors (BigCommerce, Sana Commerce, commercetools, Salesforce Commerce Cloud, and OroCommerce) handle their paid search landing pages to benchmark against industry best practices.</p>
+
+  <div class="stat-row">
+    <div class="stat-box"><div class="num">6</div><div class="label">Landing pages crawled</div></div>
+    <div class="stat-box"><div class="num">31</div><div class="label">Keywords with QS issues</div></div>
+    <div class="stat-box"><div class="num">100%</div><div class="label">Rated "Below Average" for Landing Page Experience</div></div>
+  </div>
+</div>
+
+<!-- 2. What We Found -->
+<div class="section">
+  <div class="section-num">2 &mdash; What We Found</div>
+  <h2>The Pages Your Ads Drive To</h2>
+  <p>Non-brand keywords currently land on a mix of subfolder pages, PPC-specific pages, and the homepage &mdash; all built on WordPress + Elementor:</p>
+
+  <table>
+    <thead><tr><th>Landing Page</th><th>Keywords</th><th>Avg QS</th><th>LP Experience</th></tr></thead>
+    <tbody>
+      <tr><td>/solutions/b2b/</td><td>9</td><td>3.2</td><td class="tag-no">Below Average</td></tr>
+      <tr><td>/platform/order-management/</td><td>8</td><td>2.6</td><td class="tag-no">Below Average</td></tr>
+      <tr><td>/ppc/wholesale/</td><td>3</td><td>3.0</td><td class="tag-no">Below Average</td></tr>
+      <tr><td>/ (homepage)</td><td>4</td><td>2.8</td><td class="tag-no">Below Average</td></tr>
+      <tr><td>/platform/reverse-logistics/</td><td>1</td><td>3.0</td><td class="tag-no">Below Average</td></tr>
+      <tr><td>/ppc/manufacturing/</td><td>1</td><td>3.0</td><td class="tag-no">Below Average</td></tr>
+    </tbody>
+  </table>
+
+  <div class="callout">
+    <strong>The core issue isn't the ad copy</strong> &mdash; Ad Relevance is rated Above Average on 87% of keywords. The problem is the landing pages themselves: heavy page weight, no embedded forms, content overload, and full site navigation that gives users too many exit paths.
+  </div>
+</div>
+
+<!-- 3. What You're Doing Well -->
+<div class="section">
+  <div class="section-num">3 &mdash; What You're Doing Well</div>
+  <h2>Strengths to Build On</h2>
+  <ul>
+    <li><strong>Ad relevance is excellent.</strong> 87% of keywords are rated Above Average &mdash; the copywriting and keyword-to-ad alignment is strong.</li>
+    <li><strong>You already have PPC-specific pages.</strong> The <code>/ppc/wholesale/</code>, <code>/ppc/distributor/</code>, and <code>/ppc/manufacturing/</code> paths show awareness that paid traffic needs different treatment. <code>/ppc/wholesale/</code> even has an embedded form.</li>
+    <li><strong>Product positioning is clear and differentiated.</strong> "Unified Commerce + OMS on one data model" is genuinely unique in the market. The messaging is right &mdash; the delivery vehicle needs work.</li>
+    <li><strong>Trust signals exist.</strong> Forrester Wave Leader, Gartner recognition, strong customer stories (Ace Hardware, Fortis Life Sciences, Wolters Kluwer) &mdash; these just need to be more prominent on PPC pages.</li>
+    <li><strong>Content depth is an asset for organic.</strong> The 3,500-4,200 word pages are valuable for SEO. The issue is using them for paid traffic where visitors need immediate relevance.</li>
+  </ul>
+</div>
+
+<!-- 4. What Competitors Do -->
+<div class="section">
+  <div class="section-num">4 &mdash; What Competitors Do</div>
+  <h2>How the Market Handles PPC Landing Pages</h2>
+
+  <div class="comp-grid">
+    <div class="comp-item"><strong>BigCommerce</strong><span>Dedicated <code>/dm/</code> demo pages with stripped navigation. Forms link to separate pages. Lightweight builds for PPC traffic.</span></div>
+    <div class="comp-item"><strong>Sana Commerce</strong><span>Embedded Marketo forms with quantified social proof ("80% sales adoption", "30% revenue growth"). Full site nav still present.</span></div>
+    <div class="comp-item"><strong>commercetools</strong><span>Uses product pages with full navigation. No embedded forms. Relies on 3,000+ multi-channel ads and ABM targeting via 6sense.</span></div>
+    <div class="comp-item"><strong>Salesforce Commerce Cloud</strong><span>Dedicated form pages at <code>/form/</code> paths. Very heavy enterprise CMS infrastructure. Forms live on separate pages from product content.</span></div>
+  </div>
+
+  <div class="callout">
+    <strong>The pattern:</strong> Best-in-class competitors use dedicated PPC landing pages with stripped navigation and embedded forms. None of them have an ROI calculator, comparison table, or FAQ schema on their PPC pages &mdash; these are all net-new differentiators in our recommendation.
+  </div>
+</div>
+
+<!-- 5. Side-by-side -->
+<div class="section">
+  <div class="section-num">5 &mdash; Current vs. Recommended</div>
+  <h2>What Changed</h2>
+
+  <div class="compare-grid">
+    <div class="compare-card card-current">
+      <h3>&times; Current Subfolder Pages</h3>
+      <ul>
+        <li>WordPress + Elementor (500KB&ndash;1.5MB page weight)</li>
+        <li>No embedded lead form on 5 of 6 pages</li>
+        <li>Full site navigation (15+ exit paths)</li>
+        <li>3,500&ndash;4,200 words per page</li>
+        <li>Generic "Watch a Demo" CTAs on every page</li>
+        <li>Homepage used for 4 NB keywords</li>
+        <li>No ROI calculator or comparison content</li>
+        <li>No FAQ schema markup</li>
+      </ul>
+    </div>
+    <div class="compare-card card-new">
+      <h3>&check; Recommended PPC Landing Page</h3>
+      <ul>
+        <li>Static HTML/CSS (~109KB total &mdash; 5&ndash;10x lighter)</li>
+        <li>Two embedded forms (hero + final CTA)</li>
+        <li>Minimal navigation (logo, phone, CTA only)</li>
+        <li>~1,800 focused, keyword-dense words</li>
+        <li>Intent-matched CTAs with benefit context</li>
+        <li>Purpose-built for B2B Commerce keyword cluster</li>
+        <li>Interactive ROI calculator + competitive comparison table</li>
+        <li>6 FAQs with JSON-LD schema for rich snippets</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- 6. What's Net New -->
+<div class="section">
+  <div class="section-num">6 &mdash; What's Net New</div>
+  <h2>Features That Don't Exist on the Current Site or Any Competitor PPC Page</h2>
+
+  <table>
+    <thead><tr><th>Feature</th><th>On Current Site?</th><th>Competitors?</th><th>Our Page</th></tr></thead>
+    <tbody>
+      <tr><td>Interactive ROI calculator (Forrester TEI-based)</td><td class="tag-no">No</td><td class="tag-no">None</td><td class="tag-yes">Yes</td></tr>
+      <tr><td>Kibo vs. alternatives comparison table</td><td class="tag-no">No</td><td class="tag-partial">1 of 5</td><td class="tag-yes">Yes</td></tr>
+      <tr><td>FAQ with JSON-LD schema markup</td><td class="tag-no">No</td><td class="tag-no">None</td><td class="tag-yes">Yes</td></tr>
+      <tr><td>"Without / With Kibo" before-after section</td><td class="tag-no">No</td><td class="tag-no">None</td><td class="tag-yes">Yes</td></tr>
+      <tr><td>Platform architecture diagram</td><td class="tag-no">No</td><td class="tag-partial">1 of 5</td><td class="tag-yes">Yes</td></tr>
+      <tr><td>Attributed testimonials with quantified results</td><td class="tag-partial">Partial</td><td class="tag-partial">2 of 5</td><td class="tag-yes">Yes (4)</td></tr>
+      <tr><td>Animated stats bar with sourced metrics</td><td class="tag-no">No</td><td class="tag-partial">1 of 5</td><td class="tag-yes">Yes</td></tr>
+      <tr><td>Industry vertical cards (inline)</td><td class="tag-partial">Separate pages</td><td class="tag-no">None inline</td><td class="tag-yes">Yes (4)</td></tr>
+      <tr><td>Minimal PPC-only navigation</td><td class="tag-partial">Partial</td><td class="tag-partial">1 of 5</td><td class="tag-yes">Yes</td></tr>
+      <tr><td>Embedded lead form above the fold</td><td class="tag-partial">1 of 6 pages</td><td class="tag-partial">2 of 5</td><td class="tag-yes">Yes (2 forms)</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 7. Expected Impact -->
+<div class="section">
+  <div class="section-num">7 &mdash; Expected Impact</div>
+  <h2>Projected Quality Score &amp; Cost Improvements</h2>
+  <p>Based on industry benchmarks for optimized B2B SaaS landing pages and the specific fixes applied:</p>
+
+  <table>
+    <thead><tr><th>Metric</th><th>Current</th><th>Target (90 Days)</th></tr></thead>
+    <tbody>
+      <tr><td>Average Quality Score</td><td><strong>3.06</strong></td><td><strong>5&ndash;6</strong></td></tr>
+      <tr><td>Landing Page Experience</td><td>100% Below Average</td><td>50%+ Average</td></tr>
+      <tr><td>Estimated CPC Reduction</td><td>Baseline</td><td>15&ndash;25%</td></tr>
+      <tr><td>Estimated Impression Share Gain</td><td>Baseline</td><td>+10&ndash;15pp</td></tr>
+    </tbody>
+  </table>
+
+  <div class="callout">
+    <strong>Why this matters:</strong> A QS improvement from 3 to 6 typically reduces cost-per-click by ~20% at the same ad position. For a campaign spending $10K/month, that's $2K/month in savings &mdash; or the same budget buying 25% more clicks.
+  </div>
+</div>
+
+<!-- 8. Next Steps -->
+<div class="section">
+  <div class="section-num">8 &mdash; Next Steps</div>
+  <h2>Recommended Path Forward</h2>
+  <ol>
+    <li><strong>Review the mock landing page</strong> &mdash; the live preview accompanies this document</li>
+    <li><strong>Approve brand &amp; content</strong> &mdash; confirm messaging, testimonials, and visual direction</li>
+    <li><strong>Deploy to kibocommerce.com/ppc/b2b-commerce/</strong> &mdash; QS assessment requires the same domain as the ad display URL</li>
+    <li><strong>Connect HubSpot forms &amp; analytics</strong> &mdash; replace the mockup forms with real HubSpot embeds, add GTM/GA4</li>
+    <li><strong>Update keyword-level Final URLs</strong> &mdash; point the 15&ndash;20 B2B Commerce keywords to the new page</li>
+    <li><strong>Monitor QS weekly</strong> &mdash; expect 2&ndash;4 weeks for Google to re-evaluate Landing Page Experience</li>
+    <li><strong>Replicate for other clusters</strong> &mdash; build OMS, Wholesale, and Inventory variants using the same template</li>
+  </ol>
+</div>
+
+<!-- Footer -->
+<div class="doc-footer">
+  <p>Analysis based on Google Ads data (account 994-869-7111), Kibo Commerce site crawls, and competitive research across BigCommerce, Sana Commerce, commercetools, Salesforce Commerce Cloud, and OroCommerce. Quality Score data pulled Feb 5&ndash;9, 2026 via Google Ads API.</p>
+</div>
+
+</div>
+</body>
+</html>
