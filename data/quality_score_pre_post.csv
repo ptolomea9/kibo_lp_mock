@@ -1,0 +1,33 @@
+keyword,match_type,ad_group,has_keyword_url,final_url,current_qs,current_landing_page_exp,current_ad_relevance,current_expected_ctr,historical_qs,historical_landing_page_exp,historical_ad_relevance,historical_expected_ctr,historical_impressions,recent_impressions,recent_clicks,qs_change
+ecommerce ai search,BROAD,NB - General B2B,Yes,https://kibocommerce.com/platform/ai-search/,7,BELOW_AVERAGE,ABOVE_AVERAGE,ABOVE_AVERAGE,N/A (new),N/A,N/A,N/A,0,295,9,NEW
+wholesale ecommerce platform,EXACT,NB - Wholesalers,Yes,https://kibocommerce.com/ppc/wholesale/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,426,46,5,0
+rma software,BROAD,OMS,Yes,https://kibocommerce.com/platform/reverse-logistics/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,N/A (new),N/A,N/A,N/A,0,40,2,NEW
+b2b trade portal,EXACT,NB - General B2B,Yes,https://kibocommerce.com/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,585,27,2,0
+b2b commerce platform,EXACT,NB - General B2B,Yes,https://kibocommerce.com/solutions/b2b/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,1792,17,1,0
+best order management systems,EXACT,OMS,Yes,https://kibocommerce.com/platform/order-management/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,1466,17,0,0
+b2b commerce software,EXACT,NB - General B2B,Yes,https://kibocommerce.com/solutions/b2b/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,563,14,0,0
+b2b ecommerce platforms,PHRASE,NB - General B2B,No,,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,557,13,0,0
+b2b ecommerce platforms,EXACT,NB - General B2B,Yes,https://kibocommerce.com/solutions/b2b/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,557,13,0,0
+best b2b ecommerce platforms,EXACT,NB - General B2B,Yes,https://kibocommerce.com/solutions/b2b/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,607,11,1,0
+digital commerce solutions,EXACT,NB - General B2B,Yes,https://kibocommerce.com/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,397,8,0,0
+b2b order portal,EXACT,NB - General B2B,Yes,https://kibocommerce.com/solutions/b2b/,5,BELOW_AVERAGE,ABOVE_AVERAGE,AVERAGE,5,Below average,Above average,Average,382,5,1,0
+ecommerce oms,EXACT,OMS,Yes,https://kibocommerce.com/platform/order-management/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,272,5,0,0
+order management system ecommerce,EXACT,OMS,Yes,https://kibocommerce.com/platform/order-management/,2,BELOW_AVERAGE,AVERAGE,BELOW_AVERAGE,2,Below average,Average,Below average,153,4,0,0
+multi location inventory management,EXACT,NB - General B2B,Yes,https://kibocommerce.com/platform/inventory-visibility/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,185,2,0,0
+unified commerce platform,EXACT,NB - General B2B,Yes,https://kibocommerce.com/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,275,2,0,0
+b2b order management system,EXACT,OMS,Yes,https://kibocommerce.com/platform/order-management/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,180,2,0,0
+b2b vendor portal,EXACT,NB - General B2B,Yes,https://kibocommerce.com/solutions/b2b/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,93,1,0,0
+distributor inventory management,EXACT,NB - Distributors,Yes,https://kibocommerce.com/platform/inventory-visibility/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,37,0,0,0
+b2b buyer portal,EXACT,NB - General B2B,Yes,https://kibocommerce.com/solutions/b2b/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,9,0,0,0
+b2b dealer portal,EXACT,NB - General B2B,Yes,https://kibocommerce.com/,2,BELOW_AVERAGE,AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,14,0,0,-1
+b2b ecommerce services,PHRASE,NB - General B2B,No,,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,125,0,0,0
+b2b ecommerce services,EXACT,NB - General B2B,Yes,https://kibocommerce.com/solutions/b2b/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,125,0,0,0
+b2b ecommerce solution,PHRASE,NB - General B2B,No,,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,82,0,0,0
+b2b ecommerce solution,EXACT,NB - General B2B,Yes,https://kibocommerce.com/solutions/b2b/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,82,0,0,0
+manufacturer ecommerce platform,EXACT,NB - Manufacturers,Yes,https://kibocommerce.com/ppc/manufacturing/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,64,0,0,0
+manufacturing order management system,EXACT,NB - Manufacturers,Yes,https://kibocommerce.com/platform/order-management/,2,BELOW_AVERAGE,AVERAGE,BELOW_AVERAGE,2,Below average,Average,Below average,66,0,0,0
+wholesale b2b portal,EXACT,NB - Wholesalers,Yes,https://kibocommerce.com/ppc/wholesale/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,426,0,0,0
+wholesale distribution platform,EXACT,NB - Wholesalers,Yes,https://kibocommerce.com/ppc/wholesale/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,123,0,0,0
+wholesale order management system,EXACT,NB - Wholesalers,Yes,https://kibocommerce.com/platform/order-management/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,90,0,0,0
+enterprise order management system,EXACT,OMS,Yes,https://kibocommerce.com/platform/order-management/,2,BELOW_AVERAGE,AVERAGE,BELOW_AVERAGE,2,Below average,Average,Below average,450,0,0,0
+global order management system,EXACT,OMS,Yes,https://kibocommerce.com/platform/order-management/,3,BELOW_AVERAGE,ABOVE_AVERAGE,BELOW_AVERAGE,3,Below average,Above average,Below average,41,0,0,0

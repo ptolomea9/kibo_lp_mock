@@ -1,0 +1,454 @@
+priority,negative_keyword,match_type,level,target_campaign,target_ad_group,reason,wasted_spend,clicks
+MEDIUM,k i b o,PHRASE,CAMPAIGN,Search - Brand,,Non-brand term appearing in Brand campaign,0.0,0
+MEDIUM,k i b o,PHRASE,CAMPAIGN,Search - Brand,,Non-brand term appearing in Brand campaign,0.0,0
+LOW,b2b wholesale,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,791.02,39
+LOW,b2b ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,564.44,12
+LOW,b2b platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,493.66,11
+LOW,b2b marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,440.14,9
+LOW,b2b marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,439.03,11
+LOW,b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,395.79,4
+LOW,best b2b websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,213.74,5
+LOW,wholesale order management system,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,211.38,1
+LOW,b2b marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,197.87,2
+LOW,wholesale b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,188.45,7
+LOW,distributed order management systems,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,177.89,1
+LOW,b2b wholesale ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,173.22,1
+LOW,b2b order management,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,148.12,2
+LOW,plataforma b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,146.25,2
+LOW,b2b e commerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,132.21,2
+LOW,b2b portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,128.58,4
+LOW,b2b online marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,125.24,1
+LOW,b2b ordering system,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,123.58,1
+LOW,b2b wholesalers,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,113.19,4
+LOW,b2b ecommerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,113.12,1
+LOW,wholesale order management,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,112.24,1
+LOW,b2b software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,109.79,4
+LOW,b2b platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,100.89,2
+LOW,unified commerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B Other Keywords instead of NB - General B2B,95.8,2
+LOW,b2b wholesale platform,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,94.72,1
+LOW,wholesale inventory management software,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,91.3,1
+LOW,b2b wholesale marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,90.65,4
+LOW,b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,85.43,1
+LOW,b2b ecommerce services,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,78.55,1
+LOW,b2b ecommerce world,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,78.5,1
+LOW,b2b wholesale marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,76.64,3
+LOW,b2b websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,76.25,2
+LOW,multi location warehouse management,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to OMS instead of NB - General B2B,72.31,1
+LOW,b2b order management system,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,72.23,1
+LOW,b2b ordering system,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,70.49,1
+LOW,b2b ecommerce solutions,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,68.74,1
+LOW,marketplace b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,62.95,1
+LOW,unified commerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B Other Keywords instead of NB - General B2B,61.4,1
+LOW,best b2b wholesale websites,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,57.96,1
+LOW,b2b ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,56.75,1
+LOW,inventory management multiple locations,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to OMS instead of NB - General B2B,54.25,1
+LOW,top 10 b2b ecommerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,53.91,1
+LOW,b2b service platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,53.21,1
+LOW,b2b wholesale websites,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,52.99,3
+LOW,wholesale ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,50.05,3
+LOW,b2b portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,46.67,1
+LOW,marketplaces b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,45.02,1
+LOW,top b2b wholesale websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,44.97,2
+LOW,b2b systems,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,42.26,2
+LOW,b2b trading platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,42.05,1
+LOW,b2b services marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,39.39,1
+LOW,vendor owned inventory management,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,38.4,1
+LOW,b2b it platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,38.09,1
+LOW,b2b manufacturing marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to B2B EComm instead of NB - Manufacturers,36.37,1
+LOW,b2b oms,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to B2B EComm instead of NB - Manufacturers,36.23,1
+LOW,b2b marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,34.94,2
+LOW,b2b business websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,33.8,1
+LOW,b2b online ordering system,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,33.13,1
+LOW,b2b e commerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,32.71,1
+LOW,b2b ordering platform,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,32.18,1
+LOW,b2b online ordering system,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,31.96,1
+LOW,b2b websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,31.61,1
+LOW,b2b wholesale platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,31.29,1
+LOW,b2b software products,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,28.28,1
+LOW,b2b platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,26.54,1
+LOW,b2b ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,25.62,1
+LOW,b2b marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,21.75,1
+LOW,online b2b marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,21.5,1
+LOW,b2b distributors ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to B2B EComm instead of NB - Distributors,21.36,1
+LOW,b2b portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,19.44,1
+LOW,b2b wholesale marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,16.8,1
+LOW,b2b shop online,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,16.54,1
+LOW,top b2b ecommerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,13.88,1
+LOW,b2b ecommerce company,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,9.72,1
+LOW,top b2b wholesale websites,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,9.23,1
+LOW,b2b oms,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b order management software,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b order platform,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b order software,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b order taking software,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b ordering software,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b ordering systems,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b sales management system,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b sales order management software,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b order management,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b order management software,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b order taking software,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b ordering platform,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,b2b order management software,PHRASE,AD_GROUP,Search - NonBrand,OMS,Should route to B2B EComm instead of OMS,0.0,0
+LOW,manufacturing order management,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to OMS instead of NB - Manufacturers,0.0,0
+LOW,manufacturing order management software,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to OMS instead of NB - Manufacturers,0.0,0
+LOW,manufacturing order management system,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to OMS instead of NB - Manufacturers,0.0,0
+LOW,oms in manufacturing,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to OMS instead of NB - Manufacturers,0.0,0
+LOW,order management software for manufacturing,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to OMS instead of NB - Manufacturers,0.0,0
+LOW,order management system for manufacturing,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to OMS instead of NB - Manufacturers,0.0,0
+LOW,b2b ecommerce for manufacturers,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to B2B EComm instead of NB - Manufacturers,0.0,0
+LOW,manufacturer b2b ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to B2B EComm instead of NB - Manufacturers,0.0,0
+LOW,b2b order management,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to B2B EComm instead of NB - Manufacturers,0.0,0
+LOW,b2b order management software,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to B2B EComm instead of NB - Manufacturers,0.0,0
+LOW,b2b order software,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to B2B EComm instead of NB - Manufacturers,0.0,0
+LOW,b2b order taking software,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to B2B EComm instead of NB - Manufacturers,0.0,0
+LOW,b2b ordering platform,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to B2B EComm instead of NB - Manufacturers,0.0,0
+LOW,b2b ordering system,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to B2B EComm instead of NB - Manufacturers,0.0,0
+LOW,b2b sales order management software,PHRASE,AD_GROUP,Search - NonBrand,NB - Manufacturers,Should route to B2B EComm instead of NB - Manufacturers,0.0,0
+LOW,bulk inventory management,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,inventory management for wholesale,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,inventory management software for wholesale,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,inventory management system wholesale,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,supplier inventory management system,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,wholesale inventory management,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,wholesale order management software,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,ecommerce platform for distributors,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to NB - Distributors instead of NB - Wholesalers,0.0,0
+LOW,b2b wholesale platform,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b wholesale platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,best wholesale ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,ecommerce platform for distributors,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to NB - Distributors instead of NB - Wholesalers,0.0,0
+LOW,wholesale b2b platform,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,wholesale ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,wholesale ecommerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,wholesale ecommerce software,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,inventory management vendor,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,inventory management vendors,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,vendor inventory management,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,vendor inventory management software,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,vendor inventory management system,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,vmi inventory management,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b wholesale hub,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,bss b2b wholesale solution,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,distributor order management system,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,wholesale distributor software,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to NB - Distributors instead of NB - Wholesalers,0.0,0
+LOW,wholesale inventory management software,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to OMS instead of NB - Wholesalers,0.0,0
+LOW,b2b ecommerce portal,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b marketplace online,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b online portal,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b sales portal,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b shopping portal,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b supplier portal,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b web portal,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b wholesale ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b wholesaler,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,online b2b marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,online b2b marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,online b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,online b2b suppliers,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,wholesale b2b marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,wholesale b2b suppliers,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b wholesale software,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,software for wholesale distributors,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to NB - Distributors instead of NB - Wholesalers,0.0,0
+LOW,wholesale distributor software,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to NB - Distributors instead of NB - Wholesalers,0.0,0
+LOW,wholesale ecommerce software,PHRASE,AD_GROUP,Search - NonBrand,NB - Wholesalers,Should route to B2B EComm instead of NB - Wholesalers,0.0,0
+LOW,b2b business portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b electronic marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b it platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketplace websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marktplatz,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ordering portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b platform services,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b portaal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b purchasing platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b sales platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b service marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b trade marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b trade platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b trading platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b web platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b webstore,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,marketplaces b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,online b2b marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,plateforme b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,portail b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,portal b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,trade b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,what is b2b portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b commerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce system,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce integration,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce software solutions,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce solution,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce webshop,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b onlineshop software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b ecommerce solution,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,solution b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b commerce software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b enterprise software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b portal software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b sales software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b software sales,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b software solutions,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b softwares,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b systems,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b wholesale software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,software b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,unified commerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B Other Keywords instead of NB - General B2B,0.0,0
+LOW,unified commerce protocol,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B Other Keywords instead of NB - General B2B,0.0,0
+LOW,unified commerce retail platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2C EComm instead of NB - General B2B,0.0,0
+LOW,unified commerce solutions,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B Other Keywords instead of NB - General B2B,0.0,0
+LOW,b2b commerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b commerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b commerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b commerce solution,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b commerce solutions,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b digital commerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e business,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce system,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce company,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce software solutions,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce store,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce system,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b electronic marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b en ligne,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b eshop,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b exchange platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b in ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b market platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketing place,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketing platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketplace platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketplace platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketplace software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketplace websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b networking platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online ordering platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online selling,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online services,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online shopping,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online store,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b onlineshop software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ordering platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b platform services,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b plattform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b procurement marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b purchasing platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b sales platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b seller platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b selling platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b service marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b service platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b side,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b system,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b trade marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b trade platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b webshop,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b wholesale ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b wholesale marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b wholesale platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b wholesale platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b wholesale websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b маркетплейсы,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b платформа,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best ecommerce for b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best ecommerce platform for b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best online b2b marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,e commerce b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,e commerce business to business b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,e commerce for b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,ecommerce b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,ecommerce for b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,marketplace b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,marketplaces b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,online b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,online b2b market,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,online b2b marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,online b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,online marketplace b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,plataformas b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,plateformes b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,platforms for b2b marketing,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,webshop b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,what are b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,what is a b2b ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,what is a b2b platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,what is b2b ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,what is b2b platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b dealer portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b best platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b commerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b sales platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b top websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b trade platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b company websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b ecommerce companies,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b ecommerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b ecommerce websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b product websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b service websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b software websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b websites in the world,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b wholesale platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best ecommerce for b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best ecommerce platform for b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best ecommerce platforms for b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best in class b2b websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best online b2b marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best platform for b2b marketing,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best platforms for b2b marketing,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,ecommerce b2b platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,great b2b websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,online b2b marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,the best b2b websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,top b2b ecommerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,top b2b marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,top b2b marketplaces in the world,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,top b2b websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,top b2b websites in the world,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b best platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b commerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce system,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce solutions,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce store,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce system,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce world,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b en ligne,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketing place,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketplace platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketplace platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b onlineshop software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ordering platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b retail platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b sales platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b side,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b trading platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b web shop,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b webshop,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b webstore,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b wholesale platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b ecommerce websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,best ecommerce platforms for b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,e commerce business to business b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,ecommerce b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,ecommerce for b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,global b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,marketplace b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,online b2b marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,online b2b marketplaces,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,plataforma b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,plataformas b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,plateforme b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,platforms for b2b marketing,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,what is a b2b ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,inventory management software multiple locations,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to OMS instead of NB - General B2B,0.0,0
+LOW,multi channel inventory management,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to OMS instead of NB - General B2B,0.0,0
+LOW,multi channel inventory management system,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to OMS instead of NB - General B2B,0.0,0
+LOW,multi inventory management,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to OMS instead of NB - General B2B,0.0,0
+LOW,multi location inventory management,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to OMS instead of NB - General B2B,0.0,0
+LOW,multi location inventory management software,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to OMS instead of NB - General B2B,0.0,0
+LOW,multi locations inventory management,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to OMS instead of NB - General B2B,0.0,0
+LOW,multiple location inventory management,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to OMS instead of NB - General B2B,0.0,0
+LOW,b2b customer portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online ordering,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online ordering platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online ordering portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online shopping,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b order portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ordering,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ordering platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ordering portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b procurement platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b sales portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b webshop,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,portal b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b commerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b commerce platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b e commerce sales,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce business,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ecommerce sales,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online business,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online services,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b platforms,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b shopping,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,e b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,ecommerce and b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,ecommerce b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,enterprise b2b ecommerce,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b business portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b marketplace websites,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b provider portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b sales portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b vendor portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,portail b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b buyer portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b en ligne,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b online marketplace,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b ordering portal,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,b2b web platform,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,web b2b,PHRASE,AD_GROUP,Search - NonBrand,NB - General B2B,Should route to B2B EComm instead of NB - General B2B,0.0,0
+LOW,distribution inventory management,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,distribution inventory management software,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,distribution inventory management system,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,distributor inventory management software,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,inventory management for distributors,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,inventory management software for distribution,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,distributed order management,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,distributed order management dom,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,distributed order management system,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,distribution order management,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,distributor order management system,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,oms dom,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,what is distributed order management,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to OMS instead of NB - Distributors,0.0,0
+LOW,b2b ecommerce for distributors,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to B2B EComm instead of NB - Distributors,0.0,0
+LOW,b2b sales portal,PHRASE,AD_GROUP,Search - NonBrand,NB - Distributors,Should route to B2B EComm instead of NB - Distributors,0.0,0

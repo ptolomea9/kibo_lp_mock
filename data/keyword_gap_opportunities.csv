@@ -1,0 +1,50 @@
+Gap Keyword,Intent Category,Product Alignment,Recommended URL (with anchor),Page Exists (Y/N),Anchor Section,Relevance Score,Suggested Match Type,Suggested Ad Group,Rationale,Priority
+[distributed order management],Decision,Order Management,https://kibocommerce.com/platform/order-management/,Y,Main page,10,Exact,OMS,Core OMS capability - page content covers distributed fulfillment across DCs/stores/vendors,High
+[omnichannel order management],Decision,Order Management,https://kibocommerce.com/platform/order-management/,Y,Main page,10,Exact,OMS,Key OMS differentiator - fulfillment across all channels explicitly mentioned,High
+[order routing software],Decision,Order Management,https://kibocommerce.com/platform/order-management/,Y,Main page,9,Exact,OMS,Order routing orchestration is a key feature section on OMS page,High
+[order orchestration platform],Decision,Order Management,https://kibocommerce.com/platform/inventory-promising/,Y,Main page,10,Exact,OMS,Dedicated order orchestration page exists with intelligent routing focus,High
+[fulfillment optimization software],Consideration,Order Management,https://kibocommerce.com/platform/order-management/,Y,Main page,9,Exact,OMS,OMS page emphasizes fulfillment optimization across network,High
+[oms software],Decision,Order Management,https://kibocommerce.com/platform/order-management/,Y,Main page,10,Exact,OMS,Direct product match - high volume generic OMS term,High
+[order management software],Decision,Order Management,https://kibocommerce.com/platform/order-management/,Y,Main page,10,Exact,OMS,Broad match to OMS - high search volume expected,High
+[retail order management],Decision,Order Management,https://kibocommerce.com/solutions/retail/,Y,Main page,9,Exact,OMS - Retail,Solutions page exists for retail with OMS focus,High
+[real-time inventory visibility],Decision,Inventory,https://kibocommerce.com/platform/inventory-visibility/,Y,Main page,10,Exact,Inventory,Dedicated page matches keyword exactly,High
+[inventory visibility software],Decision,Inventory,https://kibocommerce.com/platform/inventory-visibility/,Y,Main page,10,Exact,Inventory,Direct product page match,High
+[inventory management platform],Consideration,Inventory,https://kibocommerce.com/platform/inventory-visibility/,Y,Main page,9,Exact,Inventory,Inventory visibility page covers management capabilities,High
+[atp ctp software],Decision,Inventory,https://kibocommerce.com/platform/inventory-promising/,Y,Main page,10,Exact,Inventory,Order promising page specifically mentions ATP/CTP,High
+[available to promise software],Decision,Inventory,https://kibocommerce.com/platform/inventory-promising/,Y,Main page,10,Exact,Inventory,Core capability on order promising page,Medium
+[composable commerce platform],Decision,Commerce,https://kibocommerce.com/solutions/b2b/,Y,Main page,9,Exact,B2B EComm,Composable/modular architecture prominently featured,High
+[mach architecture ecommerce],Consideration,Commerce,https://kibocommerce.com/solutions/b2b/,Y,Main page,8,Exact,B2B EComm,MACH mentioned in B2B migration content; microservices architecture emphasized,Medium
+[headless commerce platform],Decision,Commerce,https://kibocommerce.com/solutions/b2b/,Y,Main page,9,Exact,B2B EComm,Headless architecture explicitly mentioned on B2B page,High
+[unified commerce software],Decision,Commerce,https://kibocommerce.com/,Y,Homepage,10,Exact,B2B EComm,Homepage H1 and positioning centers on unified commerce,High
+[enterprise ecommerce platform],Decision,Commerce,https://kibocommerce.com/solutions/b2b/,Y,Main page,9,Exact,B2B EComm,Enterprise B2B focus throughout solutions page,High
+[modular commerce platform],Decision,Commerce,https://kibocommerce.com/solutions/b2b/,Y,Main page,9,Exact,B2B EComm,Modularity is key differentiator - deploy what you need messaging,High
+[bopis software],Decision,Fulfillment,https://kibocommerce.com/platform/order-management/,Y,Main page,9,Exact,OMS - Retail,BOPIS mentioned in fulfillment UI section,High
+[ship from store software],Decision,Fulfillment,https://kibocommerce.com/platform/order-management/,Y,Main page,9,Exact,OMS - Retail,Ship-to-Home and store fulfillment covered in OMS page,High
+[curbside pickup software],Decision,Fulfillment,https://kibocommerce.com/platform/order-management/,Y,Main page,8,Exact,OMS - Retail,Curbside mentioned alongside BOPIS in fulfillment section,Medium
+[omnichannel fulfillment],Decision,Fulfillment,https://kibocommerce.com/platform/order-management/,Y,Main page,10,Exact,OMS,Core OMS value prop - fulfill anywhere positioning,High
+[store fulfillment software],Decision,Fulfillment,https://kibocommerce.com/platform/order-management/,Y,Main page,9,Exact,OMS - Retail,Fulfiller UI section covers store fulfillment,Medium
+[b2b customer portal software],Decision,B2B Commerce,https://kibocommerce.com/solutions/b2b/,Y,Main page,9,Exact,NB - General B2B,Self-service B2B portal prominently featured,High
+[b2b self service portal],Decision,B2B Commerce,https://kibocommerce.com/ppc/wholesale/#b2b-commerce,Y,B2B Commerce section,9,Exact,NB - General B2B,All PPC pages feature self-service portal content,High
+[quote to cash software],Decision,B2B Commerce,https://kibocommerce.com/solutions/b2b/,Y,Main page,10,Exact,NB - General B2B,Quote-to-cash is H2 headline on B2B solutions page,High
+[b2b pricing software],Decision,B2B Commerce,https://kibocommerce.com/platform/catalog-price-promo/,Y,Main page,9,Exact,NB - General B2B,Dedicated pricing/promotions page exists,High
+[contract pricing software],Decision,B2B Commerce,https://kibocommerce.com/solutions/b2b/,Y,Main page,8,Exact,NB - General B2B,Contract-aware pricing mentioned in B2B capabilities,Medium
+[b2b account management software],Decision,B2B Commerce,https://kibocommerce.com/solutions/b2b/,Y,Main page,9,Exact,NB - General B2B,Account hierarchy and management featured on B2B page,High
+[retail ecommerce platform],Decision,Industry,https://kibocommerce.com/solutions/retail/,Y,Main page,9,Exact,NB - Retail,Dedicated retail solutions page,High
+[grocery ecommerce platform],Decision,Industry,https://kibocommerce.com/solutions/grocery/,Y,Main page,9,Exact,NB - Grocery,Dedicated grocery solutions page exists,Medium
+[auto parts ecommerce],Decision,Industry,https://kibocommerce.com/solutions/auto-parts/,Y,Main page,8,Exact,NB - Auto Parts,Dedicated auto parts page exists,Medium
+[apparel ecommerce platform],Decision,Industry,https://kibocommerce.com/solutions/apparel-and-fashion/,Y,Main page,8,Exact,NB - Apparel,Apparel & fashion solutions page exists,Medium
+[returns management software],Decision,Reverse Logistics,https://kibocommerce.com/platform/reverse-logistics/,Y,Main page,10,Exact,OMS,Dedicated reverse logistics page,High
+[reverse logistics software],Decision,Reverse Logistics,https://kibocommerce.com/platform/reverse-logistics/,Y,Main page,10,Exact,OMS,Exact match to dedicated page,High
+[rma software],Decision,Reverse Logistics,https://kibocommerce.com/platform/reverse-logistics/,Y,Main page,9,Exact,OMS,RMA/returns covered on reverse logistics page,Medium
+[ai commerce platform],Consideration,AI/Technology,https://kibocommerce.com/platform/agentic-commerce/,Y,Main page,10,Exact,Agentic Commerce,Dedicated AI commerce page,High
+[ai order management],Consideration,AI/Technology,https://kibocommerce.com/platform/order-management/,Y,AI Agents section,9,Exact,OMS,OMS page has dedicated AI agents section,High
+[ai search ecommerce],Decision,AI/Technology,https://kibocommerce.com/platform/ai-search/,Y,Main page,10,Exact,NB - General B2B,Dedicated AI vector search page,High
+[ecommerce ai search],Decision,AI/Technology,https://kibocommerce.com/platform/ai-search/,Y,Main page,10,Exact,NB - General B2B,AI search product page,High
+[dropship management software],Decision,Dropship,https://kibocommerce.com/platform/dropship/,Y,Main page,10,Exact,OMS,Dedicated dropship page exists,Medium
+[endless aisle software],Decision,Dropship,https://kibocommerce.com/platform/dropship/,Y,Main page,8,Exact,OMS,Endless aisle concept covered in dropship content,Medium
+[subscription commerce platform],Decision,Subscription,https://kibocommerce.com/platform/subscription/,Y,Main page,10,Exact,B2B Other Keywords,Dedicated subscription page,High
+[recurring revenue platform],Decision,Subscription,https://kibocommerce.com/platform/subscription/,Y,Main page,9,Exact,B2B Other Keywords,Subscription page emphasizes recurring revenue,Medium
+[estimated delivery date software],Decision,Order Promising,https://kibocommerce.com/platform/inventory-promising/,Y,Main page,10,Exact,OMS,EDD is core capability on order promising page,High
+[delivery date promise software],Decision,Order Promising,https://kibocommerce.com/platform/inventory-promising/,Y,Main page,9,Exact,OMS,Order promising page covers delivery date promises,Medium
+[d2c ecommerce platform],Decision,Commerce,https://kibocommerce.com/platform/commerce/,Y,Main page,8,Exact,B2C EComm,B2C commerce page supports D2C use cases,Medium
+[d2c order management],Decision,Order Management,https://kibocommerce.com/platform/order-management/,Y,Main page,8,Exact,OMS,OMS supports both B2B and B2C/D2C models,Medium

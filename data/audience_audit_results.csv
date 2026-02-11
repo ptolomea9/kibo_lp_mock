@@ -1,0 +1,135 @@
+Category,ID,Name,Type,Status,Details
+First-Party,484760597,All visitors,RULE_BASED,Eligible,Size: 210
+First-Party,484917253,All Converters,RULE_BASED,Eligible,Size: 120
+First-Party,488885286,Similar to All visitors,SIMILAR,Eligible,Size: 0
+First-Party,489239632,Similar to All Converters,SIMILAR,Eligible,Size: 0
+First-Party,498019055,AdWords optimized list,LOGICAL,Eligible,Size: 28000
+First-Party,502890935,All Visitors (30),RULE_BASED,Eligible,Size: 210
+First-Party,502891232,All Visitors - Converters (30),LOGICAL,Eligible,Size: 88
+First-Party,503008903,All Visitors - Converters,LOGICAL,Eligible,Size: 160
+First-Party,503010355,All Visitors - Converters (14),LOGICAL,Eligible,Size: 8
+First-Party,504248036,Similar to All Visitors - Converters (7),SIMILAR,Not Eligible,Size: 0
+First-Party,504248039,Similar to All Visitors (14),SIMILAR,Eligible,Size: 0
+First-Party,504248042,Similar to All Visitors - Converters (14),SIMILAR,Not Eligible,Size: 0
+First-Party,504248045,Similar to All Visitors - Converters,SIMILAR,Not Eligible,Size: 0
+First-Party,504248048,Similar to All Visitors - Converters (30),SIMILAR,Not Eligible,Size: 0
+First-Party,504248051,Similar to All Visitors (7),SIMILAR,Eligible,Size: 0
+First-Party,504248054,Similar to All Visitors (30),SIMILAR,Eligible,Size: 0
+First-Party,505966857,All Visitors (7),RULE_BASED,Eligible,Size: 8
+First-Party,505967076,All Visitors (14),RULE_BASED,Eligible,Size: 16
+First-Party,505967889,All Visitors - Converters (7),LOGICAL,Eligible,Size: 0
+First-Party,507979023,Similar to AdWords optimized list,SIMILAR,Not Eligible,Size: 0
+First-Party,532944250,CaP DB,CRM_BASED,Eligible,Size: 0
+First-Party,541635811,Ecommerce Visitors - 30 days,RULE_BASED,Eligible,Size: 0
+First-Party,541635877,Ecommerce Converters,REMARKETING,Eligible,Size: 0
+First-Party,541635934,Ecommerce Visitors - No Conversions (7 days),LOGICAL,Eligible,Size: 0
+First-Party,543620952,Ecommerce Visitors - 7 days,RULE_BASED,Eligible,Size: 0
+First-Party,543620994,Ecommerce Visitors -14 days,RULE_BASED,Eligible,Size: 0
+First-Party,543621123,Ecommerce Visitors - No Conversions (14 days),LOGICAL,Eligible,Size: 0
+First-Party,543621132,Ecommerce Visitors - No Conversions (30 days),LOGICAL,Eligible,Size: 0
+First-Party,551702302,CapDB Round 2,CRM_BASED,Eligible,Size: 0
+First-Party,561607033,Similar to Ecommerce Converters,SIMILAR,Eligible,Size: 0
+First-Party,605230100,All Users,REMARKETING,Eligible,Size: 0
+First-Party,605230394,Returning Visitors,REMARKETING,Eligible,Size: 0
+First-Party,605564938,More than 2 Pages Visited,REMARKETING,Eligible,Size: 0
+First-Party,606626328,Time on Site > 90 Seconds,REMARKETING,Eligible,Size: 0
+First-Party,610157436,Similar to All Users,SIMILAR,Eligible,Size: 0
+First-Party,610157439,Similar to Time on Site > 90 Seconds,SIMILAR,Eligible,Size: 0
+First-Party,610157442,Similar to Returning Visitors,SIMILAR,Eligible,Size: 0
+First-Party,611800695,Similar to More than 2 Pages Visited,SIMILAR,Eligible,Size: 0
+First-Party,839304981,Similar to CapDB Round 2,SIMILAR,Eligible,Size: 0
+First-Party,950136377,Users who click on login,REMARKETING,Eligible,Size: 0
+First-Party,956039377,Similar to Users who click on login,SIMILAR,Eligible,Size: 0
+First-Party,1050322224,"ABM Blogs - Quick Wins, Bopis, post click - 540 days",REMARKETING,Eligible,Size: 0
+First-Party,6442541602,"Similar to ABM Blogs - Quick Wins, Bopis, post click - 540 days",SIMILAR,Not Eligible,Size: 0
+First-Party,6445966751,High Quality UTMs - 540 days,REMARKETING,Eligible,Size: 0
+First-Party,6447085955,Similar to High Quality UTMs - 540 days,SIMILAR,Eligible,Size: 0
+First-Party,6464201916,Login Users - 540 days,REMARKETING,Eligible,Size: 0
+First-Party,6465125578,Similar to Login Users - 540 days,SIMILAR,Eligible,Size: 0
+First-Party,7313720711,Order Management Page Visits Last 90 days,REMARKETING,Eligible,Size: 0
+First-Party,7314834856,Personalization page visits last 90 days,REMARKETING,Eligible,Size: 0
+First-Party,7314838696,Traffic Medium CPC Last 90 days,REMARKETING,Eligible,Size: 0
+First-Party,7314852397,PPC Landing Page Page Visitors Last 90 Days,REMARKETING,Eligible,Size: 0
+First-Party,7314852754,Career Page Visitors Last 90 Days,REMARKETING,Eligible,Size: 0
+First-Party,7315188717,Landing Page Request Demo Page last 90 days,REMARKETING,Eligible,Size: 0
+First-Party,7315189059,eCommerce Page Visits Last 90 days,REMARKETING,Eligible,Size: 0
+First-Party,7320258922,Similar to Personalization page visits last 90 days,SIMILAR,Eligible,Size: 0
+First-Party,7322951137,Similar to Traffic Medium CPC Last 90 days,SIMILAR,Eligible,Size: 0
+First-Party,7322951140,Similar to PPC Landing Page Page Visitors Last 90 Days,SIMILAR,Eligible,Size: 0
+First-Party,7325751707,Similar to Career Page Visitors Last 90 Days,SIMILAR,Eligible,Size: 0
+First-Party,7329559295,Similar to Order Management Page Visits Last 90 days,SIMILAR,Eligible,Size: 0
+First-Party,7329559298,Similar to eCommerce Page Visits Last 90 days,SIMILAR,Eligible,Size: 0
+First-Party,7560052568,Website Visitors - L14,RULE_BASED,Eligible,Size: 16
+First-Party,7560878194,Website Visitors - L30,RULE_BASED,Eligible,Size: 210
+First-Party,7560878896,Website Visitors - L 365,RULE_BASED,Eligible,Size: 30000
+First-Party,7561465752,Website Visitors - L60,RULE_BASED,Eligible,Size: 1600
+First-Party,7561465986,Website Visitors - L90,RULE_BASED,Eligible,Size: 4400
+First-Party,7565365040,Similar to Website Visitors - L 365,SIMILAR,Eligible,Size: 0
+First-Party,7565365043,Similar to Website Visitors - L14,SIMILAR,Eligible,Size: 0
+First-Party,7565365046,Similar to Website Visitors - L60,SIMILAR,Eligible,Size: 0
+First-Party,7567095764,Similar to Website Visitors - L90,SIMILAR,Eligible,Size: 0
+First-Party,7567095767,Similar to Website Visitors - L30,SIMILAR,Eligible,Size: 0
+First-Party,7567095770,Similar to Landing Page Request Demo Page last 90 days,SIMILAR,Eligible,Size: 0
+First-Party,7592405185,Kibo - YouTube Watchers - L90,RULE_BASED,Eligible,Size: 96
+First-Party,7638278642,eCommerce Interest - L90,RULE_BASED,Eligible,Size: 0
+First-Party,7638278756,OMS Interest - L90,RULE_BASED,Eligible,Size: 0
+First-Party,7663472578,Similar to eCommerce Interest - L90,SIMILAR,Eligible,Size: 0
+First-Party,7723037840,Similar to OMS Interest - L90,SIMILAR,Eligible,Size: 0
+First-Party,7934743576,Login User Audience - L120,REMARKETING,Eligible,Size: 24
+First-Party,7934794292,All Users of Kibo - GA4,REMARKETING,Eligible,Size: 28000
+First-Party,7935341886,Purchasers of Kibo - GA4,REMARKETING,Eligible,Size: 0
+First-Party,8001882424,Login Event Click - L180,REMARKETING,Eligible,Size: 0
+First-Party,8145697562,2025 - Order Management Visitors - L90,RULE_BASED,Eligible,Size: 420
+First-Party,8145699524,B2B Visitors - L90,RULE_BASED,Eligible,Size: 830
+First-Party,8147090298,eComm Visitors - L90,RULE_BASED,Eligible,Size: 200
+First-Party,8549697589,Kibo prospects 1-5-24,CRM_BASED,Eligible,Size: 0
+First-Party,8600949894,Shopify pages,REMARKETING,Eligible,Size: 0
+First-Party,8635742881,Shopify list,CRM_BASED,Eligible,Size: 0
+First-Party,8654191947,KIBO Customer Match List 5/7/24,CRM_BASED,Eligible,Size: 0
+First-Party,8661834992,Order Management Page Visits Last 90 days - GA4,REMARKETING,Eligible,Size: 160
+First-Party,8661835040,Landing Page Request Demo Page last 90 days - GA4,REMARKETING,Eligible,Size: 32
+First-Party,8661835055,eCommerce Page Visits Last 90 days - GA4,REMARKETING,Eligible,Size: 0
+First-Party,8661835073,Login Users - 540 days - GA4,REMARKETING,Eligible,Size: 0
+First-Party,8661835085,Personalization page visits last 90 days - GA4,REMARKETING,Eligible,Size: 8
+First-Party,8661835163,More than 2 Pages Visited - GA4,REMARKETING,Eligible,Size: 440
+First-Party,8661854794,Time on Site > 90 Seconds - GA4,REMARKETING,Eligible,Size: 940
+First-Party,8661854821,Traffic Medium CPC Last 90 days - GA4,REMARKETING,Eligible,Size: 360
+First-Party,8662693431,Career Page Visitors Last 90 Days - GA4,REMARKETING,Eligible,Size: 180
+First-Party,8662693437,Returning Visitors - GA4,REMARKETING,Eligible,Size: 630
+First-Party,8662693440,PPC Landing Page Page Visitors Last 90 Days - GA4,REMARKETING,Eligible,Size: 110
+First-Party,8662693446,All Users - GA4,REMARKETING,Eligible,Size: 580
+First-Party,8679342787,Customer list exclusion,CRM_BASED,Eligible,Size: 0
+First-Party,8750380449,KIBO Email List - 9/22/25,CRM_BASED,Eligible,Size: 2300
+First-Party,9008378929,Kibo customer list 3-27-2025,CRM_BASED,Eligible,Size: 0
+First-Party,9013240258,2025 - Headless Commerce - L90,RULE_BASED,Eligible,Size: 64
+First-Party,9013249300,2025 - B2C Commerce - L90,RULE_BASED,Eligible,Size: 140
+First-Party,9013252978,2025 - Composable Commerce - L90,RULE_BASED,Eligible,Size: 72
+First-Party,9014377412,2025 - Agentic Commerce - L90,RULE_BASED,Eligible,Size: 200
+First-Party,9014379962,2025 - Unified Commerce - L90,RULE_BASED,Eligible,Size: 56
+First-Party,9014947107,2025 - B2B Commerce - L90,RULE_BASED,Eligible,Size: 430
+First-Party,9014948790,2025 - Subscriptions - L90,RULE_BASED,Eligible,Size: 130
+First-Party,9021099474,2025 - YouTube Users,RULE_BASED,Eligible,Size: 96
+First-Party,9102337897,Lookalike 10%,LOOKALIKE,Eligible,Size: 0
+First-Party,9160978168,KIBO Customer Match List 7/16/25,CRM_BASED,Eligible,Size: 300
+First-Party,9256028090,HubSpot - 2025 Clients,CRM_BASED,Eligible,Size: 100
+First-Party,9265142234,HubSpot - B2B Target Account List,CRM_BASED,Eligible,Size: 100
+First-Party,9265635957,HubSpot - B2C Target Account List,CRM_BASED,Eligible,Size: 0
+First-Party,9266038805,test_segment_validation,CRM_BASED,Eligible,Size: 0
+First-Party,9277564120,HubSpot - B2C Target Account List V2,CRM_BASED,Eligible,Size: 0
+Custom Segment,615020729,Pipeline Audience: High Intent,AUTO,ENABLED,
+Custom Segment,615222237,Pipeline Audience: Competitive Keywords,AUTO,ENABLED,
+Custom Segment,615760673,Pipeline Audience: MACH architecture,SEARCH,ENABLED,
+Custom Segment,615761156,Pipeline Audience: Composable Commerce,AUTO,ENABLED,
+Custom Segment,615841464,Pipeline Audience: Headless Commerce,SEARCH,ENABLED,
+Custom Segment,755100810,Competitive Websites - Similar,AUTO,ENABLED,
+Custom Segment,868677399,BigCommerce,PURCHASE_INTENT,ENABLED,
+Custom Segment,868677402,Shopify,PURCHASE_INTENT,ENABLED,
+Custom Segment,868677405,Order Management Software,PURCHASE_INTENT,ENABLED,
+Custom Segment,868677408,B2B Platforms,PURCHASE_INTENT,ENABLED,
+Custom Segment,868677411,Ecommerce Platforms,PURCHASE_INTENT,ENABLED,
+Custom Segment,877695143,OMS Competitor - Keywords,SEARCH,ENABLED,
+Custom Segment,878722257,OMS Competitor - URLs,AUTO,ENABLED,
+Custom Segment,893414742,OMS - Keywords,SEARCH,ENABLED,
+Custom Segment,893537544,Agentic Commerce - Keywords,SEARCH,ENABLED,
+Custom Segment,894669508,Pipe17 - Keywords,SEARCH,ENABLED,
+Combined,25392513,Pipeline Combined,COMBINED,ENABLED,

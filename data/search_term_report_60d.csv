@@ -1,0 +1,1199 @@
+search_term,status,campaign_id,campaign_name,ad_group_id,ad_group_name,keyword_text,match_type,impressions,clicks,cost,conversions,conversion_value,ctr,cpc,is_brand_term
+k i b o,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+kibo commerce b2b,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo platform,EXACT,2,1,9.96,0.0,0.0,50.0,9.96,True
+kibo digital,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,True
+kibo inc,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,True
+kibo platform,ADDED,19534321347,Search - Brand,143748213014,Kibo,kibo platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibo retail,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibo services,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,True
+kibo site,EXCLUDED,19534321347,Search - Brand,143748213014,Kibo,kibo platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibo unified commerce,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo platform,EXACT,2,1,12.77,0.0,0.0,50.0,12.77,True
+kibo us,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,True
+kibo co,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo commerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,True
+kibo commerce,ADDED,19534321347,Search - Brand,143748213014,Kibo,kibo commerce,EXACT,1147,236,761.65,1.0,1.0,20.58,3.23,True
+kibo fulfillment,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo commerce,EXACT,2,1,5.09,0.0,0.0,50.0,5.09,True
+kibo ide,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo commerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,True
+kibo product,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo commerce,EXACT,6,0,0.0,0.0,0.0,0.0,0,True
+kibo services,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo commerce,EXACT,4,0,0.0,0.0,0.0,0.0,0,True
+kibocommerce,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo commerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,True
+kibo ecommerce,ADDED,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce,EXACT,119,29,82.16,0.0,0.0,24.37,2.83,True
+kibo en ligne,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce,EXACT,2,1,14.31,0.0,0.0,50.0,14.31,True
+kibo fulfillment,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibo inc,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibo solutions,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce,EXACT,1,1,7.66,0.0,0.0,100.0,7.66,True
+kibo system,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+k i b o,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+kibo commerce agency,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibo commerce b2b,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibo e commerce,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce platform,EXACT,1,1,4.27,0.0,0.0,100.0,4.27,True
+kibo ecommerce platform,ADDED,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce platform,EXACT,14,5,45.86,0.0,0.0,35.71,9.17,True
+kibo ecommerce solution,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibo system,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,True
+kibo technology,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibocommerce,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibo commerce ltd,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo software,EXACT,2,1,5.82,0.0,0.0,50.0,5.82,True
+kibo retail,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo software,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibo software,ADDED,19534321347,Search - Brand,143748213014,Kibo,kibo software,EXACT,127,28,177.31,0.0,0.0,22.05,6.33,True
+kibo agentic commerce,ADDED,19534321347,Search - Brand,143748213014,Kibo,kibo agentic commerce,EXACT,9,2,19.7,0.0,0.0,22.22,9.85,True
+kibo ai,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ai commerce,EXACT,29,1,8.59,0.0,0.0,3.45,8.59,True
+kibo ui,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ai commerce,EXACT,156,8,92.63,0.0,0.0,5.13,11.58,True
+kibo solutions,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo solution,EXACT,1,0,0.0,0.0,0.0,0.0,0,True
+kibo order management,ADDED,19534321347,Search - Brand,146491133473,OMS,kibo order management,EXACT,17,8,66.94,0.0,0.0,47.06,8.37,True
+kibo modz,EXCLUDED,19534321347,Search - Brand,146491133473,OMS,kibo oms,EXACT,285,59,795.18,0.0,0.0,20.7,13.48,True
+kibo modz online,NONE,19534321347,Search - Brand,146491133473,OMS,kibo oms,EXACT,4,2,22.39,0.0,0.0,50.0,11.2,True
+kibo oms,ADDED,19534321347,Search - Brand,146491133473,OMS,kibo oms,EXACT,97,24,168.16,1.0,1.0,24.74,7.01,True
+kibo system,NONE,19534321347,Search - Brand,146491133473,OMS,kibo oms,EXACT,3,1,4.06,0.0,0.0,33.33,4.06,True
+kibo order,NONE,19534321347,Search - Brand,146491133473,OMS,kibo order management system,EXACT,2,1,14.77,0.0,0.0,50.0,14.77,True
+kibo order management system,ADDED,19534321347,Search - Brand,146491133473,OMS,kibo order management system,EXACT,2,1,12.31,0.0,0.0,50.0,12.31,True
+kibo system,NONE,19534321347,Search - Brand,146491133473,OMS,kibo order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,True
+kibo systems,NONE,19534321347,Search - Brand,146491133473,OMS,kibo order management system,EXACT,2,1,9.03,0.0,0.0,50.0,9.03,True
+asp net warehouse management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+blue yonder wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,3,0,0.0,0.0,0.0,0.0,0,False
+extensiv warehouse management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+fulfil wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+inventory and warehouse management,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+it wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+logiwa api,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+modula wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+oms wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,1,93.68,0.0,0.0,100.0,93.68,False
+order fulfilment software,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+order picking solutions,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+rf smart wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+sap ewm,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+sap ewm mfs,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,3,0,0.0,0.0,0.0,0.0,0,False
+skubana inventory management,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+software for warehouse inventory management,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+tecsys wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+warehouse control systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+warehouse inventory management,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+warehouse management for open systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+warehouse management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+warehouse management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,18,0,0.0,0.0,0.0,0.0,0,False
+warehouse management system softwares,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+warehouse management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,3,0,0.0,0.0,0.0,0.0,0,False
+warehousing systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+what are some warehouse management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+what is mintsoft,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+what is wms in supply chain,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+windfall warehouse,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,11,0,0.0,0.0,0.0,0.0,0,False
+wms blue yonder,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+wms for warehouse,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+wms stord,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+wms stord com,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+wms systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,5,0,0.0,0.0,0.0,0.0,0,False
+wms warehouse management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+xlwms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+zoho warehouse management,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+enterprise oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+enterprise order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+enterprise order management system,ADDED,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,7,1,187.76,2.0,26.0,14.29,187.76,False
+internal order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms business,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms ems platforms,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms ems systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+oms erp,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms erp system,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms in business,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms logiciel,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms management,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+oms orders,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,19,0,0.0,0.0,0.0,0.0,0,False
+oms platforms,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms software,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,22,0,0.0,0.0,0.0,0.0,0,False
+oms solutions,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+oms system,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,22,0,0.0,0.0,0.0,0.0,0,False
+oms systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+order and execution management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+order management erp,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management program,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management service,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management system,ADDED,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,41,0,0.0,0.0,0.0,0.0,0,False
+order management system oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+order management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+platform oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+retail oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,13,0,0.0,0.0,0.0,0.0,0,False
+the oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+what is an oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,39,0,0.0,0.0,0.0,0.0,0,False
+what is an oms system,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,23,0,0.0,0.0,0.0,0.0,0,False
+what is oms software,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,38,1,87.5,0.0,0.0,2.63,87.5,False
+what is oms system,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+what is the oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+any order software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+best oms software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+best oms systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+best order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,17,1,36.5,0.0,0.0,5.88,36.5,False
+best order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+customer order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+digital order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+enterprise order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms business,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+oms order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,17,0,0.0,0.0,0.0,0.0,0,False
+oms platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,10,0,0.0,0.0,0.0,0.0,0,False
+oms platforms,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,12,1,248.9,0.0,0.0,8.33,248.9,False
+oms providers,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,10,0,0.0,0.0,0.0,0.0,0,False
+oms software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,47,1,162.88,0.0,0.0,2.13,162.88,False
+oms solutions,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,13,0,0.0,0.0,0.0,0.0,0,False
+oms system,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,91,1,52.89,0.0,0.0,1.1,52.89,False
+oms systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,40,0,0.0,0.0,0.0,0.0,0,False
+oms tools,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+online order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,3,1,36.47,0.0,0.0,33.33,36.47,False
+online order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+order management application,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+order management platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management platforms,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+order management program,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management service,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,10,0,0.0,0.0,0.0,0.0,0,False
+order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,67,3,215.53,0.0,0.0,4.48,71.84,False
+order management software oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management softwares,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management solution,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+order management solutions,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,6,1,96.6,0.0,0.0,16.67,96.6,False
+order management system,ADDED,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,416,20,1330.05,1.0,1.0,4.81,66.5,False
+order management system oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,36,1,76.95,0.0,0.0,2.78,76.95,False
+order management system providers,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management system software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,7,1,31.65,0.0,0.0,14.29,31.65,False
+order management system solution,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+order management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,52,2,72.0,0.0,0.0,3.85,36.0,False
+order management systems oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+order management systems software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+order management tool,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management tools,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+order manager software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+order master software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order processing platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order processing software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,7,1,55.4,0.0,0.0,14.29,55.4,False
+order processing softwares,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+order taking software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+order tracking software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+ordering management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+orders management,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+orders management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+orders software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+orders system,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+platform oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+popular order management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+product order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+sales order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+service order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+software for order entry,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+software for order processing,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,1,96.11,0.0,0.0,50.0,96.11,False
+software oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+software to keep track of orders,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,1,75.69,0.0,0.0,100.0,75.69,False
+software to manage orders,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+supplier order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+top 10 order management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+top oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+top oms providers,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+top oms systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+top order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+top order management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,best order management systems,EXACT,21,0,0.0,0.0,0.0,0.0,0,False
+e commerce order management platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce order and inventory management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+ecommerce order management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+managing online orders,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms ec,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms in ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms in retail,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms marketplace,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+oms platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms platforms,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+oms retail,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+oms software,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+oms system,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,14,0,0.0,0.0,0.0,0.0,0,False
+online order processing system,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,2,1,109.14,0.0,0.0,50.0,109.14,False
+online store management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order fulfillment software for ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management for retailers,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management software for ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management system,ADDED,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+order management system ecommerce,ADDED,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+order management system for ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management system retail,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+retail oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,12,0,0.0,0.0,0.0,0.0,0,False
+retail order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+sales order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+web based order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+web order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system ecommerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+cloud oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,global order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+global order management system,ADDED,22740783748,Search - NonBrand,181971021779,OMS,global order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms in logistics,NONE,22740783748,Search - NonBrand,181971021779,OMS,global order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms order,NONE,22740783748,Search - NonBrand,181971021779,OMS,global order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,global order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,global order management system,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+oms platforms,NONE,22740783748,Search - NonBrand,181971021779,OMS,global order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms software,NONE,22740783748,Search - NonBrand,181971021779,OMS,global order management system,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+oms system,NONE,22740783748,Search - NonBrand,181971021779,OMS,global order management system,EXACT,17,0,0.0,0.0,0.0,0.0,0,False
+order management system oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,global order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce order management platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce oms,ADDED,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+ecommerce operations management,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+ecommerce order management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+management online shop,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms commerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+oms digital,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms e commerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+oms ec,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,25,0,0.0,0.0,0.0,0.0,0,False
+oms fulfillment,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+oms in ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+oms in retail,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+oms orders,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms retail,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms software,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms system,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+order management platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management software for ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management system,ADDED,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,20,1,88.09,0.0,0.0,5.0,88.09,False
+order management system for ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management system oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+order management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+retail oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+retail order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+retail order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+what is oms in ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+what is oms in retail,NONE,22740783748,Search - NonBrand,181971021779,OMS,ecommerce oms,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b online ordering system,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,7,1,33.13,0.0,0.0,14.29,33.13,False
+b2b order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,11,2,148.12,0.0,0.0,18.18,74.06,False
+b2b order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,12,0,0.0,0.0,0.0,0.0,0,False
+b2b order management system,ADDED,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,10,1,72.23,0.0,0.0,10.0,72.23,False
+b2b order platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b order software,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b order taking software,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,18,1,32.18,0.0,0.0,5.56,32.18,False
+b2b ordering software,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering system,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,2,1,70.49,0.0,0.0,50.0,70.49,False
+b2b ordering systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b sales management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b sales order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b order management system,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+e commerce & omnichannel,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+e commerce omni channel,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce and omni channel,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce omnichannel,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+enterprise omnichannel,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+omni channel business,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+omni channel businesses,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+omni channel commerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+omni channel ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,6,1,49.48,0.0,0.0,16.67,49.48,False
+omnichannel business,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,12,0,0.0,0.0,0.0,0.0,0,False
+omnichannel commerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,21,0,0.0,0.0,0.0,0.0,0,False
+omnichannel e commerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,5,1,27.1,0.0,0.0,20.0,27.1,False
+omnichannel ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+omnichannel for business,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+omnichannel in ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,enterprise omnichannel commerce,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+inventory management warehouse management,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+inventory wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+warehouse inventory management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+warehouse inventory system,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+warehouse inventory tracking system,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+warehouse management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,24,0,0.0,0.0,0.0,0.0,0,False
+warehouse management system software,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,1,1,44.45,0.0,0.0,100.0,44.45,False
+warehouse management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+warehouse order tracking system,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+warehouse software,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+warehouse system management,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+warehouse wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+what is a wms system,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,20,0,0.0,0.0,0.0,0.0,0,False
+wms oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wms programs,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wms system,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wms systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,warehouse order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+wholesale business management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,wholesale order management system,EXACT,2,1,99.42,0.0,0.0,50.0,99.42,False
+wholesale inventory management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,wholesale order management system,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+automated order entry systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+automated order system,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+automated ordering system,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+automatic ordering system,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+automating order entry,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+customer order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,1,1,85.45,0.0,0.0,100.0,85.45,False
+digital order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms business,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+oms order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,18,0,0.0,0.0,0.0,0.0,0,False
+oms orders,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+oms platforms,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+oms software,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,27,0,0.0,0.0,0.0,0.0,0,False
+oms solution,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms system,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,58,0,0.0,0.0,0.0,0.0,0,False
+oms systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+oms tool,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+online order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order automation,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order automation software,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,11,0,0.0,0.0,0.0,0.0,0,False
+order entry automation,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management automation,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management platforms,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,12,0,0.0,0.0,0.0,0.0,0,False
+order management softwares,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management system,ADDED,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,65,1,63.58,0.0,0.0,1.54,63.58,False
+order management system oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management system solution,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+order management systems oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order process automation,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order processing software,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order processing systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+sales order automation,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+sales order automation software,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+oms cost,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system pricing,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management pricing,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system pricing,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+a frame order picking system,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+best oms,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+cmms for work order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+distributed order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+esker order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+manhattan order management system,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+order express software,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+order time,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,5,0,0.0,0.0,0.0,0.0,0,False
+orderful edi,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+pre order manager,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+purchase order automation software,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,2,0,0.0,0.0,0.0,0.0,0,False
+top order management systems,NONE,22740783748,Search - NonBrand,181971021779,OMS,automated order management system,PHRASE,1,0,0.0,0.0,0.0,0.0,0,False
+order management demo,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system demo,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system for b2b,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system for b2b,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b order taking software,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system for b2b,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering platform,NONE,22740783748,Search - NonBrand,181971021779,OMS,order management system for b2b,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b order management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,b2b oms software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+commerce cloud order management,NONE,22740783748,Search - NonBrand,181971021779,OMS,oms for ecommerce businesses,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce order and inventory management software,NONE,22740783748,Search - NonBrand,181971021779,OMS,oms for ecommerce businesses,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms commerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,oms for ecommerce businesses,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+oms e commerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,oms for ecommerce businesses,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management for ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,oms for ecommerce businesses,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+what is oms in ecommerce,NONE,22740783748,Search - NonBrand,181971021779,OMS,oms for ecommerce businesses,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+manufacturing marketplaces,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+manufacturing platforms,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+manufacturing management system,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,23,1,65.61,0.0,0.0,4.35,65.61,False
+manufacturing operations management software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+manufacturing operations management systems,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+manufacturing operations platform,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+manufacturing operations software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+manufacturing order management,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+manufacturing order management software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+manufacturing order management system,ADDED,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+manufacturing process management software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,3,1,333.27,0.0,0.0,33.33,333.27,False
+manufacturing shop management software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+manufacturing work order software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+manufacturing workflow management software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms in manufacturing,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+order management software for manufacturing,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+order management system for manufacturing,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce for manufacturers,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce platform for manufacturers,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+e commerce manufacturing company,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce for manufacturers,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+ecommerce manufacturing,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce solution for manufacturing,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+manufacturer b2b ecommerce,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+manufacturer e commerce,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+manufacturer ecommerce,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+manufacturer marketplace,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,5,1,18.41,0.0,0.0,20.0,18.41,False
+manufacturers marketplace,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+manufacturing e commerce,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+manufacturing ecommerce,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,5,1,36.72,0.0,0.0,20.0,36.72,False
+manufacturing ecommerce platform,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+manufacturing ecommerce software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+manufacturing marketplaces,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer ecommerce platform,EXACT,4,1,44.23,0.0,0.0,25.0,44.23,False
+b2b oms,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,order management system for b2b,EXACT,1,1,36.23,0.0,0.0,100.0,36.23,False
+b2b order management,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,order management system for b2b,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b order management software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,order management system for b2b,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b order software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,order management system for b2b,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b order taking software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,order management system for b2b,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering platform,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,order management system for b2b,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering system,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,order management system for b2b,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b sales order management software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,order management system for b2b,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b manufacturing marketplace,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturer b2b portal,EXACT,2,1,36.37,0.0,0.0,50.0,36.37,False
+manufacturing quote software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing quote automation,EXACT,2,1,104.98,0.0,0.0,50.0,104.98,False
+manufacturing quoting software,NONE,22740783748,Search - NonBrand,184871850702,NB - Manufacturers,manufacturing quote automation,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+bulk inventory management,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+inventory management for wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+inventory management software for wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+inventory management system wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+inventory software for wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+supplier inventory management system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+supply chain software for wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale inventory management,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale inventory management software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,44,1,91.3,0.0,0.0,2.27,91.3,False
+wholesale inventory software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+wholesale management software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+wholesale management system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+wholesale order management,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,6,1,112.24,0.0,0.0,16.67,112.24,False
+wholesale order management software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale inventory management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce platform for distributors,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online wholesale marketplace,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,5,1,16.22,0.0,0.0,20.0,16.22,False
+online wholesale ordering platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online wholesale platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+online wholesale platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+where to sell wholesale products online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+wholesale distribution online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale distribution system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale market online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale marketplace online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+wholesale online platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale ordering platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+wholesale platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+wholesale platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,46,0,0.0,0.0,0.0,0.0,0,False
+wholesale selling platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+wholesale websites for business,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale websites for retailers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesalers for online business,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesalers websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesaling websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale distribution platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale ecommerce platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,3,1,173.22,0.0,0.0,33.33,173.22,False
+b2b wholesale platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce platform for wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+best wholesale ecommerce platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+best wholesale platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+best wholesale platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,5,1,42.65,0.0,0.0,20.0,42.65,False
+bulk ecommerce,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,1,56.34,0.0,0.0,50.0,56.34,False
+commerce wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+digital wholesale platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,1,4.77,0.0,0.0,100.0,4.77,False
+ecommerce for wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce for wholesale distribution,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce platform for distributors,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce platform for wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce wholesale suppliers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,12,0,0.0,0.0,0.0,0.0,0,False
+ecommerce wholesaler,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce wholesalers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,4,1,12.09,0.0,0.0,25.0,12.09,False
+online wholesale market,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,4,1,18.66,0.0,0.0,25.0,18.66,False
+online wholesale marketplace,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,13,1,27.94,0.0,0.0,7.69,27.94,False
+online wholesale marketplaces,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online wholesale platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online wholesaling,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,5,1,24.45,0.0,0.0,20.0,24.45,False
+websites for wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+where to sell wholesale products online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale b2b platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale commerce,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+wholesale companies online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale ecommerce,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,28,3,50.05,0.0,0.0,10.71,16.68,False
+wholesale ecommerce platform,ADDED,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+wholesale ecommerce platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale ecommerce software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale for online business,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale market online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+wholesale market place online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+wholesale marketplace for retailers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,94,8,239.86,0.0,0.0,8.51,29.98,False
+wholesale online business,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+wholesale online marketplace,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,1,56.81,0.0,0.0,50.0,56.81,False
+wholesale online platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,3,1,82.89,0.0,0.0,33.33,82.89,False
+wholesale online stores,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale ordering platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,13,2,45.84,0.0,0.0,15.38,22.92,False
+wholesale products for ecommerce,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+wholesale products for online business,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale sales platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale seller online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale selling platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale selling platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale suppliers for ecommerce,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,11,1,43.91,0.0,0.0,9.09,43.91,False
+wholesale web,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+wholesale websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale websites for business,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale webstore,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesaler websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesaling websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale ecommerce platform,EXACT,4,1,16.5,0.0,0.0,25.0,16.5,False
+inventory management vendor,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+inventory management vendors,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+inventory vendor management,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+inventory vmi,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+vender managed inventory,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+vendor inventory management,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,17,0,0.0,0.0,0.0,0.0,0,False
+vendor inventory management software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+vendor inventory management system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+vendor manage inventory,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+vendor managed inventory,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,242,1,3.5,0.0,0.0,0.41,3.5,False
+vendor managed inventory app,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,3,2,163.6,0.0,0.0,66.67,81.8,False
+vendor managed inventory companies,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+vendor managed inventory program,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+vendor managed inventory programs,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+vendor managed inventory services,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+vendor managed inventory software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,3,1,145.62,0.0,0.0,33.33,145.62,False
+vendor managed inventory solutions,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+vendor managed inventory system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+vendor managed inventory vmi,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,38,0,0.0,0.0,0.0,0.0,0,False
+vendor managed systems,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+vendor management inventory,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,22,1,43.5,0.0,0.0,4.55,43.5,False
+vendor management inventory system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,5,1,43.0,0.0,0.0,20.0,43.0,False
+vendor management inventory vmi,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+vendor owned inventory,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+vendor owned inventory management,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,2,1,38.4,0.0,0.0,50.0,38.4,False
+vmi inventory,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,12,0,0.0,0.0,0.0,0.0,0,False
+vmi inventory management,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+vmi management,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+vmi program,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+vmi software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,19,1,40.62,0.0,0.0,5.26,40.62,False
+vmi solutions,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+vmi supplier,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+vmi suppliers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+vmi system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,11,0,0.0,0.0,0.0,0.0,0,False
+vmi technology,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+vmi vendor managed inventory,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,18,1,51.36,0.0,0.0,5.56,51.36,False
+vmi vendor management,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+vmi vendor management inventory,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+what is a vendor managed inventory system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+what is a vmi program,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+what is vendor managed inventory vmi,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,vendor managed inventory platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ariba supplier portal,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+b2b,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,4,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale hub,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+best wholesale app shopify,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,1,0,0.0,0.0,0.0,0.0,0,False
+bss b2b wholesale solution,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+e procurement,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+flexhub wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,3,0,0.0,0.0,0.0,0.0,0,False
+integrator supplier,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+meesho supplier app,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,1,0,0.0,0.0,0.0,0.0,0,False
+now commerce,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+nuorder,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,12,1,12.18,0.0,0.0,8.33,12.18,False
+nuorder wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,9,0,0.0,0.0,0.0,0.0,0,False
+sami wholesale app,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+software wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+supplier ariba com,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+supplier hub,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,1,0,0.0,0.0,0.0,0.0,0,False
+supplier matrix,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,1,0,0.0,0.0,0.0,0.0,0,False
+supplier system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,1,0,0.0,0.0,0.0,0.0,0,False
+tridge,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale all in one,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale distribution strategy,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale order form,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale ordering app,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,6,1,46.16,0.0,0.0,16.67,46.16,False
+woocommerce wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,BROAD,2,0,0.0,0.0,0.0,0.0,0,False
+distributor order management system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+software for distributors wholesalers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+software for wholesale business,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,5,1,66.7,0.0,0.0,20.0,66.7,False
+software for wholesalers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale delivery software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,1,1,44.57,0.0,0.0,100.0,44.57,False
+wholesale distribution software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,7,1,160.97,0.0,0.0,14.29,160.97,False
+wholesale distributor software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+wholesale inventory management software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale order management system,ADDED,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,2,1,211.38,0.0,0.0,50.0,211.38,False
+wholesale order platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale order software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale ordering platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+wholesale ordering software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,11,1,36.8,0.0,0.0,9.09,36.8,False
+wholesale system,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale order management system,EXACT,5,1,43.85,0.0,0.0,20.0,43.85,False
+b to b wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,3,1,17.8,0.0,0.0,33.33,17.8,False
+b2b ecommerce portal,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplace online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b online marketplaces,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,2,1,125.24,0.0,0.0,50.0,125.24,False
+b2b online portal,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b sales portal,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b shopping portal,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b supplier portal,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+b2b web portal,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,277,39,791.02,1.0,10.0,14.08,20.28,False
+b2b wholesale ecommerce platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale marketplace,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,29,3,76.64,0.0,0.0,10.34,25.55,False
+b2b wholesale marketplaces,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,39,4,90.65,0.0,0.0,10.26,22.66,False
+b2b wholesale platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,13,1,94.72,0.0,0.0,7.69,94.72,False
+b2b wholesale platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,5,1,31.29,0.0,0.0,20.0,31.29,False
+b2b wholesale websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,22,3,52.99,1.0,100.0,13.64,17.66,False
+b2b wholesaler,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesalers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,16,4,113.19,0.0,0.0,25.0,28.3,False
+best b2b wholesale websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,4,1,57.96,0.0,0.0,25.0,57.96,False
+business to business wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+online b2b marketplace,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+online b2b marketplaces,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+online b2b platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+online b2b suppliers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+top b2b wholesale websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,30,1,9.23,0.0,0.0,3.33,9.23,False
+wholesale b2b,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,51,7,188.45,0.0,0.0,13.73,26.92,False
+wholesale b2b marketplace,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,25,0,0.0,0.0,0.0,0.0,0,False
+wholesale b2b suppliers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+wholesale sales platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale b2b portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+best software for wholesale business,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+retail wholesale software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+software for distributors wholesalers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+software for wholesale business,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+software for wholesale distribution,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+software for wholesale distributors,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+software for wholesalers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+software wholesalers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+wholesale business software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,3,1,117.29,0.0,0.0,33.33,117.29,False
+wholesale distribution software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,2,1,123.69,0.0,0.0,50.0,123.69,False
+wholesale distributor software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+wholesale ecommerce software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale management software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+wholesale ordering software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,21,0,0.0,0.0,0.0,0.0,0,False
+wholesaling software,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale commerce software,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+portal wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale dealer portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale dealer portal,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+wholesale portal,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale dealer portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+marketplace wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,3,1,8.23,0.0,0.0,33.33,8.23,False
+online wholesale market,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+online wholesale marketplace,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,26,2,37.16,0.0,0.0,7.69,18.58,False
+online wholesale marketplace for retailers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,1,1,115.0,0.0,0.0,100.0,115.0,False
+online wholesale marketplaces,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,10,1,21.58,0.0,0.0,10.0,21.58,False
+online wholesale platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online wholesale platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+portal wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,24,2,21.26,0.0,0.0,8.33,10.63,False
+websites for wholesale,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,1,1,17.5,0.0,0.0,100.0,17.5,False
+websites for wholesale products,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,4,1,171.46,0.0,0.0,25.0,171.46,False
+websites that sell wholesale items,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale market online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+wholesale market place,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+wholesale market place online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,4,1,21.63,0.0,0.0,25.0,21.63,False
+wholesale marketplace,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,130,5,51.42,0.0,0.0,3.85,10.28,False
+wholesale marketplace online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+wholesale marketplaces,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,51,4,142.49,0.0,0.0,7.84,35.62,False
+wholesale marketplaces online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale online market,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale online retailers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale online shopping websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale online store,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+wholesale online stores,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+wholesale order platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale platform,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+wholesale platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,37,1,19.94,0.0,0.0,2.7,19.94,False
+wholesale portal,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,28,0,0.0,0.0,0.0,0.0,0,False
+wholesale product websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale retail websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+wholesale selling platforms,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,7,1,22.51,0.0,0.0,14.29,22.51,False
+wholesale stores online,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,11,0,0.0,0.0,0.0,0.0,0,False
+wholesale suppliers websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,236,11,166.29,0.0,0.0,4.66,15.12,False
+wholesale websites for resellers,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,17,0,0.0,0.0,0.0,0.0,0,False
+wholesaler websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesalers websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesaling websites,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,wholesale trade portal,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+drop shipping integration,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,dropship supplier integration,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+dropshipping integration,NONE,22740783748,Search - NonBrand,184871850862,NB - Wholesalers,dropship supplier integration,EXACT,2,1,12.75,0.0,0.0,50.0,12.75,False
+b to b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b business portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b business websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,1,33.8,0.0,0.0,100.0,33.8,False
+b2b e commerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b electronic marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b it platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,61,2,34.94,0.0,0.0,3.28,17.47,False
+b2b marketplace websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplaces,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,25,0,0.0,0.0,0.0,0.0,0,False
+b2b marktplatz,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b online marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,21,2,100.89,0.0,0.0,9.52,50.45,False
+b2b platform services,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,13,0,0.0,0.0,0.0,0.0,0,False
+b2b portaal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,163,4,128.58,0.0,0.0,2.45,32.15,False
+b2b purchasing platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b sales platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b service marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b service platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,1,53.21,0.0,0.0,100.0,53.21,False
+b2b trade marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b trade platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b trading platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b web platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,52,2,76.25,0.0,0.0,3.85,38.12,False
+b2b webstore,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+marketplace b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,1,62.95,2.0,26.0,100.0,62.95,False
+marketplaces b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+online b2b marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online b2b marketplaces,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,3,1,21.5,0.0,0.0,33.33,21.5,False
+plateforme b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+portail b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+portal b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+trade b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+what is b2b portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b trade portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b commerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b e commerce software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b e commerce system,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce integration,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce software solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce solution,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,6,1,68.74,0.0,0.0,16.67,68.74,False
+b2b ecommerce webshop,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b onlineshop software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b2b ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b2b ecommerce solution,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+btob ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business e commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business electronic commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+solution b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce solution,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b to b software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b commerce software,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b enterprise software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b portal software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b sales software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,10,0,0.0,0.0,0.0,0.0,0,False
+b2b software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,245,4,109.79,0.0,0.0,1.63,27.45,False
+b2b software products,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,12,1,28.28,0.0,0.0,8.33,28.28,False
+b2b software sales,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b software solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b softwares,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b systems,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+business to business software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+software b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ucp universal commerce protocol,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+unified commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,115,1,61.4,0.0,0.0,0.87,61.4,False
+unified commerce platform,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,25,2,95.8,0.0,0.0,8.0,47.9,False
+unified commerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+unified commerce protocol,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+unified commerce retail platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+unified commerce solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+unified e commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+unified ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+unified retail commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+unified shopping,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+universal commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+universal commerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+universal commerce protocol ucp,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,unified commerce platform,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+b to b commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b to b ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b to b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,6,3,125.49,0.0,0.0,50.0,41.83,False
+b2b commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,28,0,0.0,0.0,0.0,0.0,0,False
+b2b commerce platform,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+b2b commerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,15,0,0.0,0.0,0.0,0.0,0,False
+b2b commerce solution,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b commerce solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b digital commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b e business,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b e commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,31,0,0.0,0.0,0.0,0.0,0,False
+b2b e commerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,6,1,32.71,0.0,0.0,16.67,32.71,False
+b2b e commerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b e commerce software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b e commerce system,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,131,12,564.44,1.0,1.0,9.16,47.04,False
+b2b ecommerce company,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,32,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,12,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce software solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce store,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce system,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce world,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,10,1,78.5,0.0,0.0,10.0,78.5,False
+b2b electronic marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,13,0,0.0,0.0,0.0,0.0,0,False
+b2b en ligne,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b eshop,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b exchange platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b in ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b it platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,1,38.09,0.0,0.0,100.0,38.09,False
+b2b market platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b marketing place,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b marketing platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,161,11,439.03,0.0,0.0,6.83,39.91,False
+b2b marketplace platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplace platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplace software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplace websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplaces,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,78,9,440.14,0.0,0.0,11.54,48.9,False
+b2b networking platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b online,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,21,0,0.0,0.0,0.0,0.0,0,False
+b2b online marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b online marketplaces,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b online ordering platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b online platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b online selling,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b online services,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b online shopping,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+b2b online store,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b onlineshop software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,10,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+b2b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,116,11,493.66,0.0,0.0,9.48,44.88,False
+b2b platform services,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,90,4,395.79,0.0,0.0,4.44,98.95,False
+b2b plattform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b procurement marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b purchasing platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b sales platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,17,0,0.0,0.0,0.0,0.0,0,False
+b2b seller platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b selling platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b service marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b service platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b services marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,11,1,39.39,0.0,0.0,9.09,39.39,False
+b2b side,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b system,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b systems,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,11,2,42.26,0.0,0.0,18.18,21.13,False
+b2b trade marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b trade platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b trading platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,3,1,42.05,0.0,0.0,33.33,42.05,False
+b2b webshop,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+b2b websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,32,1,31.61,0.0,0.0,3.12,31.61,False
+b2b wholesale ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,8,1,16.8,0.0,0.0,12.5,16.8,False
+b2b wholesale marketplaces,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b маркетплейсы,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b платформа,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b2b ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+best b2b platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,10,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce for b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce platform for b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best online b2b marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+btb platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business buying over the internet,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business e commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+business to business e commerce software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+business to business ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business electronic markets,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+business to business marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,1,21.82,0.0,0.0,50.0,21.82,False
+business to business platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+business to business platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,1,30.74,0.0,0.0,50.0,30.74,False
+business to business portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+e commerce b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+e commerce business to business b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce for b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+eb2b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,13,0,0.0,0.0,0.0,0.0,0,False
+ecommerce business to business,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce for b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+marketplace b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+marketplaces b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online b2b market,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+online b2b marketplaces,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+online b2b platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+online marketplace b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+plataforma b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,6,2,146.25,0.0,0.0,33.33,73.12,False
+plataformas b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+plateformes b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+platforms for b2b marketing,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+webshop b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+what are b2b platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+what is a b2b ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+what is a b2b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,18,0,0.0,0.0,0.0,0.0,0,False
+what is b2b ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+what is b2b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b commerce platform,EXACT,14,0,0.0,0.0,0.0,0.0,0,False
+b2b dealer portal,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b dealer portal,EXACT,16,0,0.0,0.0,0.0,0.0,0,False
+b2b best platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b commerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b e commerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,15,0,0.0,0.0,0.0,0.0,0,False
+b2b platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,14,0,0.0,0.0,0.0,0.0,0,False
+b2b sales platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b top websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b trade platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b to b websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,1,46.27,0.0,0.0,100.0,46.27,False
+best b2b company websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b2b ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b2b ecommerce companies,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+best b2b ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b2b ecommerce platforms,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,21,0,0.0,0.0,0.0,0.0,0,False
+best b2b ecommerce websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+best b2b marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+best b2b marketplaces,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+best b2b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+best b2b platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,10,0,0.0,0.0,0.0,0.0,0,False
+best b2b portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b2b product websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+best b2b service websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+best b2b software websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+best b2b websites,EXCLUDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,75,5,213.74,0.0,0.0,6.67,42.75,False
+best b2b websites in the world,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b2b wholesale platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce for b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce platform for b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce platforms for b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+best in class b2b websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+best online b2b marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best platform for b2b marketing,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+best platforms for b2b marketing,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+ecommerce b2b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+great b2b websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online b2b marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+the best b2b websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+top 10 b2b ecommerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,2,1,53.91,0.0,0.0,50.0,53.91,False
+top b to b websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+top b2b ecommerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+top b2b marketplaces,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+top b2b marketplaces in the world,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+top b2b websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,12,0,0.0,0.0,0.0,0.0,0,False
+top b2b websites in the world,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+top b2b wholesale websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,best b2b ecommerce platforms,EXACT,17,2,44.97,0.0,0.0,11.76,22.48,False
+b to b ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b to b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b best platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b commerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b e commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+b2b e commerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,3,2,132.21,0.0,0.0,66.67,66.11,False
+b2b e commerce system,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,24,1,25.62,0.0,0.0,4.17,25.62,False
+b2b ecommerce marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce platforms,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,40,1,113.12,0.0,0.0,2.5,113.12,False
+b2b ecommerce software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce store,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce system,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce world,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+b2b en ligne,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b marketing place,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,28,1,21.75,0.0,0.0,3.57,21.75,False
+b2b marketplace platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplace platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplaces,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,12,2,197.87,0.0,0.0,16.67,98.93,False
+b2b online,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b onlineshop software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,36,1,26.54,0.0,0.0,2.78,26.54,False
+b2b platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,23,1,85.43,0.0,0.0,4.35,85.43,False
+b2b retail platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b sales platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+b2b side,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b trading platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b web shop,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b webshop,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b webstore,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b wholesale platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b to b websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b2b ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b2b ecommerce websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+best b2b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best b2b platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce platforms for b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+btb platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business e commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+business to business ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+business to business platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce business to business b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+eb2b platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce for b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+global b2b platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+marketplace b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+marketplaces b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,1,45.02,0.0,0.0,100.0,45.02,False
+online b2b marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online b2b marketplaces,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+plataforma b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+plataformas b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+plateforme b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+platforms for b2b marketing,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+top b2b ecommerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,5,1,13.88,0.0,0.0,20.0,13.88,False
+what is a b2b ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce platforms,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce solution,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+best ecommerce solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+commerce solution,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+commerce solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+complete e commerce solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+complete ecommerce solution,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+digital commerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+digital commerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+digital commerce service,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+digital commerce services,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,5,2,79.66,0.0,0.0,40.0,39.83,False
+digital commerce solution,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+digital commerce solutions,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+digital ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+digital ecommerce services,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+e commerce business solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+e commerce service,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce services,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,18,0,0.0,0.0,0.0,0.0,0,False
+e commerce solution,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+e commerce solution providers,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,33,0,0.0,0.0,0.0,0.0,0,False
+e commerce solutions company,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+e commerce solutions providers,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce business solution,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+ecommerce business solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+ecommerce business solutions and systems,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce online solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce services,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,5,1,11.33,0.0,0.0,20.0,11.33,False
+ecommerce software solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+ecommerce solution,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,10,0,0.0,0.0,0.0,0.0,0,False
+ecommerce solution providers,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,47,1,6.01,0.0,0.0,2.13,6.01,False
+ecommerce technology solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online business solution,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+online commerce software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+online store solutions,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+solution de commerce électronique,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+solution de vente en ligne,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+solutions for ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+technology solutions in e commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+web shop solution,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,digital commerce solutions,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+inventory management multiple locations,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,2,1,54.25,0.0,0.0,50.0,54.25,False
+inventory management software multiple locations,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+inventory multiple locations,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,4,1,68.58,0.0,0.0,25.0,68.58,False
+manage inventory across multiple channels,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+multi channel inventory management,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+multi channel inventory management system,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+multi inventory management,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+multi location inventory,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,23,1,196.94,0.0,0.0,4.35,196.94,False
+multi location inventory management,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+multi location inventory management software,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+multi location stock info,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,3,1,27.91,0.0,0.0,33.33,27.91,False
+multi location warehouse management,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,2,1,72.31,0.0,0.0,50.0,72.31,False
+multi locations inventory management,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+multiple location inventory management,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,multi location inventory management,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b customer portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+b2b online ordering,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b online ordering platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b online ordering portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b online ordering system,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,4,1,31.96,0.0,0.0,25.0,31.96,False
+b2b online shopping,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b order portal,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering system,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,2,1,123.58,0.0,0.0,50.0,123.58,False
+b2b portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,47,1,19.44,0.0,0.0,2.13,19.44,False
+b2b procurement platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b sales portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b shop online,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,2,1,16.54,0.0,0.0,50.0,16.54,False
+b2b webshop,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+portal b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b order portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b to b commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b to b services,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,15,0,0.0,0.0,0.0,0.0,0,False
+b2b commerce platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b e commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b e commerce sales,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,8,1,56.75,0.0,0.0,12.5,56.75,False
+b2b ecommerce business,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce company,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,1,9.72,0.0,0.0,100.0,9.72,False
+b2b ecommerce platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce sales,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b ecommerce services,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,4,1,78.55,0.0,0.0,25.0,78.55,False
+b2b online,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,28,0,0.0,0.0,0.0,0.0,0,False
+b2b online business,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b online services,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b platforms,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b shopping,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business e commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+business to business ecommerce includes,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+comprehensive 2b e commerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+e b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce and b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+enterprise b2b ecommerce,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b ecommerce services,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b business portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b vendor portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b marketplace websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b vendor portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b vendor portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b provider portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b vendor portal,EXACT,13,0,0.0,0.0,0.0,0.0,0,False
+b2b sales portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b vendor portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b vendor portal,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b vendor portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+portail b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b vendor portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b buyer portal,ADDED,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b buyer portal,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+b2b en ligne,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b digital portal,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+b2b online,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b digital portal,EXACT,19,0,0.0,0.0,0.0,0.0,0,False
+b2b online marketplace,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b digital portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b ordering portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b digital portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b digital portal,EXACT,67,1,46.67,0.0,0.0,1.49,46.67,False
+b2b web platform,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b digital portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+btb portal,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b digital portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+business to business websites,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b digital portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+web b2b,NONE,22740783748,Search - NonBrand,184871850902,NB - General B2B,b2b digital portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+distribution e commerce,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+distribution ecommerce,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,7,1,57.54,0.0,0.0,14.29,57.54,False
+distribution int e commerce,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+distribution online store,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce distribution,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,8,0,0.0,0.0,0.0,0.0,0,False
+e commerce distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+ecommerce distribution,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,4,1,14.12,0.0,0.0,25.0,14.12,False
+ecommerce distribution center,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+ecommerce distribution services,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,1,1,104.01,0.0,0.0,100.0,104.01,False
+ecommerce distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,8,1,13.58,0.0,0.0,12.5,13.58,False
+ecommerce platform for distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce software for distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce usage distribution,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online distribution platforms,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online distribution services,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online sales and distribution system,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+plateforme de distribution,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+sales and distribution platforms,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+distribution inventory management,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor inventory management,EXACT,6,0,0.0,0.0,0.0,0.0,0,False
+distribution inventory management software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor inventory management,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+distribution inventory management system,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor inventory management,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+distribution inventory software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor inventory management,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+distributor inventory management software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor inventory management,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+distributor inventory software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor inventory management,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+inventory and distribution management,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor inventory management,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+inventory distribution management,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor inventory management,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+inventory management for distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor inventory management,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+inventory management software for distribution,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor inventory management,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+distributed order management,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,46,0,0.0,0.0,0.0,0.0,0,False
+distributed order management dom,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+distributed order management system,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+distributed order management systems,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,2,1,177.89,0.0,0.0,50.0,177.89,False
+distribution data management systems,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+distribution management system,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,25,1,74.3,0.0,0.0,4.0,74.3,False
+distribution management systems,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+distribution order management,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+distributor management system,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+distributor order management system,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+dms distribution management system,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+dom ecommerce,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+oms dom,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+order and delivery management system,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+order delivery management system,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+what is distributed order management,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution order management system,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+distribution ecommerce,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+distributor platform,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce for distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+e commerce wholesale distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor commerce platform,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+ecommerce distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+ecommerce for distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+ecommerce wholesale distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor commerce platform,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+online store distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+wholesale selling platforms,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor commerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+b2b distributors ecommerce,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor b2b portal,EXACT,1,1,21.36,0.0,0.0,100.0,21.36,False
+b2b ecommerce for distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor b2b portal,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+b2b sales portal,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor b2b portal,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+digital distribution platform,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+digital distribution platforms,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+distribution company software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+distribution management software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,10,1,51.18,0.0,0.0,10.0,51.18,False
+distribution management system software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+distribution platform,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,9,0,0.0,0.0,0.0,0.0,0,False
+distribution platforms,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,13,0,0.0,0.0,0.0,0.0,0,False
+distribution software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,30,2,155.86,0.0,0.0,6.67,77.93,False
+distribution software solutions,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+distribution system software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+distributor management software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+distributor platform,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+distributor software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,10,1,75.64,0.0,0.0,10.0,75.64,False
+media distribution software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+online distribution platforms,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+online software distribution,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+product distribution software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,1,0,0.0,0.0,0.0,0.0,0,False
+software distribution platform,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,3,0,0.0,0.0,0.0,0.0,0,False
+software distribution platforms,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,5,0,0.0,0.0,0.0,0.0,0,False
+software for distribution business,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,2,0,0.0,0.0,0.0,0.0,0,False
+software for distributors,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,19,2,97.14,0.0,0.0,10.53,48.57,False
+supplier portal software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,7,0,0.0,0.0,0.0,0.0,0,False
+vendor portal software,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distribution portal software,EXACT,4,0,0.0,0.0,0.0,0.0,0,False
+supplier catalog management,NONE,22740783748,Search - NonBrand,186344145054,NB - Distributors,distributor catalog management,EXACT,2,0,0.0,0.0,0.0,0.0,0,False

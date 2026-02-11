@@ -1,0 +1,32 @@
+ad_group,audience_type,audience_id,audience_name,rationale
+OMS,USER_LIST,8145697562,2025 - Order Management Visitors - L90,High-intent OMS page visitors
+OMS,USER_LIST,8661834992,Order Management Page Visits Last 90 days - GA4,OMS page visitors (GA4)
+OMS,USER_LIST,7638278756,OMS Interest - L90,Users showing OMS interest
+OMS,CUSTOM_AUDIENCE,877695143,OMS Competitor - Keywords,Searching OMS competitor terms
+OMS,CUSTOM_AUDIENCE,878722257,OMS Competitor - URLs,Browsing OMS competitor sites
+OMS,CUSTOM_AUDIENCE,893414742,OMS - Keywords,Searching OMS-related terms
+OMS,CUSTOM_AUDIENCE,868677408,Order Management Software,In-market for OMS
+NB - Manufacturers,USER_LIST,8145699524,B2B Visitors - L90,B2B page visitors
+NB - Manufacturers,USER_LIST,9014947107,2025 - B2B Commerce - L90,Recent B2B commerce interest
+NB - Manufacturers,USER_LIST,9265142234,HubSpot - B2B Target Account List,Target accounts from HubSpot
+NB - Manufacturers,CUSTOM_AUDIENCE,868677411,B2B Platforms,In-market for B2B platforms
+NB - Manufacturers,CUSTOM_AUDIENCE,615020729,Pipeline Audience: High Intent,High intent signals
+NB - Wholesalers,USER_LIST,8145699524,B2B Visitors - L90,B2B page visitors
+NB - Wholesalers,USER_LIST,9014947107,2025 - B2B Commerce - L90,Recent B2B commerce interest
+NB - Wholesalers,USER_LIST,8145697562,2025 - Order Management Visitors - L90,OMS visitors (wholesale needs OMS)
+NB - Wholesalers,CUSTOM_AUDIENCE,868677411,B2B Platforms,In-market for B2B platforms
+NB - Wholesalers,CUSTOM_AUDIENCE,868677408,Order Management Software,In-market for OMS
+NB - Wholesalers,CUSTOM_AUDIENCE,615020729,Pipeline Audience: High Intent,High intent signals
+NB - General B2B,USER_LIST,8145699524,B2B Visitors - L90,B2B page visitors
+NB - General B2B,USER_LIST,9014947107,2025 - B2B Commerce - L90,Recent B2B commerce interest
+NB - General B2B,USER_LIST,9014377412,2025 - Agentic Commerce - L90,Agentic commerce interest
+NB - General B2B,USER_LIST,9265142234,HubSpot - B2B Target Account List,Target accounts from HubSpot
+NB - General B2B,CUSTOM_AUDIENCE,893537544,Agentic Commerce - Keywords,Searching agentic commerce
+NB - General B2B,CUSTOM_AUDIENCE,868677411,B2B Platforms,In-market for B2B platforms
+NB - General B2B,CUSTOM_AUDIENCE,615761156,Pipeline Audience: Composable Commerce,Composable commerce interest
+NB - Distributors,USER_LIST,8145699524,B2B Visitors - L90,B2B page visitors
+NB - Distributors,USER_LIST,9014947107,2025 - B2B Commerce - L90,Recent B2B commerce interest
+NB - Distributors,USER_LIST,8145697562,2025 - Order Management Visitors - L90,OMS visitors (distributors need OMS)
+NB - Distributors,CUSTOM_AUDIENCE,868677411,B2B Platforms,In-market for B2B platforms
+NB - Distributors,CUSTOM_AUDIENCE,868677408,Order Management Software,In-market for OMS
+NB - Distributors,CUSTOM_AUDIENCE,615020729,Pipeline Audience: High Intent,High intent signals

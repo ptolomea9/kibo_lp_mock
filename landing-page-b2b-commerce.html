@@ -1,0 +1,1671 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>B2B Ecommerce Platform | Unified Commerce & Order Management | Kibo</title>
+<meta name="description" content="Kibo's unified B2B commerce platform combines ecommerce, order management, and AI on one platform. Contract pricing, self-service portals, real-time inventory. Recognized by Forrester. Request a demo.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- FAQ Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"What makes Kibo different from other B2B ecommerce platforms?","acceptedAnswer":{"@type":"Answer","text":"Kibo is the only platform that unifies Commerce and Order Management on a single shared data model. This eliminates the middleware, batch syncing, and data silos that plague multi-vendor stacks. You get real-time inventory visibility, intelligent order routing, contract pricing, and a self-service buyer portal — all natively integrated, not bolted on."}},
+    {"@type":"Question","name":"Can Kibo handle complex B2B pricing like contract pricing and volume tiers?","acceptedAnswer":{"@type":"Answer","text":"Yes. Kibo supports contract-based pricing, account-specific price lists, tiered and volume discounts, quote-to-order workflows, and automated multi-level approval chains. All pricing rules are managed centrally and applied consistently across every sales channel — web, mobile, EDI, and sales rep portals."}},
+    {"@type":"Question","name":"How long does it take to implement Kibo's B2B commerce platform?","acceptedAnswer":{"@type":"Answer","text":"Kibo's modular, headless architecture allows phased deployment. Most enterprise customers go live with their first module (commerce or OMS) in 8-12 weeks, then expand capabilities incrementally. There's no need to re-platform — you add modules as your requirements evolve."}},
+    {"@type":"Question","name":"Does Kibo integrate with SAP, Oracle, NetSuite, and other ERPs?","acceptedAnswer":{"@type":"Answer","text":"Yes. Kibo Connect Hub provides pre-built connectors for major ERPs including SAP, Oracle, NetSuite, and Microsoft Dynamics. It also integrates with leading WMS/3PL providers, PIM systems, payment gateways, and tax engines. All integrations use open REST APIs with comprehensive documentation."}},
+    {"@type":"Question","name":"What industries does Kibo serve for B2B commerce?","acceptedAnswer":{"@type":"Answer","text":"Kibo serves manufacturers, wholesale distributors, multi-brand enterprises, and hybrid B2B/B2C organizations. Key verticals include industrial manufacturing, food and beverage distribution, auto parts, building materials, life sciences, and apparel/fashion — any industry with complex B2B selling workflows."}},
+    {"@type":"Question","name":"Is Kibo a headless commerce platform?","acceptedAnswer":{"@type":"Answer","text":"Yes. Kibo is fully headless and API-first, built on a microservices architecture aligned with MACH principles (Microservices, API-first, Cloud-native, Headless). You can use any frontend framework, integrate with any CMS, and compose your tech stack with best-of-breed tools while Kibo handles the commerce and order management logic."}}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Kibo B2B Commerce Platform","applicationCategory":"BusinessApplication","applicationSubCategory":"B2B Ecommerce Platform","operatingSystem":"Web","description":"Unified B2B commerce platform combining ecommerce, order management, and inventory visibility on a single data model for manufacturers, distributors, and enterprise brands.","offers":{"@type":"Offer","category":"Enterprise Software"},"author":{"@type":"Organization","name":"Kibo Commerce","url":"https://kibocommerce.com"},"featureList":"B2B Commerce, Order Management, Inventory Visibility, Contract Pricing, Self-Service Portals, AI-Powered Search, Headless Architecture"}
+</script>
+
+<style>
+/* ==============================================
+   KIBO PPC LANDING PAGE v3 — AWARD-WORTHY
+   Dark theme, glassmorphism, gradient mesh,
+   scroll animations, animated counters
+   Target: < 60KB, LCP < 2.5s
+   ============================================== */
+
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --bg-deep: #050A18;
+  --bg-primary: #0A1628;
+  --bg-card: rgba(15, 25, 50, 0.6);
+  --bg-glass: rgba(255, 255, 255, 0.03);
+  --navy: #0B1B3F;
+  --blue: #2962FF;
+  --blue-bright: #448AFF;
+  --blue-glow: rgba(41, 98, 255, 0.4);
+  --blue-subtle: rgba(41, 98, 255, 0.08);
+  --cyan: #00E5FF;
+  --cyan-glow: rgba(0, 229, 255, 0.3);
+  --white: #FFFFFF;
+  --text-primary: #E8EDF5;
+  --text-secondary: #8E99A4;
+  --text-muted: #5A6A7A;
+  --border: rgba(255, 255, 255, 0.06);
+  --border-glow: rgba(41, 98, 255, 0.2);
+  --green: #00E676;
+  --green-glow: rgba(0, 230, 118, 0.3);
+  --red: #FF5252;
+  --orange: #FFB74D;
+  --purple: #B388FF;
+  --section-pad: clamp(3.5rem, 6vw, 5rem);
+  --container: 1160px;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  color: var(--text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  background: var(--bg-deep);
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4 { font-family: 'Space Grotesk', sans-serif; }
+
+.container { max-width: var(--container); margin: 0 auto; padding: 0 1.5rem; }
+
+/* --- REVEAL ANIMATION --- */
+.reveal {
+  opacity: 0; transform: translateY(40px) scale(0.98);
+  transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1), filter 0.8s ease;
+  filter: blur(4px);
+}
+.reveal.visible { opacity: 1; transform: translateY(0) scale(1); filter: blur(0); }
+.reveal-delay-1 { transition-delay: 0.12s; }
+.reveal-delay-2 { transition-delay: 0.24s; }
+.reveal-delay-3 { transition-delay: 0.36s; }
+/* Staggered children inside grids */
+.cap-grid .cap-card { opacity: 0; transform: translateY(30px) scale(0.97); filter: blur(3px);
+  transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1), transform 0.6s cubic-bezier(0.16, 1, 0.3, 1), filter 0.6s ease, background 300ms, box-shadow 300ms; }
+.cap-grid.visible .cap-card { opacity: 1; transform: translateY(0) scale(1); filter: blur(0); }
+.cap-grid.visible .cap-card:nth-child(1) { transition-delay: 0.05s; }
+.cap-grid.visible .cap-card:nth-child(2) { transition-delay: 0.1s; }
+.cap-grid.visible .cap-card:nth-child(3) { transition-delay: 0.15s; }
+.cap-grid.visible .cap-card:nth-child(4) { transition-delay: 0.2s; }
+.cap-grid.visible .cap-card:nth-child(5) { transition-delay: 0.25s; }
+.cap-grid.visible .cap-card:nth-child(6) { transition-delay: 0.3s; }
+.cap-grid.visible .cap-card:nth-child(7) { transition-delay: 0.35s; }
+.cap-grid.visible .cap-card:nth-child(8) { transition-delay: 0.4s; }
+.cap-grid.visible .cap-card:nth-child(9) { transition-delay: 0.45s; }
+.cap-grid.visible .cap-card:nth-child(10) { transition-delay: 0.5s; }
+.cap-grid.visible .cap-card:nth-child(11) { transition-delay: 0.55s; }
+.cap-grid.visible .cap-card:nth-child(12) { transition-delay: 0.6s; }
+/* Scroll progress glow line at top */
+.scroll-progress { position: fixed; top: 0; left: 0; height: 2px; z-index: 200; width: 0%;
+  background: linear-gradient(90deg, var(--blue), var(--cyan), var(--purple));
+  box-shadow: 0 0 10px var(--blue-glow), 0 0 30px rgba(0, 229, 255, 0.2);
+  transition: width 50ms linear; pointer-events: none;
+}
+/* Parallax sections */
+.parallax-section { will-change: transform; }
+
+/* --- GRADIENT TEXT --- */
+.gradient-text {
+  background: linear-gradient(135deg, var(--blue-bright) 0%, var(--cyan) 100%);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* --- GLOW BUTTON --- */
+.btn-glow {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  padding: 0.875rem 2rem; background: var(--blue); color: var(--white);
+  border: none; border-radius: 12px; font-size: 1rem; font-weight: 600;
+  font-family: 'Space Grotesk', sans-serif; cursor: pointer; text-decoration: none;
+  position: relative; overflow: hidden;
+  transition: transform 200ms, box-shadow 200ms;
+  box-shadow: 0 0 20px var(--blue-glow), 0 0 60px rgba(41, 98, 255, 0.15);
+}
+.btn-glow:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 30px var(--blue-glow), 0 0 80px rgba(41, 98, 255, 0.25);
+}
+.btn-glow::after {
+  content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%;
+  background: linear-gradient(45deg, transparent 40%, rgba(255,255,255,0.1) 50%, transparent 60%);
+  transition: transform 500ms;
+  transform: translateX(-100%);
+}
+.btn-glow:hover::after { transform: translateX(100%); }
+.btn-glow svg { width: 18px; height: 18px; }
+
+/* --- GLASS CARD --- */
+.glass {
+  background: var(--bg-glass);
+  backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+}
+.glass-hover:hover {
+  border-color: var(--border-glow);
+  box-shadow: 0 4px 30px rgba(41, 98, 255, 0.12), 0 0 60px rgba(41, 98, 255, 0.04), inset 0 1px 0 rgba(255,255,255,0.05);
+}
+
+/* ========== HEADER ========== */
+.header {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  padding: 0.75rem 1.5rem;
+  background: rgba(5, 10, 24, 0.8);
+  backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: space-between;
+  transition: background 300ms;
+}
+.logo { display: flex; align-items: center; gap: 0.625rem; text-decoration: none; }
+.logo-mark {
+  width: 38px; height: 38px; border-radius: 10px;
+  background: linear-gradient(135deg, var(--blue) 0%, var(--cyan) 100%);
+  display: flex; align-items: center; justify-content: center;
+  color: white; font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 1.125rem;
+}
+.logo-text { font-family: 'Space Grotesk', sans-serif; font-weight: 700; font-size: 1.25rem; color: var(--white); letter-spacing: 0.05em; }
+.header-right { display: flex; align-items: center; gap: 1.25rem; }
+.header-phone {
+  display: none; align-items: center; gap: 0.375rem;
+  color: var(--text-secondary); text-decoration: none; font-size: 0.875rem; font-weight: 500;
+  transition: color 200ms;
+}
+.header-phone:hover { color: var(--blue-bright); }
+.header-phone svg { width: 16px; height: 16px; }
+.header-cta {
+  padding: 0.5rem 1.25rem; background: var(--blue); color: var(--white);
+  border: none; border-radius: 8px; font-size: 0.875rem; font-weight: 600;
+  font-family: 'Space Grotesk', sans-serif; text-decoration: none; cursor: pointer;
+  transition: background 200ms, box-shadow 200ms;
+  box-shadow: 0 0 15px rgba(41, 98, 255, 0.3);
+}
+.header-cta:hover { background: #3D7BFF; box-shadow: 0 0 25px rgba(41, 98, 255, 0.5); }
+
+/* ========== HERO ========== */
+.hero {
+  position: relative; overflow: hidden;
+  padding: calc(4rem + 60px) 1.5rem 3rem;
+  background: var(--bg-deep);
+  display: flex; align-items: center;
+}
+/* Animated gradient mesh background */
+.hero::before {
+  content: ''; position: absolute; inset: -50%; width: 200%; height: 200%;
+  background:
+    radial-gradient(ellipse 40% 35% at 20% 30%, rgba(41, 98, 255, 0.18) 0%, transparent 60%),
+    radial-gradient(ellipse 35% 40% at 75% 70%, rgba(0, 229, 255, 0.12) 0%, transparent 60%),
+    radial-gradient(ellipse 30% 30% at 50% 10%, rgba(179, 136, 255, 0.1) 0%, transparent 50%),
+    radial-gradient(ellipse 25% 25% at 60% 50%, rgba(41, 98, 255, 0.08) 0%, transparent 50%);
+  pointer-events: none; z-index: 0;
+  animation: meshDrift 20s ease-in-out infinite alternate;
+}
+@keyframes meshDrift {
+  0% { transform: translate(0, 0) rotate(0deg); }
+  25% { transform: translate(3%, -2%) rotate(1deg); }
+  50% { transform: translate(-2%, 3%) rotate(-0.5deg); }
+  75% { transform: translate(1%, -1%) rotate(0.5deg); }
+  100% { transform: translate(-3%, 2%) rotate(-1deg); }
+}
+/* Animated grid overlay */
+.hero::after {
+  content: ''; position: absolute; inset: 0;
+  background-image:
+    linear-gradient(rgba(41, 98, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(41, 98, 255, 0.03) 1px, transparent 1px);
+  background-size: 60px 60px;
+  mask-image: radial-gradient(ellipse 70% 70% at 50% 50%, black 0%, transparent 70%);
+  -webkit-mask-image: radial-gradient(ellipse 70% 70% at 50% 50%, black 0%, transparent 70%);
+  pointer-events: none; z-index: 0;
+}
+.hero-inner {
+  max-width: var(--container); margin: 0 auto; width: 100%;
+  display: grid; gap: 3rem; position: relative; z-index: 1;
+}
+.hero-eyebrow {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  padding: 0.4rem 1rem;
+  background: rgba(41, 98, 255, 0.1); border: 1px solid rgba(41, 98, 255, 0.25);
+  border-radius: 100px; font-size: 0.8125rem; font-weight: 600;
+  color: var(--blue-bright); width: fit-content;
+}
+.hero-eyebrow::before {
+  content: ''; width: 6px; height: 6px; border-radius: 50%;
+  background: var(--cyan); box-shadow: 0 0 8px var(--cyan-glow);
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(1.5); }
+}
+.hero h1 {
+  font-size: clamp(2.5rem, 6.5vw, 4.5rem); font-weight: 700;
+  line-height: 1.05; letter-spacing: -0.04em; margin-top: 1rem;
+  color: var(--white);
+  transition: transform 100ms ease-out;
+}
+.hero-sub {
+  font-size: clamp(1rem, 1.5vw, 1.125rem); line-height: 1.7;
+  color: var(--text-secondary); max-width: 560px; margin-top: 1rem;
+}
+.hero-checks { list-style: none; display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1.25rem; }
+.hero-checks li {
+  display: flex; align-items: flex-start; gap: 0.75rem;
+  font-size: 0.9375rem; color: var(--text-primary); line-height: 1.5;
+}
+.hero-checks li .check-icon {
+  width: 20px; height: 20px; flex-shrink: 0; margin-top: 2px;
+  border-radius: 50%; display: flex; align-items: center; justify-content: center;
+  background: rgba(0, 230, 118, 0.15); color: var(--green);
+}
+.hero-checks li .check-icon svg { width: 12px; height: 12px; }
+
+.hero-metrics {
+  display: flex; gap: 2.5rem; margin-top: 2rem; padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+.hero-metric-value {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(1.5rem, 3vw, 2rem); font-weight: 700;
+  background: linear-gradient(135deg, var(--blue-bright) 0%, var(--cyan) 100%);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+  line-height: 1.1;
+}
+.hero-metric-label { font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem; line-height: 1.3; }
+
+/* ========== FORM ========== */
+.form-card {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(30px); -webkit-backdrop-filter: blur(30px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 20px; padding: 2rem 1.75rem;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.4);
+  position: relative; overflow: hidden;
+}
+.form-card::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(41, 98, 255, 0.5), transparent);
+}
+.form-title { font-size: 1.25rem; font-weight: 700; color: var(--white); margin-bottom: 0.25rem; }
+.form-subtitle { font-size: 0.8125rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+.form-group { margin-bottom: 0.875rem; }
+.form-label { display: block; font-size: 0.8125rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 0.375rem; }
+.form-input, .form-select {
+  width: 100%; padding: 0.75rem 1rem;
+  background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 10px; font-size: 0.9375rem; font-family: inherit;
+  color: var(--white); transition: border-color 200ms, box-shadow 200ms;
+  -webkit-appearance: none;
+}
+.form-input:focus, .form-select:focus {
+  outline: none; border-color: var(--blue);
+  box-shadow: 0 0 0 3px rgba(41, 98, 255, 0.15), 0 0 20px rgba(41, 98, 255, 0.1);
+}
+.form-input::placeholder { color: var(--text-muted); }
+.form-select { color: var(--text-muted); }
+.form-select option { background: var(--bg-primary); color: var(--text-primary); }
+.form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.875rem; }
+.form-submit {
+  width: 100%; padding: 0.875rem; margin-top: 0.5rem;
+  background: linear-gradient(135deg, var(--blue) 0%, #3D7BFF 100%);
+  color: var(--white); border: none; border-radius: 10px;
+  font-size: 1rem; font-weight: 700; font-family: 'Space Grotesk', sans-serif;
+  cursor: pointer; transition: transform 150ms, box-shadow 200ms;
+  box-shadow: 0 0 20px var(--blue-glow);
+}
+.form-submit:hover { transform: translateY(-1px); box-shadow: 0 0 30px var(--blue-glow), 0 8px 25px rgba(0,0,0,0.3); }
+.form-submit:active { transform: scale(0.99); }
+.form-privacy { font-size: 0.6875rem; color: var(--text-muted); text-align: center; margin-top: 0.75rem; }
+.form-privacy a { color: var(--text-secondary); text-decoration: underline; }
+.form-trust {
+  display: flex; align-items: center; justify-content: center; gap: 1.25rem;
+  margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var(--border);
+}
+.form-trust-item { display: flex; align-items: center; gap: 0.375rem; font-size: 0.6875rem; color: var(--text-muted); }
+.form-trust-item svg { width: 14px; height: 14px; color: var(--green); }
+
+/* ========== SHARED SECTION ========== */
+.section-label {
+  font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.15em; color: var(--blue-bright); margin-bottom: 0.75rem;
+}
+.section-title {
+  font-size: clamp(1.625rem, 3.5vw, 2.5rem); font-weight: 700;
+  color: var(--white); letter-spacing: -0.03em; line-height: 1.15;
+}
+.section-desc {
+  font-size: 1.0625rem; color: var(--text-secondary); max-width: 640px;
+  margin-top: 0.75rem; line-height: 1.7;
+}
+.section-desc.centered { margin-left: auto; margin-right: auto; text-align: center; }
+.text-center { text-align: center; }
+
+/* ========== TRUST BAR ========== */
+.trust-bar {
+  padding: 2rem 1.5rem;
+  border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+  background: rgba(10, 22, 40, 0.5);
+  overflow: hidden;
+}
+.trust-bar-label {
+  font-size: 0.6875rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.15em; color: var(--text-muted); margin-bottom: 1.25rem; text-align: center;
+}
+.trust-logos {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: center;
+  gap: 1.5rem 3rem; max-width: 960px; margin: 0 auto;
+}
+.trust-logo {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.9375rem; font-weight: 600; color: var(--text-muted);
+  letter-spacing: 0.02em; white-space: nowrap;
+  transition: color 300ms;
+}
+.trust-logo:hover { color: var(--text-primary); }
+
+/* ========== ANALYST STRIP ========== */
+.analyst-strip {
+  padding: 2rem 1.5rem;
+  background: linear-gradient(135deg, rgba(41, 98, 255, 0.08) 0%, rgba(0, 229, 255, 0.04) 100%);
+  border-bottom: 1px solid var(--border);
+}
+.analyst-inner {
+  max-width: var(--container); margin: 0 auto;
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: center;
+  gap: 2rem 3.5rem;
+}
+.analyst-item { text-align: center; flex: 0 0 auto; }
+.analyst-icon {
+  width: 52px; height: 52px; margin: 0 auto 0.625rem;
+  border-radius: 14px; display: flex; align-items: center; justify-content: center;
+  font-family: 'Space Grotesk', sans-serif; font-size: 1rem; font-weight: 700;
+  background: rgba(41, 98, 255, 0.1); border: 1px solid rgba(41, 98, 255, 0.2);
+  color: var(--blue-bright);
+  transition: box-shadow 300ms, border-color 300ms;
+}
+.analyst-item:hover .analyst-icon {
+  box-shadow: 0 0 20px rgba(41, 98, 255, 0.2);
+  border-color: rgba(41, 98, 255, 0.4);
+}
+.analyst-title { font-size: 0.8125rem; font-weight: 700; color: var(--text-primary); }
+.analyst-sub { font-size: 0.6875rem; color: var(--text-muted); margin-top: 0.125rem; }
+
+/* ========== PROBLEM/SOLUTION ========== */
+.problem-solution { padding: var(--section-pad) 1.5rem; background: var(--bg-deep); }
+.ps-grid { display: grid; gap: 2rem; margin-top: 2.5rem; }
+.ps-col {
+  padding: 2rem; border-radius: 16px;
+  border: 1px solid var(--border); background: var(--bg-glass);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  position: relative; overflow: hidden;
+}
+.ps-col::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+}
+.ps-col.problem-col::before { background: linear-gradient(90deg, var(--red), transparent); }
+.ps-col.solution-col::before { background: linear-gradient(90deg, var(--green), transparent); }
+.ps-col h3 {
+  font-size: 1.0625rem; font-weight: 700; margin-bottom: 1.25rem;
+  display: flex; align-items: center; gap: 0.625rem; color: var(--white);
+}
+.ps-badge {
+  display: inline-flex; align-items: center; padding: 0.25rem 0.75rem;
+  border-radius: 6px; font-size: 0.6875rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.05em;
+}
+.ps-badge.problem { background: rgba(255, 82, 82, 0.15); color: var(--red); border: 1px solid rgba(255, 82, 82, 0.2); }
+.ps-badge.solution { background: rgba(0, 230, 118, 0.1); color: var(--green); border: 1px solid rgba(0, 230, 118, 0.2); }
+.ps-list { list-style: none; display: flex; flex-direction: column; gap: 0.875rem; }
+.ps-list li {
+  display: flex; align-items: flex-start; gap: 0.75rem;
+  font-size: 0.9375rem; color: var(--text-secondary); line-height: 1.55;
+}
+.ps-list li svg { width: 18px; height: 18px; flex-shrink: 0; margin-top: 3px; }
+.ps-list.problem-list li svg { color: var(--red); }
+.ps-list.solution-list li svg { color: var(--green); }
+
+/* ========== CAPABILITIES BENTO ========== */
+.capabilities { padding: var(--section-pad) 1.5rem; background: var(--bg-primary); }
+.cap-filters {
+  display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem; justify-content: center;
+}
+.cap-filter-btn {
+  padding: 0.5rem 1.125rem; border-radius: 100px; font-size: 0.8125rem; font-weight: 600;
+  font-family: 'Space Grotesk', sans-serif; cursor: pointer;
+  background: var(--bg-glass); color: var(--text-secondary);
+  border: 1px solid var(--border); transition: all 250ms;
+}
+.cap-filter-btn:hover { border-color: var(--border-glow); color: var(--text-primary); }
+.cap-filter-btn.active {
+  background: rgba(41, 98, 255, 0.12); color: var(--blue-bright);
+  border-color: rgba(41, 98, 255, 0.3); box-shadow: 0 0 15px rgba(41, 98, 255, 0.1);
+}
+.cap-grid {
+  display: grid; gap: 1px; margin-top: 1.25rem;
+  background: var(--border); border-radius: 20px; overflow: hidden;
+}
+.cap-card {
+  padding: 1.25rem 1.5rem; background: var(--bg-deep);
+  position: relative; transition: background 300ms, opacity 400ms, max-height 400ms;
+  display: flex; align-items: flex-start; gap: 1rem;
+}
+.cap-card.cap-hidden { display: none; }
+.cap-card.cap-span-full { grid-column: 1 / -1; }
+.cap-card:hover { background: rgba(41, 98, 255, 0.04); }
+.cap-card::after {
+  content: ''; position: absolute; bottom: 0; left: 1.5rem; right: 1.5rem; height: 1px;
+  background: linear-gradient(90deg, transparent, var(--border-glow), transparent);
+  opacity: 0; transition: opacity 300ms;
+}
+.cap-card:hover::after { opacity: 1; }
+.cap-icon {
+  width: 38px; height: 38px; display: flex; align-items: center; justify-content: center;
+  border-radius: 10px; flex-shrink: 0;
+  transition: box-shadow 400ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+.cap-icon svg { width: 18px; height: 18px; transition: transform 400ms cubic-bezier(0.16, 1, 0.3, 1); }
+.cap-card:hover .cap-icon svg { transform: scale(1.15) rotate(-5deg); }
+.cap-card:hover .cap-icon { box-shadow: 0 0 20px currentColor; }
+.cap-icon.blue { background: rgba(41, 98, 255, 0.1); color: var(--blue-bright); border: 1px solid rgba(41, 98, 255, 0.15); }
+.cap-icon.green { background: rgba(0, 230, 118, 0.08); color: var(--green); border: 1px solid rgba(0, 230, 118, 0.12); }
+.cap-icon.purple { background: rgba(179, 136, 255, 0.08); color: var(--purple); border: 1px solid rgba(179, 136, 255, 0.12); }
+.cap-icon.orange { background: rgba(255, 183, 77, 0.08); color: var(--orange); border: 1px solid rgba(255, 183, 77, 0.12); }
+.cap-icon.teal { background: rgba(0, 229, 255, 0.08); color: var(--cyan); border: 1px solid rgba(0, 229, 255, 0.12); }
+.cap-icon.navy { background: rgba(41, 98, 255, 0.06); color: #7B9FFF; border: 1px solid rgba(41, 98, 255, 0.1); }
+.cap-card-content { flex: 1; min-width: 0; }
+.cap-card h3 { font-size: 0.9375rem; font-weight: 700; color: var(--white); margin-bottom: 0.25rem; }
+.cap-card p { font-size: 0.8125rem; color: var(--text-secondary); line-height: 1.55; }
+
+/* ========== PLATFORM ARCHITECTURE ========== */
+.platform-visual { padding: var(--section-pad) 1.5rem; background: var(--bg-deep); }
+.platform-diagram {
+  margin-top: 2.5rem; border-radius: 20px; padding: 2rem 1.5rem;
+  background: rgba(10, 22, 40, 0.8); border: 1px solid var(--border);
+  position: relative; overflow: hidden;
+}
+.platform-diagram::before {
+  content: ''; position: absolute; inset: 0;
+  background: radial-gradient(ellipse at 50% 50%, rgba(41, 98, 255, 0.05) 0%, transparent 70%);
+  pointer-events: none;
+}
+.platform-layers { display: flex; flex-direction: column; gap: 0.75rem; position: relative; z-index: 1; }
+.platform-layer {
+  border: 1px solid var(--border); border-radius: 12px; padding: 1rem 1.25rem;
+  background: var(--bg-glass); backdrop-filter: blur(10px);
+  transition: border-color 300ms;
+}
+.platform-layer:hover { border-color: var(--border-glow); }
+.platform-layer-label {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.6875rem; font-weight: 700; text-transform: uppercase;
+  letter-spacing: 0.1em; margin-bottom: 0.625rem;
+  display: flex; align-items: center; gap: 0.5rem; color: var(--text-secondary);
+}
+.platform-layer-label .dot { width: 8px; height: 8px; border-radius: 50%; box-shadow: 0 0 6px currentColor; }
+.dot-blue { background: var(--blue-bright); color: var(--blue-bright); }
+.dot-green { background: var(--green); color: var(--green); }
+.dot-purple { background: var(--purple); color: var(--purple); }
+.dot-orange { background: var(--orange); color: var(--orange); }
+.platform-layer-items { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.platform-tag {
+  display: inline-flex; padding: 0.3rem 0.75rem; border-radius: 6px;
+  font-size: 0.75rem; font-weight: 500;
+  background: rgba(255, 255, 255, 0.04); color: var(--text-secondary);
+  border: 1px solid var(--border);
+}
+.platform-center {
+  background: rgba(41, 98, 255, 0.06);
+  border-color: rgba(41, 98, 255, 0.2);
+  box-shadow: 0 0 30px rgba(41, 98, 255, 0.05);
+}
+.platform-center .platform-layer-label { color: var(--blue-bright); }
+.platform-center .platform-tag {
+  background: rgba(41, 98, 255, 0.1); color: var(--blue-bright);
+  border-color: rgba(41, 98, 255, 0.2);
+}
+/* Connector lines */
+.platform-connector {
+  display: flex; justify-content: center; padding: 0.25rem 0;
+}
+.platform-connector .line {
+  width: 2px; height: 20px;
+  background: linear-gradient(180deg, var(--border-glow), transparent);
+}
+
+/* ========== HOW IT WORKS ========== */
+.how-it-works {
+  padding: var(--section-pad) 1.5rem;
+  background: linear-gradient(180deg, var(--bg-primary) 0%, var(--bg-deep) 100%);
+  position: relative; overflow: hidden;
+}
+.steps-grid { display: grid; gap: 1.25rem; margin-top: 2.5rem; counter-reset: step; max-width: var(--container); margin-left: auto; margin-right: auto; }
+.step-card {
+  background: var(--bg-glass); border: 1px solid var(--border);
+  border-radius: 16px; padding: 1.75rem; position: relative;
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  transition: border-color 300ms, box-shadow 300ms;
+  counter-increment: step;
+  display: flex; flex-direction: column; overflow: hidden;
+}
+.step-card:hover {
+  border-color: var(--border-glow);
+  box-shadow: 0 8px 40px rgba(41, 98, 255, 0.1), 0 0 80px rgba(0, 229, 255, 0.03);
+}
+.step-num {
+  width: 40px; height: 40px; display: flex; align-items: center; justify-content: center;
+  background: linear-gradient(135deg, var(--blue) 0%, var(--blue-bright) 100%);
+  color: var(--white); border-radius: 12px;
+  font-family: 'Space Grotesk', sans-serif; font-size: 0.9375rem; font-weight: 700;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 15px var(--blue-glow);
+}
+.step-card h3 { font-size: 1.0625rem; font-weight: 700; color: var(--white); margin-bottom: 0.5rem; }
+.step-card p { font-size: 0.875rem; color: var(--text-secondary); line-height: 1.65; }
+.step-features { margin-top: auto; padding-top: 0.875rem; display: flex; flex-wrap: wrap; gap: 0.375rem; }
+.step-feature-tag {
+  font-size: 0.6875rem; padding: 0.375rem 0.5rem; border-radius: 6px;
+  background: rgba(41, 98, 255, 0.08); color: var(--blue-bright);
+  border: 1px solid rgba(41, 98, 255, 0.15); font-weight: 600;
+  text-align: center;
+  transition: background 250ms, border-color 250ms, box-shadow 250ms, transform 250ms;
+  cursor: default;
+}
+.step-feature-tag:hover {
+  background: rgba(41, 98, 255, 0.15); border-color: rgba(41, 98, 255, 0.3);
+  box-shadow: 0 0 12px rgba(41, 98, 255, 0.15); transform: translateY(-1px);
+}
+
+/* ========== MID CTA ========== */
+.mid-cta {
+  padding: 3rem 1.5rem; text-align: center;
+  background: linear-gradient(135deg, rgba(41, 98, 255, 0.1) 0%, rgba(0, 229, 255, 0.05) 100%);
+  border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+  position: relative;
+}
+.mid-cta h2 { font-size: clamp(1.375rem, 3vw, 1.875rem); font-weight: 700; color: var(--white); margin-bottom: 0.625rem; }
+.mid-cta p { font-size: 1rem; color: var(--text-secondary); margin-bottom: 1.75rem; max-width: 500px; margin-left: auto; margin-right: auto; }
+
+/* ========== INDUSTRIES ========== */
+.industries { padding: var(--section-pad) 1.5rem; background: var(--bg-deep); }
+.industry-grid { display: grid; gap: 1.25rem; margin-top: 2.5rem; }
+.industry-card {
+  border: 1px solid var(--border); border-radius: 16px; padding: 2rem;
+  background: var(--bg-glass); backdrop-filter: blur(10px);
+  transition: border-color 300ms, box-shadow 300ms;
+  position: relative; overflow: hidden;
+  display: flex; flex-direction: column;
+}
+.industry-card::before {
+  content: ''; position: absolute; top: 0; left: 0; width: 3px; height: 100%;
+  border-radius: 3px 0 0 3px;
+}
+.industry-card:nth-child(1)::before { background: linear-gradient(180deg, var(--blue-bright), transparent); }
+.industry-card:nth-child(2)::before { background: linear-gradient(180deg, var(--cyan), transparent); }
+.industry-card:nth-child(3)::before { background: linear-gradient(180deg, var(--purple), transparent); }
+.industry-card:nth-child(4)::before { background: linear-gradient(180deg, var(--green), transparent); }
+.industry-card:hover { border-color: var(--border-glow); box-shadow: 0 8px 40px rgba(41, 98, 255, 0.1), 0 0 60px rgba(41, 98, 255, 0.04); }
+.industry-card h3 { font-size: 1.125rem; font-weight: 700; color: var(--white); margin-bottom: 0.625rem; }
+.industry-card p { font-size: 0.875rem; color: var(--text-secondary); line-height: 1.65; margin-bottom: 1rem; }
+.industry-features { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.375rem; margin-top: auto; padding-top: 1rem; }
+.industry-tag {
+  font-size: 0.6875rem; padding: 0.375rem 0.5rem; border-radius: 6px;
+  background: rgba(41, 98, 255, 0.08); color: var(--blue-bright);
+  border: 1px solid rgba(41, 98, 255, 0.15); font-weight: 600;
+  text-align: center; white-space: nowrap;
+  transition: background 250ms, border-color 250ms, box-shadow 250ms, transform 250ms;
+  cursor: default;
+}
+.industry-tag:hover {
+  background: rgba(41, 98, 255, 0.15); border-color: rgba(41, 98, 255, 0.3);
+  box-shadow: 0 0 12px rgba(41, 98, 255, 0.15); transform: translateY(-1px);
+}
+
+/* ========== TESTIMONIALS ========== */
+.testimonials { padding: var(--section-pad) 1.5rem; background: var(--bg-primary); }
+.testimonial-grid { display: grid; gap: 1.5rem; margin-top: 2.5rem; }
+.testimonial-card {
+  border: 1px solid var(--border); border-radius: 16px; padding: 2rem;
+  background: var(--bg-glass); backdrop-filter: blur(10px);
+  position: relative; transition: border-color 300ms;
+}
+.testimonial-card:hover { border-color: var(--border-glow); box-shadow: 0 8px 40px rgba(41, 98, 255, 0.08), 0 0 60px rgba(0, 229, 255, 0.03); }
+.testimonial-quote-mark {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 4rem; font-weight: 700; line-height: 1;
+  position: absolute; top: 0.5rem; right: 1.5rem;
+  background: linear-gradient(135deg, var(--blue), var(--cyan));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+  opacity: 0.2;
+}
+.testimonial-text { font-size: 0.9375rem; color: var(--text-secondary); line-height: 1.75; font-style: italic; margin-bottom: 1.5rem; }
+.testimonial-attribution { display: flex; align-items: center; gap: 0.75rem; }
+.testimonial-avatar {
+  width: 44px; height: 44px; border-radius: 12px;
+  background: linear-gradient(135deg, rgba(41, 98, 255, 0.2), rgba(0, 229, 255, 0.1));
+  border: 1px solid rgba(41, 98, 255, 0.2);
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Space Grotesk', sans-serif; font-size: 0.875rem; font-weight: 700;
+  color: var(--blue-bright);
+}
+.testimonial-name { font-size: 0.875rem; font-weight: 700; color: var(--white); }
+.testimonial-role { font-size: 0.8125rem; color: var(--text-muted); }
+.testimonial-stat {
+  margin-top: 1.25rem; padding-top: 1.25rem; border-top: 1px solid var(--border);
+  display: flex; align-items: center; gap: 0.625rem;
+}
+.testimonial-stat-num {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.5rem; font-weight: 700;
+  background: linear-gradient(135deg, var(--blue-bright), var(--cyan));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+}
+.testimonial-stat-label { font-size: 0.8125rem; color: var(--text-muted); }
+
+/* ========== STATS BANNER ========== */
+.stats-banner {
+  padding: 3.5rem 1.5rem;
+  background: linear-gradient(135deg, rgba(41, 98, 255, 0.12) 0%, rgba(0, 229, 255, 0.06) 100%);
+  border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+  position: relative;
+}
+.stats-grid {
+  max-width: var(--container); margin: 0 auto;
+  display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem;
+}
+.stat-item { text-align: center; }
+.stat-num {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(2rem, 5vw, 3rem); font-weight: 700;
+  background: linear-gradient(135deg, var(--white) 0%, var(--blue-bright) 100%);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+  line-height: 1;
+}
+.stat-label { font-size: 0.875rem; color: var(--text-secondary); margin-top: 0.375rem; }
+.stat-source { font-size: 0.6875rem; color: var(--text-muted); margin-top: 0.25rem; font-style: italic; }
+
+/* ========== INTEGRATIONS ========== */
+.integrations { padding: var(--section-pad) 1.5rem; background: var(--bg-deep); }
+.integration-grid { display: grid; gap: 1.25rem; margin-top: 2.5rem; }
+.integration-card {
+  border: 1px solid var(--border); border-radius: 16px; padding: 1.75rem;
+  background: var(--bg-glass); backdrop-filter: blur(10px);
+  text-align: center; transition: border-color 300ms;
+}
+.integration-card:hover { border-color: var(--border-glow); box-shadow: 0 8px 30px rgba(41, 98, 255, 0.08); }
+.integration-card { display: flex; flex-direction: column; }
+.integration-card h3 { font-size: 1rem; font-weight: 700; color: var(--white); margin-bottom: 0.5rem; }
+.integration-card p { font-size: 0.8125rem; color: var(--text-secondary); line-height: 1.6; }
+.integration-logos { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem; margin-top: auto; padding-top: 1rem; }
+.integration-logo-tag {
+  font-size: 0.75rem; font-weight: 600; padding: 0.5rem 0.625rem;
+  border-radius: 8px; background: rgba(255, 255, 255, 0.04);
+  color: var(--text-secondary); border: 1px solid var(--border);
+  text-align: center; text-decoration: none; display: block;
+  transition: background 250ms, border-color 250ms, color 250ms, box-shadow 250ms, transform 250ms;
+  cursor: pointer;
+}
+.integration-logo-tag:hover {
+  background: rgba(41, 98, 255, 0.1); border-color: rgba(41, 98, 255, 0.3);
+  color: var(--blue-bright); box-shadow: 0 0 15px rgba(41, 98, 255, 0.12);
+  transform: translateY(-2px);
+}
+
+/* ========== COMPARISON TABLE ========== */
+.comparison { padding: var(--section-pad) 1.5rem; background: var(--bg-primary); }
+.comparison-table { margin-top: 2.5rem; overflow-x: auto; -webkit-overflow-scrolling: touch; border-radius: 16px; border: 1px solid var(--border); }
+.comparison-table table {
+  width: 100%; min-width: 600px; border-collapse: collapse;
+  background: var(--bg-deep);
+}
+.comparison-table th, .comparison-table td {
+  padding: 0.875rem 1.25rem; text-align: left; font-size: 0.8125rem;
+  border-bottom: 1px solid var(--border);
+}
+.comparison-table thead th {
+  background: rgba(41, 98, 255, 0.08);
+  color: var(--blue-bright); font-weight: 700; font-size: 0.75rem;
+  text-transform: uppercase; letter-spacing: 0.08em;
+  font-family: 'Space Grotesk', sans-serif;
+}
+.comparison-table tbody td { color: var(--text-secondary); }
+.comparison-table tbody td:first-child { font-weight: 600; color: var(--text-primary); }
+.comparison-table tbody tr:hover { background: rgba(41, 98, 255, 0.03); }
+.check { color: var(--green); font-weight: 700; font-size: 1rem; }
+.partial { color: var(--orange); font-weight: 700; font-size: 0.875rem; }
+.no-check { color: var(--red); font-size: 0.875rem; opacity: 0.7; }
+
+/* ========== FAQ ========== */
+.faq { padding: var(--section-pad) 1.5rem; padding-bottom: clamp(1rem, 2vw, 1.5rem); background: var(--bg-deep); }
+.faq-cta-divider {
+  height: 1px; max-width: var(--container); margin: 0 auto;
+  background: linear-gradient(90deg, transparent 0%, var(--border-glow) 30%, var(--cyan-glow) 50%, var(--border-glow) 70%, transparent 100%);
+}
+.faq-list { margin-top: 2rem; max-width: 800px; }
+.faq-item {
+  border: 1px solid var(--border); border-radius: 14px;
+  margin-bottom: 0.75rem; background: var(--bg-glass);
+  backdrop-filter: blur(10px); overflow: hidden;
+  transition: border-color 300ms;
+}
+.faq-item:hover { border-color: var(--border-glow); box-shadow: 0 4px 30px rgba(41, 98, 255, 0.06); }
+.faq-question {
+  width: 100%; display: flex; align-items: center; justify-content: space-between;
+  gap: 1rem; padding: 1.125rem 1.5rem; background: none; border: none;
+  font-family: 'Space Grotesk', sans-serif; font-size: 0.9375rem;
+  font-weight: 600; color: var(--text-primary);
+  text-align: left; cursor: pointer; transition: color 200ms;
+}
+.faq-question:hover { color: var(--blue-bright); }
+.faq-question:focus { outline: 2px solid var(--blue); outline-offset: -2px; border-radius: 14px; }
+.faq-chevron {
+  width: 20px; height: 20px; flex-shrink: 0; color: var(--text-muted);
+  transition: transform 300ms, color 300ms;
+}
+.faq-item.open .faq-chevron { transform: rotate(180deg); color: var(--blue-bright); }
+.faq-answer { max-height: 0; overflow: hidden; transition: max-height 400ms cubic-bezier(0.16, 1, 0.3, 1); }
+.faq-answer-inner { padding: 0 1.5rem 1.25rem; font-size: 0.9375rem; color: var(--text-secondary); line-height: 1.75; }
+.faq-item.open .faq-answer { max-height: 400px; }
+
+/* ========== FINAL CTA ========== */
+.final-cta {
+  padding: clamp(1.5rem, 3vw, 2.5rem) 1.5rem clamp(3.5rem, 6vw, 5rem);
+  position: relative; overflow: hidden;
+  background: var(--bg-deep);
+}
+.final-cta::before {
+  content: ''; position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse 80% 80% at 20% 50%, rgba(41, 98, 255, 0.12) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 60% at 80% 50%, rgba(0, 229, 255, 0.06) 0%, transparent 60%);
+  pointer-events: none;
+}
+.final-cta-inner {
+  max-width: var(--container); margin: 0 auto;
+  display: grid; gap: 2.5rem; align-items: start;
+  position: relative; z-index: 1;
+}
+.final-cta h2 {
+  font-size: clamp(1.625rem, 3.5vw, 2.5rem); font-weight: 700;
+  color: var(--white); line-height: 1.15; letter-spacing: -0.02em;
+}
+.final-cta p { font-size: 1rem; color: var(--text-secondary); margin-top: 0.75rem; max-width: 480px; line-height: 1.7; }
+.final-cta-bullets { list-style: none; margin-top: 1.25rem; display: flex; flex-direction: column; gap: 0.625rem; }
+.final-cta-bullets li { display: flex; align-items: center; gap: 0.625rem; font-size: 0.9375rem; color: var(--text-primary); }
+.final-cta-bullets li svg { width: 16px; height: 16px; color: var(--green); flex-shrink: 0; }
+
+/* ========== FOOTER ========== */
+.footer {
+  background: var(--bg-deep); padding: 2rem 1.5rem; text-align: center;
+  border-top: 1px solid var(--border);
+}
+.footer p { font-size: 0.75rem; color: var(--text-muted); line-height: 1.8; }
+.footer a { color: var(--text-secondary); text-decoration: underline; transition: color 200ms; }
+.footer a:hover { color: var(--blue-bright); }
+
+/* ========== RESPONSIVE ========== */
+@media (min-width: 640px) {
+  .stats-grid { grid-template-columns: repeat(4, 1fr); }
+  .cap-grid { grid-template-columns: repeat(2, 1fr); }
+  .testimonial-grid { grid-template-columns: repeat(2, 1fr); }
+  .integration-grid { grid-template-columns: repeat(3, 1fr); }
+  .industry-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (min-width: 768px) {
+  .header-phone { display: flex; }
+  .hero-inner { grid-template-columns: 1fr 400px; align-items: center; gap: 3rem; }
+  .ps-grid { grid-template-columns: 1fr 1fr; }
+  .steps-grid { grid-template-columns: repeat(2, 1fr); }
+  .final-cta-inner { grid-template-columns: 1fr 400px; align-items: start; }
+}
+@media (min-width: 1024px) {
+  .hero-inner { grid-template-columns: 1fr 440px; }
+  .cap-grid { grid-template-columns: repeat(2, 1fr); }
+  .steps-grid { grid-template-columns: repeat(4, 1fr); }
+  .final-cta-inner { grid-template-columns: 1fr 440px; }
+}
+/* ========== BEFORE/AFTER SLIDER ========== */
+.ps-slider-wrap { position: relative; margin-top: 2.5rem; border-radius: 20px; overflow: hidden; border: 1px solid var(--border); }
+.ps-slider-inner { display: grid; grid-template-columns: 1fr 1fr; min-height: 380px; }
+.ps-slide { padding: 2rem; position: relative; }
+.ps-slide.before-side { background: rgba(255, 82, 82, 0.03); }
+.ps-slide.after-side { background: rgba(0, 230, 118, 0.03); }
+.ps-slide h3 { display: flex; align-items: center; gap: 0.625rem; font-size: 1.0625rem; font-weight: 700; color: var(--white); margin-bottom: 1.25rem; }
+.ps-divider {
+  position: absolute; top: 0; bottom: 0; left: 50%; width: 3px; z-index: 10;
+  background: linear-gradient(180deg, var(--red), var(--green));
+  cursor: col-resize; transform: translateX(-50%);
+}
+.ps-divider-handle {
+  position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+  width: 40px; height: 40px; border-radius: 50%;
+  background: var(--bg-primary); border: 2px solid var(--blue-bright);
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 0 20px var(--blue-glow);
+  cursor: col-resize; z-index: 11;
+}
+.ps-divider-handle svg { width: 18px; height: 18px; color: var(--blue-bright); }
+@media (max-width: 639px) {
+  .ps-slider-inner { grid-template-columns: 1fr; }
+  .ps-divider, .ps-divider-handle { display: none; }
+}
+
+/* ========== ROI CALCULATOR ========== */
+.roi-calculator { padding: var(--section-pad) 1.5rem; background: var(--bg-primary); position: relative; overflow: hidden; }
+.roi-calculator::before {
+  content: ''; position: absolute; inset: 0;
+  background: radial-gradient(ellipse 60% 60% at 30% 50%, rgba(41, 98, 255, 0.06) 0%, transparent 60%),
+              radial-gradient(ellipse 40% 40% at 70% 50%, rgba(0, 229, 255, 0.04) 0%, transparent 60%);
+  pointer-events: none;
+}
+.roi-inner { max-width: var(--container); margin: 0 auto; position: relative; z-index: 1; }
+.roi-grid { display: grid; gap: 2.5rem; margin-top: 2.5rem; }
+.roi-inputs {
+  display: flex; flex-direction: column; gap: 1.125rem;
+  background: var(--bg-glass); border: 1px solid var(--border); border-radius: 20px;
+  padding: 2rem; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+  position: relative; overflow: hidden;
+}
+.roi-inputs::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+  background: linear-gradient(90deg, var(--cyan), var(--blue), var(--purple));
+}
+.roi-inputs-title { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--blue-bright); margin-bottom: 0.25rem; }
+.roi-inputs-footer { margin-top: auto; padding-top: 1.25rem; border-top: 1px solid var(--border); display: flex; align-items: center; gap: 1rem; }
+.roi-inputs-footer-badge {
+  width: 44px; height: 44px; border-radius: 10px; flex-shrink: 0;
+  background: rgba(41, 98, 255, 0.08); border: 1px solid rgba(41, 98, 255, 0.15);
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Space Grotesk', sans-serif; font-size: 0.6875rem; font-weight: 700; color: var(--blue-bright);
+}
+.roi-inputs-footer-text { font-size: 0.75rem; color: var(--text-muted); line-height: 1.4; }
+.roi-inputs-footer-text strong { color: var(--text-secondary); font-weight: 600; }
+.roi-field label { display: block; font-size: 0.8125rem; font-weight: 600; color: var(--text-secondary); margin-bottom: 0.25rem; }
+.roi-field input[type="range"] {
+  width: 100%; height: 6px; -webkit-appearance: none; appearance: none;
+  background: var(--border); border-radius: 3px; outline: none;
+  background-image: linear-gradient(var(--blue), var(--blue));
+  background-repeat: no-repeat;
+}
+.roi-field input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none; width: 20px; height: 20px; border-radius: 50%;
+  background: var(--blue); border: 3px solid var(--bg-primary);
+  box-shadow: 0 0 10px var(--blue-glow); cursor: pointer;
+  transition: box-shadow 200ms;
+}
+.roi-field input[type="range"]::-webkit-slider-thumb:hover {
+  box-shadow: 0 0 18px var(--blue-glow), 0 0 30px rgba(41, 98, 255, 0.2);
+}
+.roi-field input[type="range"]::-moz-range-thumb {
+  width: 20px; height: 20px; border-radius: 50%;
+  background: var(--blue); border: 3px solid var(--bg-primary);
+  box-shadow: 0 0 10px var(--blue-glow); cursor: pointer;
+}
+.roi-field-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.375rem; }
+.roi-field-value {
+  font-family: 'Space Grotesk', sans-serif; font-size: 1rem; font-weight: 700;
+  color: var(--cyan); min-width: 60px; text-align: right;
+}
+.roi-results {
+  background: var(--bg-glass); border: 1px solid var(--border); border-radius: 20px;
+  padding: 2rem; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+  position: relative; overflow: hidden;
+}
+.roi-results::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+  background: linear-gradient(90deg, var(--blue), var(--cyan), var(--purple));
+}
+.roi-results-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; }
+.roi-results h3 { font-size: 1.125rem; font-weight: 700; color: var(--white); margin: 0; }
+.roi-total-hero { text-align: right; }
+.roi-total-hero .roi-total-number {
+  font-family: 'Space Grotesk', sans-serif; font-size: 2.25rem; font-weight: 700; line-height: 1;
+  background: linear-gradient(135deg, var(--green) 0%, var(--cyan) 100%);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+}
+.roi-total-hero .roi-total-sub { font-size: 0.6875rem; color: var(--text-muted); margin-top: 0.125rem; }
+.roi-chart-row { display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1.25rem; }
+.roi-donut { flex-shrink: 0; }
+.roi-donut svg { display: block; filter: drop-shadow(0 0 8px rgba(41, 98, 255, 0.15)); }
+.roi-donut circle { transition: stroke-dasharray 600ms cubic-bezier(0.16, 1, 0.3, 1); }
+.roi-legend { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem 1rem; flex: 1; }
+.roi-legend-item { display: flex; align-items: center; gap: 0.375rem; }
+.roi-legend-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.roi-legend-text { font-size: 0.6875rem; color: var(--text-secondary); line-height: 1.2; }
+.roi-metrics-list { display: flex; flex-direction: column; }
+.roi-metric { display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 0; border-bottom: 1px solid var(--border); }
+.roi-metric:last-child { border-bottom: none; }
+.roi-metric-label { font-size: 0.8125rem; color: var(--text-secondary); display: flex; align-items: center; gap: 0.5rem; }
+.roi-metric-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.roi-metric-value {
+  font-family: 'Space Grotesk', sans-serif; font-size: 1.375rem; font-weight: 700;
+  background: linear-gradient(135deg, var(--blue-bright) 0%, var(--cyan) 100%);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+}
+.roi-cta { margin-top: 1.25rem; text-align: center; }
+.roi-note { font-size: 0.6875rem; color: var(--text-muted); text-align: center; margin-top: 0.75rem; font-style: italic; }
+
+@media (min-width: 768px) {
+  .roi-grid { grid-template-columns: 1fr 1fr; align-items: stretch; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0ms !important; animation-duration: 0ms !important; }
+  html { scroll-behavior: auto; }
+  .reveal { opacity: 1; transform: none; }
+}
+</style>
+</head>
+<body>
+<div class="scroll-progress" id="scroll-progress"></div>
+
+<!-- ===== HEADER ===== -->
+<header class="header">
+  <a href="https://kibocommerce.com" class="logo" aria-label="Kibo Commerce home">
+    <span class="logo-mark">K</span>
+    <span class="logo-text">KIBO</span>
+  </a>
+  <div class="header-right">
+    <a href="tel:+18775504088" class="header-phone" aria-label="Call sales">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+      (877) 550-4088
+    </a>
+    <a href="#demo-form" class="header-cta">Get a Demo</a>
+  </div>
+</header>
+
+<!-- ===== 1. HERO ===== -->
+<section class="hero">
+  <div class="hero-inner">
+    <div>
+      <div class="hero-eyebrow">Forrester Wave Leader &bull; OMS 2025</div>
+
+      <h1>The Unified B2B<br>Commerce Platform<br><span class="gradient-text">From Quote to Cash</span></h1>
+
+      <p class="hero-sub">Kibo is the only B2B commerce software that natively combines ecommerce, order management, and AI on a single shared data model. No middleware. No batch syncing. One platform for the entire order lifecycle.</p>
+
+      <ul class="hero-checks">
+        <li><span class="check-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Unified commerce + order management on one data model</li>
+        <li><span class="check-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Contract pricing, POs, quotes, approval workflows built in</li>
+        <li><span class="check-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Headless, composable MACH architecture — live in weeks</li>
+        <li><span class="check-icon"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="3" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></span>Self-service portals for dealers, distributors, and trade</li>
+      </ul>
+
+      <div class="hero-metrics">
+        <div><div class="hero-metric-value" data-target="296" data-suffix="%">296%</div><div class="hero-metric-label">Revenue increase<br>Ace Hardware</div></div>
+        <div><div class="hero-metric-value" data-target="167" data-suffix="%">167%</div><div class="hero-metric-label">ROI in 3 years<br>Forrester TEI</div></div>
+        <div><div class="hero-metric-value">&lt;6 mo</div><div class="hero-metric-label">Payback period<br>Forrester TEI</div></div>
+      </div>
+    </div>
+
+    <!-- FORM -->
+    <div class="form-card" id="demo-form">
+      <p class="form-title">See Kibo in Action</p>
+      <p class="form-subtitle">Get a personalized demo for your B2B business</p>
+      <form action="https://kibocommerce.com/speak-with-an-expert/" method="GET" id="lead-form">
+        <div class="form-row">
+          <div class="form-group"><label class="form-label" for="firstName">First Name</label><input class="form-input" type="text" id="firstName" name="firstName" placeholder="Jane" required autocomplete="given-name"></div>
+          <div class="form-group"><label class="form-label" for="lastName">Last Name</label><input class="form-input" type="text" id="lastName" name="lastName" placeholder="Smith" required autocomplete="family-name"></div>
+        </div>
+        <div class="form-group"><label class="form-label" for="email">Work Email</label><input class="form-input" type="email" id="email" name="email" placeholder="jane@company.com" required autocomplete="email"></div>
+        <div class="form-group"><label class="form-label" for="company">Company</label><input class="form-input" type="text" id="company" name="company" placeholder="Your company" required autocomplete="organization"></div>
+        <div class="form-group"><label class="form-label" for="interest">Primary Interest</label>
+          <select class="form-select" id="interest" name="interest" required>
+            <option value="" disabled selected>Select one</option>
+            <option value="b2b-commerce">B2B Commerce Platform</option>
+            <option value="order-management">Order Management (OMS)</option>
+            <option value="inventory">Inventory &amp; Fulfillment</option>
+            <option value="wholesale">Wholesale / Distribution</option>
+            <option value="manufacturing">Manufacturing Commerce</option>
+            <option value="buyer-portal">Self-Service Buyer Portal</option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+        <button type="submit" class="form-submit">Request Your Demo</button>
+        <p class="form-privacy">By submitting, you agree to Kibo's <a href="https://kibocommerce.com/data-privacy-policy/">Privacy Policy</a>.</p>
+        <div class="form-trust">
+          <span class="form-trust-item"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>No credit card</span>
+          <span class="form-trust-item"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>30-min demo</span>
+          <span class="form-trust-item"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Custom use case</span>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 2. TRUST BAR ===== -->
+<div class="trust-bar reveal">
+  <p class="trust-bar-label">Trusted by enterprise brands worldwide</p>
+  <div class="trust-logos">
+    <span class="trust-logo">Ace Hardware</span><span class="trust-logo">Total Wine</span><span class="trust-logo">Marks &amp; Spencer</span><span class="trust-logo">Wolters Kluwer</span><span class="trust-logo">Yamaha</span><span class="trust-logo">Fortis Life Sciences</span><span class="trust-logo">Pearson VUE</span><span class="trust-logo">Zwilling</span><span class="trust-logo">Toshiba</span><span class="trust-logo">5.11 Tactical</span>
+  </div>
+</div>
+
+<!-- ===== 3. ANALYST STRIP ===== -->
+<div class="analyst-strip reveal">
+  <div class="analyst-inner">
+    <div class="analyst-item"><div class="analyst-icon">F</div><div class="analyst-title">Forrester Wave Leader</div><div class="analyst-sub">Order Management, Q1 2025</div></div>
+    <div class="analyst-item"><div class="analyst-icon">G</div><div class="analyst-title">Gartner Recognized</div><div class="analyst-sub">Digital Commerce</div></div>
+    <div class="analyst-item"><div class="analyst-icon">G2</div><div class="analyst-title">G2 High Performer</div><div class="analyst-sub">Enterprise OMS, 2025</div></div>
+    <div class="analyst-item"><div class="analyst-icon">IDC</div><div class="analyst-title">IDC MarketScape</div><div class="analyst-sub">B2B Digital Commerce</div></div>
+  </div>
+</div>
+
+<!-- ===== 4. PROBLEM / SOLUTION ===== -->
+<section class="problem-solution">
+  <div class="container">
+    <div class="text-center reveal">
+      <p class="section-label">Why B2B Teams Switch to Kibo</p>
+      <h2 class="section-title" style="max-width:700px;margin:0 auto;">The Multi-Vendor Commerce Stack Is <span class="gradient-text">Broken</span></h2>
+      <p class="section-desc centered">Most B2B companies run a patchwork of 3-5 platforms for commerce, OMS, inventory, and portals. The result: data silos, delayed orders, and frustrated buyers.</p>
+    </div>
+    <!-- Before/After Interactive Slider -->
+    <div class="ps-slider-wrap reveal">
+      <div class="ps-slider-inner" id="ps-slider">
+        <div class="ps-slide before-side">
+          <h3><span class="ps-badge problem">Without Kibo</span> The Patchwork Problem</h3>
+          <ul class="ps-list problem-list">
+            <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>Separate systems for commerce, OMS, and inventory with batch syncing</li>
+            <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>Price discrepancies between the portal and ERP</li>
+            <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>Inventory counts stale by hours — oversells and split shipments</li>
+            <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>Buyers call in for order status because the portal can't show it</li>
+            <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>6-12 month implementations to add one new channel</li>
+          </ul>
+        </div>
+        <div class="ps-slide after-side">
+          <h3><span class="ps-badge solution">With Kibo</span> One Unified Platform</h3>
+          <ul class="ps-list solution-list">
+            <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Commerce + OMS + Inventory on a single data model — real-time sync</li>
+            <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Contract pricing applied consistently across every channel</li>
+            <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Real-time ATP/CTP inventory across DCs, stores, and vendors</li>
+            <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Full self-service: order status, reorders, invoices, returns</li>
+            <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Modular deployment — go live in 8-12 weeks, expand incrementally</li>
+          </ul>
+        </div>
+      </div>
+      <div class="ps-divider" id="ps-divider">
+        <div class="ps-divider-handle"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="8 4 4 8 8 12"/><polyline points="16 4 20 8 16 12"/></svg></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 5. CAPABILITIES BENTO ===== -->
+<section class="capabilities">
+  <div class="container">
+    <div class="text-center reveal">
+      <p class="section-label">Platform Capabilities</p>
+      <h2 class="section-title" style="max-width:900px;margin:0 auto;">Everything Enterprise B2B Commerce <span class="gradient-text">Demands</span></h2>
+      <p class="section-desc centered">12 native modules. Zero middleware. Explore what's included.</p>
+    </div>
+    <div class="cap-filters reveal">
+      <button class="cap-filter-btn active" onclick="filterCaps('all')">All (12)</button>
+      <button class="cap-filter-btn" onclick="filterCaps('commerce')">Commerce</button>
+      <button class="cap-filter-btn" onclick="filterCaps('oms')">OMS &amp; Fulfillment</button>
+      <button class="cap-filter-btn" onclick="filterCaps('platform')">Platform &amp; AI</button>
+    </div>
+    <div class="cap-grid reveal" id="cap-grid">
+      <div class="cap-card" data-cat="commerce"><div class="cap-icon blue"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg></div><div class="cap-card-content"><h3>Contract &amp; Account Pricing</h3><p>Account-specific price lists, volume tiers, negotiated contracts, and multi-currency support — managed centrally.</p></div></div>
+      <div class="cap-card" data-cat="commerce"><div class="cap-icon green"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div><div class="cap-card-content"><h3>Self-Service Buyer Portals</h3><p>Account hierarchies, role-based access, PO/invoice management, quick reorder, and approval workflows.</p></div></div>
+      <div class="cap-card" data-cat="commerce"><div class="cap-icon teal"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18"/></svg></div><div class="cap-card-content"><h3>Quote-to-Order Workflows</h3><p>Buyers request quotes, reps respond, approvers sign off, orders flow through — no spreadsheets.</p></div></div>
+      <div class="cap-card" data-cat="commerce"><div class="cap-icon orange"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div><div class="cap-card-content"><h3>Catalog &amp; Price Management</h3><p>Centralized product information, variant management, B2B-specific attributes, and tiered pricing.</p></div></div>
+      <div class="cap-card" data-cat="commerce"><div class="cap-icon green"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="1" y="3" width="15" height="13" rx="2"/><path d="M16 8h4a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-4"/></svg></div><div class="cap-card-content"><h3>Multi-Channel Commerce</h3><p>One backend for web, mobile, EDI, marketplace, sales rep, and CSR channels.</p></div></div>
+      <div class="cap-card" data-cat="oms"><div class="cap-icon purple"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg></div><div class="cap-card-content"><h3>Real-Time Inventory Visibility</h3><p>Network-wide inventory from DCs, stores, vendors, and 3PLs. ATP and CTP calculations.</p></div></div>
+      <div class="cap-card" data-cat="oms"><div class="cap-icon orange"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg></div><div class="cap-card-content"><h3>Intelligent Order Routing</h3><p>Rules-based order sourcing across your entire fulfillment network. Minimize split shipments.</p></div></div>
+      <div class="cap-card" data-cat="oms"><div class="cap-icon purple"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg></div><div class="cap-card-content"><h3>Returns &amp; Reverse Logistics</h3><p>RMA workflows, automated return authorization, refund processing, and restocking logic.</p></div></div>
+      <div class="cap-card" data-cat="oms"><div class="cap-icon teal"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M17 3a2.83 2.83 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg></div><div class="cap-card-content"><h3>Subscriptions &amp; Recurring Orders</h3><p>Scheduled orders, subscription management, and recurring billing for B2B buyers.</p></div></div>
+      <div class="cap-card" data-cat="platform"><div class="cap-icon navy"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg></div><div class="cap-card-content"><h3>Headless &amp; MACH Architecture</h3><p>API-first, microservices-based, cloud-native. Use any frontend, deploy incrementally.</p></div></div>
+      <div class="cap-card" data-cat="platform"><div class="cap-icon blue"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg></div><div class="cap-card-content"><h3>AI-Powered Search &amp; Commerce</h3><p>Semantic product search, automated routing, demand forecasting, and personalization.</p></div></div>
+      <div class="cap-card" data-cat="platform"><div class="cap-icon navy"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/></svg></div><div class="cap-card-content"><h3>Analytics &amp; Business Intelligence</h3><p>Real-time dashboards, order analytics, and channel-level reporting — no ETL required.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 6. PLATFORM ARCHITECTURE ===== -->
+<section class="platform-visual">
+  <div class="container">
+    <div class="text-center reveal">
+      <p class="section-label">Platform Architecture</p>
+      <h2 class="section-title" style="max-width:900px;margin:0 auto;">One Shared Data Model. <span class="gradient-text">No Middleware.</span></h2>
+      <p class="section-desc centered">Commerce, OMS, and inventory on a single data layer — data flows in real time, not in nightly batches.</p>
+    </div>
+    <div class="platform-diagram reveal">
+      <div class="platform-layers">
+        <div class="platform-layer"><div class="platform-layer-label"><span class="dot dot-blue"></span> Experience Layer (Headless)</div><div class="platform-layer-items"><span class="platform-tag">Web Storefront</span><span class="platform-tag">Mobile App</span><span class="platform-tag">Buyer Portal</span><span class="platform-tag">Sales Rep Portal</span><span class="platform-tag">EDI / Punchout</span><span class="platform-tag">Marketplace</span></div></div>
+        <div class="platform-connector"><span class="line"></span></div>
+        <div class="platform-layer platform-center"><div class="platform-layer-label"><span class="dot dot-green"></span> Kibo Unified Platform (Shared Data Model)</div><div class="platform-layer-items"><span class="platform-tag">B2B Commerce</span><span class="platform-tag">Order Management</span><span class="platform-tag">Inventory Visibility</span><span class="platform-tag">AI Search</span><span class="platform-tag">Catalog &amp; Pricing</span><span class="platform-tag">Fulfillment Routing</span><span class="platform-tag">Subscriptions</span><span class="platform-tag">Returns / RMA</span></div></div>
+        <div class="platform-connector"><span class="line"></span></div>
+        <div class="platform-layer"><div class="platform-layer-label"><span class="dot dot-purple"></span> Connect Hub (Pre-Built Integrations)</div><div class="platform-layer-items"><span class="platform-tag">SAP</span><span class="platform-tag">Oracle</span><span class="platform-tag">NetSuite</span><span class="platform-tag">Microsoft Dynamics</span><span class="platform-tag">WMS / 3PL</span><span class="platform-tag">Payment Gateways</span><span class="platform-tag">Tax Engines</span><span class="platform-tag">PIM Systems</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 7. HOW IT WORKS ===== -->
+<section class="how-it-works">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-label">How It Works</p>
+      <h2 class="section-title">From First Search to Final Delivery — <span class="gradient-text">In Four Steps</span></h2>
+      <p class="section-desc">Kibo handles every step of the buyer journey on a single platform. No middleware glue, no patchwork integrations.</p>
+    </div>
+    <div class="steps-grid">
+      <div class="step-card reveal"><div class="step-num">1</div><h3>Discover &amp; Configure</h3><p>Buyers search your catalog with AI-powered semantic search. Account-specific catalogs show only authorized products at contracted prices.</p><div class="step-features"><span class="step-feature-tag">AI Search</span><span class="step-feature-tag">Custom Catalogs</span><span class="step-feature-tag">Product Kits</span></div></div>
+      <div class="step-card reveal reveal-delay-1"><div class="step-num">2</div><h3>Quote, Price &amp; Approve</h3><p>Contract pricing, volume tiers, and negotiated quotes flow through multi-level approval workflows. POs, net terms, trade credit — built in.</p><div class="step-features"><span class="step-feature-tag">Contract Pricing</span><span class="step-feature-tag">Quote-to-Order</span><span class="step-feature-tag">Approval Chains</span></div></div>
+      <div class="step-card reveal reveal-delay-2"><div class="step-num">3</div><h3>Route &amp; Fulfill</h3><p>Intelligent order routing finds the optimal fulfillment source across DCs, stores, and dropship vendors. Real-time inventory ensures accurate promises.</p><div class="step-features"><span class="step-feature-tag">Order Routing</span><span class="step-feature-tag">ATP/CTP</span><span class="step-feature-tag">Split Ship Logic</span></div></div>
+      <div class="step-card reveal reveal-delay-3"><div class="step-num">4</div><h3>Self-Serve &amp; Reorder</h3><p>Buyers track orders, manage returns, download invoices, and reorder with one click — all from their self-service portal.</p><div class="step-features"><span class="step-feature-tag">Buyer Portal</span><span class="step-feature-tag">Returns/RMA</span><span class="step-feature-tag">Quick Reorder</span></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 8. MID CTA ===== -->
+<div class="mid-cta reveal">
+  <h2>See How Kibo Simplifies B2B Commerce</h2>
+  <p>Join enterprise brands like Ace Hardware, Total Wine, and Wolters Kluwer who chose Kibo to unify their commerce operations.</p>
+  <a href="#demo-form" class="btn-glow">Request a Demo <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
+</div>
+
+<!-- ===== 9. INDUSTRIES ===== -->
+<section class="industries">
+  <div class="container">
+    <div class="text-center reveal">
+      <p class="section-label">Industries We Serve</p>
+      <h2 class="section-title" style="max-width:700px;margin:0 auto;">Built for B2B Complexity <span class="gradient-text">Across Verticals</span></h2>
+      <p class="section-desc centered">Kibo's B2B commerce platform is proven across manufacturing, wholesale distribution, multi-brand enterprises, and hybrid B2B/B2C.</p>
+    </div>
+    <div class="industry-grid">
+      <div class="industry-card reveal"><h3>Manufacturing</h3><p>Enable direct-to-dealer and direct-to-customer selling with configurable products, contract pricing by account, and integrated order management.</p><div class="industry-features"><span class="industry-tag">D2D Commerce</span><span class="industry-tag">Configure-Price-Quote</span><span class="industry-tag">Dealer Portals</span><span class="industry-tag">BOM Integration</span></div></div>
+      <div class="industry-card reveal reveal-delay-1"><h3>Wholesale Distribution</h3><p>Run your wholesale business on a single platform — from catalog and pricing to fulfillment and returns. Real-time inventory across warehouses.</p><div class="industry-features"><span class="industry-tag">Wholesale Portals</span><span class="industry-tag">Volume Pricing</span><span class="industry-tag">Multi-Warehouse</span><span class="industry-tag">VMI</span></div></div>
+      <div class="industry-card reveal reveal-delay-2"><h3>Multi-Brand Enterprise</h3><p>Manage multiple brands, storefronts, and market segments from a single commerce and OMS backend. Shared infrastructure, brand-specific experiences.</p><div class="industry-features"><span class="industry-tag">Multi-Site</span><span class="industry-tag">Shared Inventory</span><span class="industry-tag">Brand-Specific UX</span><span class="industry-tag">Unified Analytics</span></div></div>
+      <div class="industry-card reveal reveal-delay-3"><h3>Hybrid B2B + B2C</h3><p>Sell to businesses and consumers from the same platform. One catalog, one inventory pool, one OMS — with channel-specific pricing and experiences.</p><div class="industry-features"><span class="industry-tag">B2B + DTC</span><span class="industry-tag">Channel Pricing</span><span class="industry-tag">Unified OMS</span><span class="industry-tag">Omnichannel</span></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 10. TESTIMONIALS ===== -->
+<section class="testimonials">
+  <div class="container">
+    <div class="text-center reveal">
+      <p class="section-label">Customer Success</p>
+      <h2 class="section-title" style="max-width:700px;margin:0 auto;">Enterprise Brands Trust Kibo to Power <span class="gradient-text">B2B Commerce</span></h2>
+    </div>
+    <div class="testimonial-grid">
+      <div class="testimonial-card reveal"><div class="testimonial-quote-mark">"</div><p class="testimonial-text">KIBO's ability to define complex data on the back end and customize cleanly was a real advantage. The unified platform eliminated the integration headaches we had with our previous stack.</p><div class="testimonial-attribution"><div class="testimonial-avatar">FL</div><div><div class="testimonial-name">VP of Digital</div><div class="testimonial-role">Fortis Life Sciences</div></div></div><div class="testimonial-stat"><span class="testimonial-stat-num">67%</span><span class="testimonial-stat-label">reduction in returns</span></div></div>
+      <div class="testimonial-card reveal reveal-delay-1"><div class="testimonial-quote-mark">"</div><p class="testimonial-text">Kibo's unified approach to commerce and order management gave us real-time visibility across every channel. We increased digital revenue 296% while reducing operational complexity.</p><div class="testimonial-attribution"><div class="testimonial-avatar">AH</div><div><div class="testimonial-name">Director of Ecommerce</div><div class="testimonial-role">Ace Hardware</div></div></div><div class="testimonial-stat"><span class="testimonial-stat-num">296%</span><span class="testimonial-stat-label">digital revenue increase</span></div></div>
+      <div class="testimonial-card reveal reveal-delay-2"><div class="testimonial-quote-mark">"</div><p class="testimonial-text">We needed a platform that could handle B2B and B2C from a single backend. Kibo was the only vendor that delivered unified commerce and order management natively.</p><div class="testimonial-attribution"><div class="testimonial-avatar">TW</div><div><div class="testimonial-name">SVP of Technology</div><div class="testimonial-role">Enterprise Retail Brand</div></div></div><div class="testimonial-stat"><span class="testimonial-stat-num">&lt;6 mo</span><span class="testimonial-stat-label">payback period</span></div></div>
+      <div class="testimonial-card reveal reveal-delay-3"><div class="testimonial-quote-mark">"</div><p class="testimonial-text">The Forrester TEI study confirmed what we experienced: Kibo delivered 167% ROI in under three years. The unified data model was the key.</p><div class="testimonial-attribution"><div class="testimonial-avatar">WK</div><div><div class="testimonial-name">Head of Digital Commerce</div><div class="testimonial-role">Wolters Kluwer</div></div></div><div class="testimonial-stat"><span class="testimonial-stat-num">167%</span><span class="testimonial-stat-label">ROI per Forrester TEI</span></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 11. STATS BANNER ===== -->
+<div class="stats-banner reveal">
+  <div class="stats-grid">
+    <div class="stat-item"><div class="stat-num" data-target="296" data-suffix="%">0%</div><div class="stat-label">Digital Revenue Increase</div><div class="stat-source">Ace Hardware</div></div>
+    <div class="stat-item"><div class="stat-num" data-target="167" data-suffix="%">0%</div><div class="stat-label">3-Year ROI</div><div class="stat-source">Forrester TEI Study</div></div>
+    <div class="stat-item"><div class="stat-num">&lt;6 mo</div><div class="stat-label">Payback Period</div><div class="stat-source">Forrester TEI Study</div></div>
+    <div class="stat-item"><div class="stat-num" data-target="67" data-suffix="%">0%</div><div class="stat-label">Fewer Returns</div><div class="stat-source">Fortis Life Sciences</div></div>
+  </div>
+</div>
+
+<!-- ===== 11.5 ROI CALCULATOR ===== -->
+<section class="roi-calculator">
+  <div class="roi-inner">
+    <div class="text-center reveal">
+      <p class="section-label">ROI Estimator</p>
+      <h2 class="section-title" style="max-width:700px;margin:0 auto;">Calculate Your <span class="gradient-text">Savings with Kibo</span></h2>
+      <p class="section-desc centered">Estimate the impact of unifying your commerce and order management on a single platform.</p>
+    </div>
+    <div class="roi-grid">
+      <div class="roi-inputs reveal">
+        <p class="roi-inputs-title">Tell us about your business</p>
+        <div class="roi-field">
+          <div class="roi-field-header">
+            <label for="roi-revenue">Annual Digital Revenue</label>
+            <span class="roi-field-value" id="roi-revenue-val">$10M</span>
+          </div>
+          <input type="range" id="roi-revenue" min="1" max="100" value="10" step="1">
+        </div>
+        <div class="roi-field">
+          <div class="roi-field-header">
+            <label for="roi-orders">Monthly Order Volume</label>
+            <span class="roi-field-value" id="roi-orders-val">5,000</span>
+          </div>
+          <input type="range" id="roi-orders" min="500" max="100000" value="5000" step="500">
+        </div>
+        <div class="roi-field">
+          <div class="roi-field-header">
+            <label for="roi-skus">Number of SKUs</label>
+            <span class="roi-field-value" id="roi-skus-val">2,000</span>
+          </div>
+          <input type="range" id="roi-skus" min="100" max="50000" value="2000" step="100">
+        </div>
+        <div class="roi-field">
+          <div class="roi-field-header">
+            <label for="roi-channels">Sales Channels</label>
+            <span class="roi-field-value" id="roi-channels-val">3</span>
+          </div>
+          <input type="range" id="roi-channels" min="1" max="10" value="3" step="1">
+        </div>
+        <div class="roi-field">
+          <div class="roi-field-header">
+            <label for="roi-systems">Current Vendor Systems</label>
+            <span class="roi-field-value" id="roi-systems-val">4</span>
+          </div>
+          <input type="range" id="roi-systems" min="1" max="8" value="4" step="1">
+        </div>
+        <div class="roi-inputs-footer">
+          <div class="roi-inputs-footer-badge">TEI</div>
+          <div class="roi-inputs-footer-text"><strong>Methodology:</strong> Savings model based on the Forrester Total Economic Impact study of Kibo Commerce, commissioned 2024.</div>
+        </div>
+      </div>
+      <div class="roi-results reveal reveal-delay-1">
+        <div class="roi-results-header">
+          <h3>Estimated Annual Impact</h3>
+          <div class="roi-total-hero">
+            <div class="roi-total-number" id="roi-total">$1.1M</div>
+            <div class="roi-total-sub">total savings / year</div>
+          </div>
+        </div>
+        <div class="roi-chart-row">
+          <div class="roi-donut">
+            <svg width="120" height="120" viewBox="0 0 120 120" id="roi-donut-svg">
+              <circle cx="60" cy="60" r="48" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="14"/>
+              <circle id="donut-seg4" cx="60" cy="60" r="48" fill="none" stroke="#B388FF" stroke-width="14" stroke-dasharray="0 301.6" stroke-dashoffset="-75.4" stroke-linecap="round" transform="rotate(-90 60 60)"/>
+              <circle id="donut-seg3" cx="60" cy="60" r="48" fill="none" stroke="#00E5FF" stroke-width="14" stroke-dasharray="0 301.6" stroke-dashoffset="-75.4" stroke-linecap="round" transform="rotate(-90 60 60)"/>
+              <circle id="donut-seg2" cx="60" cy="60" r="48" fill="none" stroke="#448AFF" stroke-width="14" stroke-dasharray="0 301.6" stroke-dashoffset="-75.4" stroke-linecap="round" transform="rotate(-90 60 60)"/>
+              <circle id="donut-seg1" cx="60" cy="60" r="48" fill="none" stroke="#00E676" stroke-width="14" stroke-dasharray="0 301.6" stroke-dashoffset="-75.4" stroke-linecap="round" transform="rotate(-90 60 60)"/>
+            </svg>
+          </div>
+          <div class="roi-legend">
+            <div class="roi-legend-item"><span class="roi-legend-dot" style="background:#00E676;"></span><span class="roi-legend-text">Revenue Uplift</span></div>
+            <div class="roi-legend-item"><span class="roi-legend-dot" style="background:#448AFF;"></span><span class="roi-legend-text">Operational Efficiency</span></div>
+            <div class="roi-legend-item"><span class="roi-legend-dot" style="background:#00E5FF;"></span><span class="roi-legend-text">Middleware Savings</span></div>
+            <div class="roi-legend-item"><span class="roi-legend-dot" style="background:#B388FF;"></span><span class="roi-legend-text">Ad Spend Efficiency</span></div>
+          </div>
+        </div>
+        <div class="roi-metrics-list">
+          <div class="roi-metric"><span class="roi-metric-label"><span class="roi-metric-dot" style="background:#00E676;"></span>Revenue Uplift</span><span class="roi-metric-value" id="roi-uplift">$500K</span></div>
+          <div class="roi-metric"><span class="roi-metric-label"><span class="roi-metric-dot" style="background:#448AFF;"></span>Operational Efficiency</span><span class="roi-metric-value" id="roi-ops">$250K</span></div>
+          <div class="roi-metric"><span class="roi-metric-label"><span class="roi-metric-dot" style="background:#00E5FF;"></span>Middleware Elimination</span><span class="roi-metric-value" id="roi-middleware">$180K</span></div>
+          <div class="roi-metric"><span class="roi-metric-label"><span class="roi-metric-dot" style="background:#B388FF;"></span>Ad Spend Efficiency Gains</span><span class="roi-metric-value" id="roi-cpc">$120K</span></div>
+        </div>
+        <div class="roi-cta"><a href="#demo-form" class="btn-glow" style="width:100%;justify-content:center;">Get a Custom ROI Analysis <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></div>
+        <p class="roi-note">Estimates based on Forrester TEI study averages. Actual results vary by implementation.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 12. INTEGRATIONS ===== -->
+<section class="integrations">
+  <div class="container">
+    <div class="text-center reveal">
+      <p class="section-label">Integrations &amp; Connect Hub</p>
+      <h2 class="section-title" style="max-width:700px;margin:0 auto;">Connects to Your <span class="gradient-text">Existing Tech Stack</span></h2>
+      <p class="section-desc centered">Pre-built connectors and open APIs — no custom middleware required.</p>
+    </div>
+    <div class="integration-grid">
+      <div class="integration-card reveal"><h3>ERP Systems</h3><p>Pre-built connectors for real-time data sync with your ERP.</p><div class="integration-logos"><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">SAP</a><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">Oracle</a><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">NetSuite</a><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">Dynamics 365</a></div></div>
+      <div class="integration-card reveal reveal-delay-1"><h3>Fulfillment &amp; Logistics</h3><p>Connect WMS, 3PL providers, and shipping carriers seamlessly.</p><div class="integration-logos"><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">WMS</a><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">3PL Providers</a><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">Shipping APIs</a><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">Dropship</a></div></div>
+      <div class="integration-card reveal reveal-delay-2"><h3>Payments &amp; Tax</h3><p>Flexible payment orchestration and tax engine integrations.</p><div class="integration-logos"><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">Stripe</a><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">PayPal</a><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">Avalara</a><a class="integration-logo-tag" href="https://kibocommerce.com/integrations/" target="_blank" rel="noopener">Vertex</a></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 13. COMPARISON TABLE ===== -->
+<section class="comparison">
+  <div class="container">
+    <div class="text-center reveal">
+      <p class="section-label">Platform Comparison</p>
+      <h2 class="section-title" style="max-width:700px;margin:0 auto;">Why B2B Teams Choose <span class="gradient-text">Kibo</span></h2>
+      <p class="section-desc centered">See how Kibo's unified approach compares to patchwork multi-vendor stacks and pure-play commerce platforms.</p>
+    </div>
+    <div class="comparison-table reveal">
+      <table>
+        <thead><tr><th>Capability</th><th>Kibo Commerce</th><th>Multi-Vendor Stack</th><th>Pure-Play Commerce</th></tr></thead>
+        <tbody>
+          <tr><td>Unified Commerce + OMS</td><td><span class="check">&#10003;</span> Native</td><td><span class="partial">~</span> Bolted on</td><td><span class="no-check">&#10007;</span> Requires 3rd party</td></tr>
+          <tr><td>Single Data Model</td><td><span class="check">&#10003;</span> One shared model</td><td><span class="no-check">&#10007;</span> Separate systems</td><td><span class="no-check">&#10007;</span> Commerce-only</td></tr>
+          <tr><td>Real-Time Inventory (ATP/CTP)</td><td><span class="check">&#10003;</span> Built in</td><td><span class="partial">~</span> Via middleware</td><td><span class="no-check">&#10007;</span> Requires integration</td></tr>
+          <tr><td>Contract &amp; Account Pricing</td><td><span class="check">&#10003;</span> Comprehensive</td><td><span class="partial">~</span> Varies by vendor</td><td><span class="partial">~</span> Basic</td></tr>
+          <tr><td>Intelligent Order Routing</td><td><span class="check">&#10003;</span> Rules-based</td><td><span class="partial">~</span> OMS-dependent</td><td><span class="no-check">&#10007;</span> Not available</td></tr>
+          <tr><td>Headless / MACH Architecture</td><td><span class="check">&#10003;</span> API-first</td><td><span class="partial">~</span> Partial</td><td><span class="check">&#10003;</span> Yes</td></tr>
+          <tr><td>Time to First Value</td><td>8-12 weeks</td><td>6-12 months</td><td>3-6 months</td></tr>
+          <tr><td>Total Cost of Ownership</td><td>Lower (1 vendor)</td><td>Higher (3-5 vendors)</td><td>Medium + integration</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 14. FAQ ===== -->
+<section class="faq">
+  <div class="container">
+    <div class="reveal">
+      <p class="section-label">Frequently Asked Questions</p>
+      <h2 class="section-title">Common Questions About Kibo's B2B Platform</h2>
+    </div>
+    <div class="faq-list">
+      <div class="faq-item reveal"><button class="faq-question" aria-expanded="false" onclick="toggleFaq(this)">What makes Kibo different from other B2B ecommerce platforms?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-answer"><p class="faq-answer-inner">Kibo is the only platform that unifies Commerce and Order Management on a single shared data model. This eliminates the middleware, batch syncing, and data silos that plague multi-vendor stacks. You get real-time inventory visibility, intelligent order routing, contract pricing, and self-service buyer portals — all natively integrated.</p></div></div>
+      <div class="faq-item reveal"><button class="faq-question" aria-expanded="false" onclick="toggleFaq(this)">Can Kibo handle complex B2B pricing like contract pricing and volume tiers?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-answer"><p class="faq-answer-inner">Yes. Kibo supports contract-based pricing, account-specific price lists, tiered and volume discounts, quote-to-order workflows, and automated multi-level approval chains. All pricing rules are managed centrally and applied consistently across every sales channel.</p></div></div>
+      <div class="faq-item reveal"><button class="faq-question" aria-expanded="false" onclick="toggleFaq(this)">How long does it take to implement Kibo's B2B commerce platform?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-answer"><p class="faq-answer-inner">Most enterprise customers go live with their first module in 8-12 weeks, then expand incrementally. Because everything runs on the same data model, adding modules doesn't require re-platforming.</p></div></div>
+      <div class="faq-item reveal"><button class="faq-question" aria-expanded="false" onclick="toggleFaq(this)">Does Kibo integrate with SAP, Oracle, NetSuite, and other ERPs?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-answer"><p class="faq-answer-inner">Yes. Kibo's Connect Hub provides pre-built connectors for major ERPs including SAP, Oracle, NetSuite, and Microsoft Dynamics. All integrations use open REST APIs, and support EDI, cXML, and OCI punchout.</p></div></div>
+      <div class="faq-item reveal"><button class="faq-question" aria-expanded="false" onclick="toggleFaq(this)">What industries does Kibo serve for B2B commerce?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-answer"><p class="faq-answer-inner">Kibo serves manufacturers, wholesale distributors, multi-brand enterprises, and hybrid B2B/B2C organizations across industrial manufacturing, food &amp; beverage, auto parts, building materials, life sciences, and apparel.</p></div></div>
+      <div class="faq-item reveal"><button class="faq-question" aria-expanded="false" onclick="toggleFaq(this)">Is Kibo a headless commerce platform?<svg class="faq-chevron" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></button><div class="faq-answer"><p class="faq-answer-inner">Yes. Kibo is fully headless and API-first, built on MACH principles. Use any frontend framework, integrate with any CMS, and compose your tech stack with best-of-breed tools.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<div class="faq-cta-divider"></div>
+
+<!-- ===== 15. FINAL CTA ===== -->
+<section class="final-cta">
+  <div class="final-cta-inner">
+    <div class="reveal">
+      <h2>Ready to Unify Your B2B Commerce <span class="gradient-text">Operations?</span></h2>
+      <p>See how Kibo can eliminate middleware, reduce TCO, and give your B2B buyers the self-service experience they expect.</p>
+      <ul class="final-cta-bullets">
+        <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Personalized demo tailored to your industry</li>
+        <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>See real customer implementations and results</li>
+        <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>Get a custom TCO comparison vs your current stack</li>
+        <li><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg>No commitment — just clarity on what's possible</li>
+      </ul>
+    </div>
+    <div class="form-card reveal" id="bottom-form">
+      <p class="form-title">Get Your Personalized Demo</p>
+      <p class="form-subtitle">See Kibo configured for your B2B use case</p>
+      <form action="https://kibocommerce.com/speak-with-an-expert/" method="GET">
+        <div class="form-row">
+          <div class="form-group"><label class="form-label" for="firstName2">First Name</label><input class="form-input" type="text" id="firstName2" name="firstName" placeholder="Jane" required autocomplete="given-name"></div>
+          <div class="form-group"><label class="form-label" for="lastName2">Last Name</label><input class="form-input" type="text" id="lastName2" name="lastName" placeholder="Smith" required autocomplete="family-name"></div>
+        </div>
+        <div class="form-group"><label class="form-label" for="email2">Work Email</label><input class="form-input" type="email" id="email2" name="email" placeholder="jane@company.com" required autocomplete="email"></div>
+        <div class="form-group"><label class="form-label" for="company2">Company</label><input class="form-input" type="text" id="company2" name="company" placeholder="Your company" required autocomplete="organization"></div>
+        <button type="submit" class="form-submit">Request a Demo</button>
+        <p class="form-privacy">By submitting, you agree to Kibo's <a href="https://kibocommerce.com/data-privacy-policy/">Privacy Policy</a>.</p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer class="footer">
+  <p>&copy; 2026 Kibo Commerce, Inc. All rights reserved. &nbsp;|&nbsp; <a href="https://kibocommerce.com/data-privacy-policy/">Privacy Policy</a> &nbsp;|&nbsp; <a href="https://kibocommerce.com/trust-center/">Trust Center</a> &nbsp;|&nbsp; <a href="https://kibocommerce.com/website-accessibility-statement/">Accessibility</a></p>
+</footer>
+
+<!-- ===== JS: SCROLL REVEAL + ANIMATED COUNTERS ===== -->
+<script>
+// Capabilities filter
+function filterCaps(cat) {
+  var cards = document.querySelectorAll('#cap-grid .cap-card');
+  var btns = document.querySelectorAll('.cap-filter-btn');
+  btns.forEach(function(b) { b.classList.remove('active'); });
+  event.currentTarget.classList.add('active');
+  var visible = [];
+  cards.forEach(function(c) {
+    c.classList.remove('cap-span-full');
+    if (cat === 'all' || c.getAttribute('data-cat') === cat) {
+      c.classList.remove('cap-hidden');
+      visible.push(c);
+    } else {
+      c.classList.add('cap-hidden');
+    }
+  });
+  if (visible.length % 2 === 1) {
+    visible[visible.length - 1].classList.add('cap-span-full');
+  }
+}
+
+// FAQ toggle
+function toggleFaq(btn) {
+  var item = btn.closest('.faq-item');
+  var isOpen = item.classList.contains('open');
+  document.querySelectorAll('.faq-item').forEach(function(el) {
+    el.classList.remove('open');
+    el.querySelector('.faq-question').setAttribute('aria-expanded', 'false');
+  });
+  if (!isOpen) { item.classList.add('open'); btn.setAttribute('aria-expanded', 'true'); }
+}
+
+// Scroll reveal via Intersection Observer
+(function() {
+  var els = document.querySelectorAll('.reveal');
+  if (!('IntersectionObserver' in window)) {
+    els.forEach(function(el) { el.classList.add('visible'); });
+    return;
+  }
+  var obs = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        obs.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+  els.forEach(function(el) { obs.observe(el); });
+})();
+
+// Animated number counters
+(function() {
+  var counters = document.querySelectorAll('[data-target]');
+  if (!counters.length) return;
+  var animated = new Set();
+  var obs = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting && !animated.has(entry.target)) {
+        animated.add(entry.target);
+        var el = entry.target;
+        var target = parseInt(el.getAttribute('data-target'), 10);
+        var suffix = el.getAttribute('data-suffix') || '';
+        var duration = 1500;
+        var start = performance.now();
+        function update(now) {
+          var progress = Math.min((now - start) / duration, 1);
+          var ease = 1 - Math.pow(1 - progress, 3);
+          el.textContent = Math.round(target * ease) + suffix;
+          if (progress < 1) requestAnimationFrame(update);
+        }
+        requestAnimationFrame(update);
+      }
+    });
+  }, { threshold: 0.3 });
+  counters.forEach(function(el) { obs.observe(el); });
+})();
+
+// Enhancement 5: Kinetic typography — hero H1 responds to mouse movement
+(function() {
+  var hero = document.querySelector('.hero');
+  var h1 = hero ? hero.querySelector('h1') : null;
+  if (!h1 || !hero || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  hero.addEventListener('mousemove', function(e) {
+    var rect = hero.getBoundingClientRect();
+    var x = (e.clientX - rect.left) / rect.width - 0.5;
+    var y = (e.clientY - rect.top) / rect.height - 0.5;
+    h1.style.transform = 'translate(' + (x * 8) + 'px, ' + (y * 5) + 'px)';
+  });
+  hero.addEventListener('mouseleave', function() {
+    h1.style.transform = 'translate(0, 0)';
+  });
+})();
+
+// Enhancement 6: Before/After draggable slider
+(function() {
+  var wrap = document.querySelector('.ps-slider-wrap');
+  var divider = document.getElementById('ps-divider');
+  var handle = divider ? divider.querySelector('.ps-divider-handle') : null;
+  if (!wrap || !divider || !handle) return;
+  var dragging = false;
+  function move(clientX) {
+    var rect = wrap.getBoundingClientRect();
+    var pct = Math.max(20, Math.min(80, ((clientX - rect.left) / rect.width) * 100));
+    divider.style.left = pct + '%';
+    var inner = wrap.querySelector('.ps-slider-inner');
+    if (inner) inner.style.gridTemplateColumns = pct + '% ' + (100 - pct) + '%';
+  }
+  handle.addEventListener('mousedown', function(e) { dragging = true; e.preventDefault(); });
+  handle.addEventListener('touchstart', function(e) { dragging = true; }, { passive: true });
+  document.addEventListener('mousemove', function(e) { if (dragging) move(e.clientX); });
+  document.addEventListener('touchmove', function(e) { if (dragging) move(e.touches[0].clientX); });
+  document.addEventListener('mouseup', function() { dragging = false; });
+  document.addEventListener('touchend', function() { dragging = false; });
+})();
+
+// Enhancement 7: ROI Calculator (5 inputs + donut chart)
+(function() {
+  var revSlider = document.getElementById('roi-revenue');
+  var ordSlider = document.getElementById('roi-orders');
+  var skuSlider = document.getElementById('roi-skus');
+  var chSlider = document.getElementById('roi-channels');
+  var sysSlider = document.getElementById('roi-systems');
+  if (!revSlider || !chSlider || !sysSlider || !ordSlider || !skuSlider) return;
+
+  var CIRC = 2 * Math.PI * 48; // ~301.6
+
+  function fmt(n) {
+    if (n >= 1000000) return '$' + (n / 1000000).toFixed(n % 1000000 === 0 ? 0 : 1) + 'M';
+    return '$' + Math.round(n / 1000) + 'K';
+  }
+  function fmtNum(n) {
+    return n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+  }
+  function updateSliderBg(el) {
+    var pct = ((el.value - el.min) / (el.max - el.min)) * 100;
+    el.style.backgroundSize = pct + '% 100%';
+  }
+  function updateDonut(values, total) {
+    // values = [uplift, ops, middleware, cpc] — same order as segments 1-4
+    var seg1 = document.getElementById('donut-seg1');
+    var seg2 = document.getElementById('donut-seg2');
+    var seg3 = document.getElementById('donut-seg3');
+    var seg4 = document.getElementById('donut-seg4');
+    if (!seg1) return;
+    var segs = [seg1, seg2, seg3, seg4];
+    var offset = 0;
+    for (var i = 0; i < 4; i++) {
+      var pct = total > 0 ? values[i] / total : 0.25;
+      var len = pct * CIRC;
+      var gap = CIRC - len;
+      segs[i].setAttribute('stroke-dasharray', len.toFixed(1) + ' ' + gap.toFixed(1));
+      segs[i].setAttribute('stroke-dashoffset', (-offset).toFixed(1));
+      offset += len;
+    }
+  }
+  function calc() {
+    var rev = parseInt(revSlider.value) * 1000000;
+    var orders = parseInt(ordSlider.value);
+    var skus = parseInt(skuSlider.value);
+    var ch = parseInt(chSlider.value);
+    var sys = parseInt(sysSlider.value);
+
+    // Update display values
+    document.getElementById('roi-revenue-val').textContent = '$' + revSlider.value + 'M';
+    document.getElementById('roi-orders-val').textContent = fmtNum(orders);
+    document.getElementById('roi-skus-val').textContent = fmtNum(skus);
+    document.getElementById('roi-channels-val').textContent = ch;
+    document.getElementById('roi-systems-val').textContent = sys;
+
+    // Calculations factor in order volume and SKU complexity
+    var skuFactor = Math.min(skus / 2000, 2.5);   // complexity multiplier
+    var orderFactor = Math.min(orders / 5000, 3);   // volume multiplier
+
+    var cpc = rev * 0.01 * (sys / 4) * Math.max(skuFactor, 0.5);
+    var middleware = sys * 45000 * (1 + (skuFactor - 1) * 0.3);
+    var ops = rev * 0.02 * (ch / 3) * Math.max(orderFactor, 0.5);
+    var uplift = rev * 0.04 * (ch / 3) * Math.max(orderFactor * 0.6, 0.5);
+    var total = cpc + middleware + ops + uplift;
+
+    document.getElementById('roi-cpc').textContent = fmt(cpc);
+    document.getElementById('roi-middleware').textContent = fmt(middleware);
+    document.getElementById('roi-ops').textContent = fmt(ops);
+    document.getElementById('roi-uplift').textContent = fmt(uplift);
+    document.getElementById('roi-total').textContent = fmt(total);
+
+    updateDonut([uplift, ops, middleware, cpc], total);
+
+    updateSliderBg(revSlider);
+    updateSliderBg(ordSlider);
+    updateSliderBg(skuSlider);
+    updateSliderBg(chSlider);
+    updateSliderBg(sysSlider);
+  }
+  revSlider.addEventListener('input', calc);
+  ordSlider.addEventListener('input', calc);
+  skuSlider.addEventListener('input', calc);
+  chSlider.addEventListener('input', calc);
+  sysSlider.addEventListener('input', calc);
+  calc();
+})();
+
+// Scroll progress bar
+(function() {
+  var bar = document.getElementById('scroll-progress');
+  if (!bar) return;
+  var ticking = false;
+  window.addEventListener('scroll', function() {
+    if (!ticking) {
+      requestAnimationFrame(function() {
+        var h = document.documentElement.scrollHeight - window.innerHeight;
+        bar.style.width = (h > 0 ? (window.scrollY / h) * 100 : 0) + '%';
+        ticking = false;
+      });
+      ticking = true;
+    }
+  }, { passive: true });
+})();
+
+// Parallax depth effect on section headings
+(function() {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var sections = document.querySelectorAll('.section-title');
+  var ticking = false;
+  window.addEventListener('scroll', function() {
+    if (!ticking) {
+      requestAnimationFrame(function() {
+        var scrollY = window.scrollY;
+        sections.forEach(function(el) {
+          var rect = el.getBoundingClientRect();
+          var center = rect.top + rect.height / 2;
+          var viewH = window.innerHeight;
+          if (center > -200 && center < viewH + 200) {
+            var offset = (center - viewH / 2) * 0.03;
+            el.style.transform = 'translateY(' + offset + 'px)';
+          }
+        });
+        ticking = false;
+      });
+      ticking = true;
+    }
+  }, { passive: true });
+})();
+
+// Header glow intensification on scroll
+(function() {
+  var header = document.querySelector('.header');
+  if (!header) return;
+  var ticking = false;
+  window.addEventListener('scroll', function() {
+    if (!ticking) {
+      requestAnimationFrame(function() {
+        var opacity = Math.min(window.scrollY / 300, 1);
+        header.style.background = 'rgba(5, 10, 24, ' + (0.8 + opacity * 0.15) + ')';
+        header.style.borderBottomColor = 'rgba(41, 98, 255, ' + (0.06 + opacity * 0.12) + ')';
+        ticking = false;
+      });
+      ticking = true;
+    }
+  }, { passive: true });
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,3 @@
+search_term,status,campaign_id,campaign_name,ad_group_id,ad_group_name,keyword_text,match_type,impressions,clicks,cost,conversions,conversion_value,ctr,cpc,is_brand_term,issue_type,priority,recommendation
+k i b o,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False,NONBRAND_IN_BRAND,MEDIUM,Add [k i b o] as PHRASE negative to Search - Brand campaign
+k i b o,NONE,19534321347,Search - Brand,143748213014,Kibo,kibo ecommerce platform,EXACT,1,0,0.0,0.0,0.0,0.0,0,False,NONBRAND_IN_BRAND,MEDIUM,Add [k i b o] as PHRASE negative to Search - Brand campaign

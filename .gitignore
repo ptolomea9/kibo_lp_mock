@@ -1,0 +1,22 @@
+# Screenshots and debug images
+*.png
+*.jpg
+*.jpeg
+
+# Credentials
+client_secret_*.json
+*.credentials.json
+
+# Windows artifacts
+nul
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.vscode/
+.idea/

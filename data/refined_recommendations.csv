@@ -1,0 +1,29 @@
+priority,search_term,current_ad_group,expected_ad_group,clicks,cost,conversions,reason,action
+REVIEW,b2b ecommerce,NB - General B2B,B2B EComm,12,564.44,1.0,"Expected B2B EComm, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to B2B EComm
+REVIEW,wholesale order management system,NB - Wholesalers,OMS,1,211.38,0.0,"Expected OMS, but in NB - Wholesalers",Consider adding to NB - Wholesalers negative list to route to OMS
+REVIEW,distributed order management systems,NB - Distributors,OMS,1,177.89,0.0,"Expected OMS, but in NB - Distributors",Consider adding to NB - Distributors negative list to route to OMS
+REVIEW,vendor managed inventory software,NB - Wholesalers,OMS,1,145.62,0.0,"Expected OMS, but in NB - Wholesalers",Consider adding to NB - Wholesalers negative list to route to OMS
+REVIEW,b2b online marketplaces,NB - Wholesalers,NB - General B2B,1,125.24,0.0,"Expected NB - General B2B, but in NB - Wholesalers",Consider adding to NB - Wholesalers negative list to route to NB - General B2B
+REVIEW,b2b ecommerce platforms,NB - General B2B,B2B EComm,1,113.12,0.0,"Expected B2B EComm, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to B2B EComm
+REVIEW,wholesale order management,NB - Wholesalers,OMS,1,112.24,0.0,"Expected OMS, but in NB - Wholesalers",Consider adding to NB - Wholesalers negative list to route to OMS
+REVIEW,wholesale business management software,OMS,NB - Wholesalers,1,99.42,0.0,"Expected NB - Wholesalers, but in OMS",Consider adding to OMS negative list to route to NB - Wholesalers
+REVIEW,unified commerce platform,NB - General B2B,B2B Other Keywords,2,95.8,0.0,"Expected B2B Other Keywords, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to B2B Other Keywords
+REVIEW,wholesale inventory management software,NB - Wholesalers,OMS,1,91.3,0.0,"Expected OMS, but in NB - Wholesalers",Consider adding to NB - Wholesalers negative list to route to OMS
+REVIEW,b2b ecommerce services,NB - General B2B,B2B EComm,1,78.55,0.0,"Expected B2B EComm, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to B2B EComm
+REVIEW,b2b ecommerce world,NB - General B2B,B2B EComm,1,78.5,0.0,"Expected B2B EComm, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to B2B EComm
+REVIEW,multi location warehouse management,NB - General B2B,OMS,1,72.31,0.0,"Expected OMS, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to OMS
+REVIEW,b2b ordering system,OMS,NB - General B2B,1,70.49,0.0,"Expected NB - General B2B, but in OMS",Consider adding to OMS negative list to route to NB - General B2B
+REVIEW,b2b ecommerce solutions,NB - General B2B,B2B EComm,1,68.74,0.0,"Expected B2B EComm, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to B2B EComm
+REVIEW,unified commerce,NB - General B2B,B2B Other Keywords,1,61.4,0.0,"Expected B2B Other Keywords, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to B2B Other Keywords
+REVIEW,b2b ecommerce,NB - General B2B,B2B EComm,1,56.75,0.0,"Expected B2B EComm, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to B2B EComm
+REVIEW,inventory management multiple locations,NB - General B2B,OMS,1,54.25,0.0,"Expected OMS, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to OMS
+REVIEW,top 10 b2b ecommerce platforms,NB - General B2B,B2B EComm,1,53.91,0.0,"Expected B2B EComm, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to B2B EComm
+REVIEW,top b2b wholesale websites,NB - General B2B,NB - Wholesalers,2,44.97,0.0,"Expected NB - Wholesalers, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to NB - Wholesalers
+REVIEW,vendor management inventory system,NB - Wholesalers,OMS,1,43.0,0.0,"Expected OMS, but in NB - Wholesalers",Consider adding to NB - Wholesalers negative list to route to OMS
+REVIEW,vendor owned inventory management,NB - Wholesalers,OMS,1,38.4,0.0,"Expected OMS, but in NB - Wholesalers",Consider adding to NB - Wholesalers negative list to route to OMS
+REVIEW,b2b oms,NB - Manufacturers,OMS,1,36.23,0.0,"Expected OMS, but in NB - Manufacturers",Consider adding to NB - Manufacturers negative list to route to OMS
+REVIEW,b2b online ordering system,OMS,NB - General B2B,1,33.13,0.0,"Expected NB - General B2B, but in OMS",Consider adding to OMS negative list to route to NB - General B2B
+REVIEW,b2b ordering platform,OMS,NB - General B2B,1,32.18,0.0,"Expected NB - General B2B, but in OMS",Consider adding to OMS negative list to route to NB - General B2B
+REVIEW,b2b ecommerce,NB - General B2B,B2B EComm,1,25.62,0.0,"Expected B2B EComm, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to B2B EComm
+REVIEW,b2b wholesale marketplace,NB - General B2B,NB - Wholesalers,1,16.8,0.0,"Expected NB - Wholesalers, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to NB - Wholesalers
+REVIEW,top b2b ecommerce platforms,NB - General B2B,B2B EComm,1,13.88,0.0,"Expected B2B EComm, but in NB - General B2B",Consider adding to NB - General B2B negative list to route to B2B EComm
