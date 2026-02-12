@@ -71,9 +71,13 @@ li strong{color:#0B1B3F}
 
 /* Print */
 @media print{
-  .page{max-width:100%;padding:1rem}
-  .callout,.two-col,.proj-row{break-inside:avoid}
-  table{font-size:.72rem}
+  .page{max-width:100%;padding:.75rem 1rem}
+  .section{margin-bottom:1.5rem}
+  .callout,.two-col,.proj-row,.col-card{break-inside:avoid}
+  table{font-size:.72rem;break-inside:avoid}
+  h2{break-after:avoid}
+  .section-label{break-after:avoid}
+  .page-break-before{break-before:page}
 }
 @media(max-width:640px){
   .page{padding:1.5rem 1rem 2rem}
@@ -112,7 +116,7 @@ li strong{color:#0B1B3F}
 </div>
 
 <!-- 2. What We Built -->
-<div class="section">
+<div class="section page-break-before">
   <div class="section-label">The Solution</div>
   <h2>A Purpose-Built PPC Landing Page for B2B Commerce</h2>
   <p>We built a dedicated landing page for the B2B Commerce keyword cluster &mdash; the largest keyword group in the campaign (~20 keywords, 5,000+ impressions). Here's what changed versus the existing best PPC page (<code>/ppc/wholesale/</code>):</p>
@@ -179,14 +183,6 @@ li strong{color:#0B1B3F}
     <strong>What a QS jump from 3 to 6 means:</strong> ~20% lower CPCs at the same ad position. For a campaign spending $10K/month, that's $2K/month in savings &mdash; or the same budget buying 25% more clicks. If it works here, we replicate the template for OMS, Wholesale, and Inventory clusters.
   </div>
 
-  <div class="section-label" style="margin-top:1.25rem">Next Steps</div>
-  <ol>
-    <li><strong>Review the live mock</strong> &mdash; the page preview accompanies this document</li>
-    <li><strong>Approve brand &amp; content</strong> &mdash; messaging, testimonials, visual direction</li>
-    <li><strong>Deploy to kibocommerce.com</strong> &mdash; QS requires same domain as the ad display URL</li>
-    <li><strong>Connect HubSpot + analytics</strong> &mdash; real forms, GTM, GA4, conversion tracking</li>
-    <li><strong>Point keywords &amp; monitor</strong> &mdash; update Final URLs; expect 2&ndash;4 weeks for Google to reassess</li>
-  </ol>
 </div>
 
 <!-- Footer -->
