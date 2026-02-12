@@ -71,13 +71,17 @@ li strong{color:#0B1B3F}
 
 /* Print */
 @media print{
-  .page{max-width:100%;padding:.75rem 1rem}
-  .section{margin-bottom:1.5rem}
+  .page{max-width:100%;padding:.5rem .75rem}
+  .doc-header{padding-bottom:1rem;margin-bottom:1.5rem}
+  .section{margin-bottom:1.25rem}
+  .stat-strip{margin:.75rem 0 1rem}
+  .callout{margin:.75rem 0;padding:.7rem .85rem}
+  .two-col{margin:.5rem 0}
+  .proj-row{margin:.75rem 0}
   .callout,.two-col,.proj-row,.col-card{break-inside:avoid}
   table{font-size:.72rem;break-inside:avoid}
   h2{break-after:avoid}
   .section-label{break-after:avoid}
-  .page-break-before{break-before:page}
 }
 @media(max-width:640px){
   .page{padding:1.5rem 1rem 2rem}
@@ -116,7 +120,7 @@ li strong{color:#0B1B3F}
 </div>
 
 <!-- 2. What We Built -->
-<div class="section page-break-before">
+<div class="section">
   <div class="section-label">The Solution</div>
   <h2>A Purpose-Built PPC Landing Page for B2B Commerce</h2>
   <p>We built a dedicated landing page for the B2B Commerce keyword cluster &mdash; the largest keyword group in the campaign (~20 keywords, 5,000+ impressions). Here's what changed versus the existing best PPC page (<code>/ppc/wholesale/</code>):</p>
